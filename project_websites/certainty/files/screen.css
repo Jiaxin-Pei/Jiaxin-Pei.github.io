@@ -78,4 +78,18 @@ a:hover{color:#933;text-decoration:underline}
   background-color: #428bca;
 }
 
+#small-caps {
+  font-variant-caps: small-caps;
+}  
 
+#all-small-caps {
+  font-variant-caps: all-small-caps;
+}  
+
+#petite-caps {
+  font-variant-caps: petite-caps;
+}  
+
+#all-petite-caps {
+  font-variant-caps: all-petite-caps;
+}  
