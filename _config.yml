@@ -75,13 +75,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-WDSC235N90"
 
 
 # Site Author
 author:
   name             : "Jiaxin Pei"
-  avatar           : "jiaxin_pei_profile_white.jpg"
+  avatar           : "https://github.com/Jiaxin-Pei/Jiaxin-Pei.github.io/blob/master/jiaxin_pei_profile_white.jpg"
   bio              : "Postdoctoral Fellow at Stanford University"
   location         : "Stanford, CA"
   employer         :

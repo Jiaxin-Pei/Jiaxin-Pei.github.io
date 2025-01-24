@@ -5,15 +5,6 @@ permalink: /experiences/
 author_profile: true
 ---
 
----
-## Education
-* **University of Michigan**, Ann Arbor, MI (2019.09 - 2024.12)
-  * Ph.D. in Information Science
-  * Advisor: Prof. David Jurgens
-
-* **Wuhan University**, Wuhan, China (2015.09 - 2019.06)
-  * B.S. in Computer Science
-
 ## Industry
 
 * **Bloomberg AI**, New York (May 2023 ~ Aug 2023)
@@ -49,7 +40,7 @@ author_profile: true
 ## Service
 
 * [**ACL Professional Conduct Committee**](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) (2018 ~ 2023)
-  * Volunteer
+  * Member
 
 * **Area Chair**
   * ACL Rolling Review
