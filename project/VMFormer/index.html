@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="VMFormer: End-to-End Video Matting with Transformer.">
+  <meta name="keywords" content="Video Matting, Transformer">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VMFormer: End-to-End Video Matting with Transformer</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">VMFormer: End-to-End Video Matting with Transformer</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://chrisjuniorli.github.io/">Jiachen Li</a><sup>1,3</sup>,</span>
+            <span class="author-block">
+              <a href="https://vidit98.github.io/">Vidit Goel</a><sup>3</sup>,</span>
+            <span class="author-block">
+              Marianna Ohanyan<sup>3</sup>,
+            </span>
+            <span class="author-block">
+              Shant Navasardyan<sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://weiyc.github.io/">Yunchao Wei</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.humphreyshi.com/">Humphrey Shi</a><sup>1,3</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>SHI Lab @ University of Oregon &amp UIUC,</span>
+            <span class="author-block"><sup>2</sup>BJTU</span>
+            <span class="author-block"><sup>3</sup>Picsart AI Research (PAIR)</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2208.12801"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2208.12801"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/SHI-Labs/VMFormer"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column has-text-centered">
+        <video autoplay="" muted="" loop="" playsinline="" height="100%">
+          <source src="static/images/video_teaser_cut.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+    <h2 class="subtitle has-text-centered">
+      An overview of the VMFormer
+    </h2>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Video matting aims to predict the alpha mattes for each frame from a given input video sequence. 
+            Recent solutions to video matting have been dominated by deep convolutional neural networks (CNN) 
+            for the past few years, which has become the de-facto standard for both academia and industry.
+            However, they have inbuilt inductive bias of locality and do not capture global characteristics of an image 
+            due to the CNN-based architectures. They also lack long range temporal modeling considering computational costs 
+            when dealing with feature maps of multiple frames. In this paper, we propose <b>VMFormer</b>: a transformer-based 
+            end-to-end method for video matting. It makes predictions on alpha mattes of each frame from learnable queries given 
+            a video input sequence. Specifically, it leverages self-attention layers to build global integration of feature sequences
+            with short-range temporal modeling on successive frames. We further apply queries to learn global representations 
+            through cross-attention in the transformer decoder with long-range temporal modeling upon all queries. 
+            In the prediction stage, both queries and corresponding feature maps are used to make the final prediction of alpha matte. 
+            Experiments show that VMFormer outperforms previous CNN-based video matting methods on the composited benchmarks. 
+            To our best knowledge, it is the first end-to-end video matting solution built upon a full vision transformer with 
+            predictions on the learnable queries.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <!-- Interpolating. -->
+        <h3 class="title is-4">VMFormer Network</h3>
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <img src="static/images/fig2_arxiv.png" width="90%">
+          </div>
+        </div>
+        <div class="content has-text-justified">
+          <p>
+            VMFormer contains two separate paths for modeling of features and queries: a) The feature
+            modeling path contains a CNN-based backbone network to extract feature pyramids and a transformer encoder integrates feature sequences
+            globally with short-range feature-based temporal modeling (SFTM). b) The query modeling path has a transformer decoder for queries
+            to learn global representations of feature sequences and long-range query-based temporal modeling (LQTM) are built upon all queries.
+            The final alpha mattes predictions based on matrix multiplication between queries and feature maps. LayerNorm, residual connection and
+            repeated blocks are omitted for simplicity.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <!-- Interpolating. -->
+        <h3 class="title is-4">Visualization</h3>
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <img src="static/images/fig3_arxiv.png" width="90%">
+          </div>
+        </div>
+        <div class="columns is-centered">
+          Visualization of alpha matte predictions from MODNet, RVM and VMFormer under challenging frames from the composited
+          test set. VMFormer shows better ability to distinguish ambiguous foreground from background regions as shown in the magnified image patches.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            Web template is from  <a
+              href="https://github.com/nerfies/nerfies.github.io">nerfies</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
