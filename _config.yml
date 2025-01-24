@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiaxin Pei"
-  avatar           : "https://github.com/Jiaxin-Pei/Jiaxin-Pei.github.io/blob/master/jiaxin_pei_profile_white.jpg"
+  avatar           : 
   bio              : "Postdoctoral Fellow at Stanford University"
   location         : "Stanford, CA"
   employer         :
