@@ -46,7 +46,7 @@ author_profile: true
   <br> Media Coverage: [The Markup](https://themarkup.org/hello-world/2024/01/06/what-happens-when-you-roleplay-with-chatgpt)
 
 * <b>Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark</b> <br>
-  *<b>Jiaxin Pei</b>, *Minje Choi, Sagar Kumar, Chang Shu and David Jurgens (*Equal Contributions)
+  <b>\*Jiaxin Pei</b>, *Minje Choi, Sagar Kumar, Chang Shu and David Jurgens (\*Equal Contributions)
   <br> The 2023 Conference on Empirical Methods on Natural Language Processing (EMNLP'23)
   <br> [Paper](https://arxiv.org/abs/2305.14938) | [Dataset](https://huggingface.co/datasets/Blablablab/SOCKET) | [Github](https://github.com/minjechoi/SOCKET)
 
@@ -62,7 +62,7 @@ author_profile: true
   <br> Media Coverage: [Michigan News](https://news.umich.edu/building-reliable-ai-models-requires-understanding-the-people-behind-the-datasets/) | [Prolific](https://www.prolific.com/resources/key-takeaways-from-our-study-on-bias-in-ai-annotations) | [Digit News](https://www.digit.fyi/study-ai-bias-influenced-by-demographics-of-moderators/) | [Today Headline](https://todayheadline.co/building-reliable-ai-models-requires-understanding-the-people-behind-the-datasets/)
 
 * <b>Exploring Linguistic Style Matching in Online Communities: The Role of Social Context and Conversation Dynamics</b> <br>
-  *Aparna Ananthasubramaniam, *Hong Chen, *Jason Yan, *Kenan Alkiek, *<b>Jiaxin Pei</b>, *Agrima Seth, *Lavinia Dunagan, *Minje Choi, *Benjamin Litterer and David Jurgens (*Equal Contributions)
+  \*Aparna Ananthasubramaniam, *Hong Chen, *Jason Yan, *Kenan Alkiek, *<b>Jiaxin Pei</b>, *Agrima Seth, *Lavinia Dunagan, *Minje Choi, *Benjamin Litterer and David Jurgens (*Equal Contributions)
   <br> The 1st Workshop on Social Influence in Conversations (SICon) @ACL
   <br> Best Paper Award🏆
   <br> [Paper](https://arxiv.org/pdf/2307.02758.pdf) | [Github](https://github.com/davidjurgens/style-influence)
@@ -79,7 +79,7 @@ author_profile: true
   <br> [Paper](https://arxiv.org/abs/2212.08620) | [Github](https://github.com/davidjurgens/potato) | [Website](https://potato-annotation-tutorial.readthedocs.io/en/latest/)
 
 * <b>Modeling Information Change in Science Communication with Semantically Matched Paraphrases</b> <br>
-  *<b>Jiaxin Pei</b>, *Dustin Wright, David Jurgens and Isabelle Augenstein (*Equal Contributions)
+  \*<b>Jiaxin Pei</b>, *Dustin Wright, David Jurgens and Isabelle Augenstein (*Equal Contributions)
   <br> The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP'22)
   <br> Honorable Mention Award🏆 at IC2S2 2023
   <br> [Paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.117.pdf) | [Github](https://github.com/copenlu/scientific-information-change) | [Dataset](https://huggingface.co/datasets/copenlu/spiced) | [pip install](https://pypi.org/project/scientific-information-change/) | [Annotation interface](https://potato-annotation.readthedocs.io/en/latest/example-projects/#match-findings-in-papers-and-news-likert-prescreening-questions-multi-task)
@@ -96,7 +96,7 @@ author_profile: true
   <br> [Paper](https://arxiv.org/pdf/2011.03020.pdf) | [Data](https://blablablab.si.umich.edu/projects/intimacy/#Data) | [Model](https://blablablab.si.umich.edu/projects/intimacy/#Getting) | [pip](https://pypi.org/project/question-intimacy/) | [demo](https://huggingface.co/pedropei/live-demo-question-intimacy?text=Who+are+you+most+afraid+of+dying+in+your+family%3F)
 
 * <b>MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization</b> <br>
-  *<b>Jiaxin Pei</b>, *Canwen Xu, Hongtao Wu, Yiyu Liu and Chenliang Li (*Equal Contributions)
+  \*<b>Jiaxin Pei</b>, *Canwen Xu, Hongtao Wu, Yiyu Liu and Chenliang Li (*Equal Contributions)
   <br> The 58th Annual Meeting of the Association for Computational Linguistics (ACL'20)
   <br> [Paper](https://www.aclweb.org/anthology/2020.acl-main.330/) | [Data](https://github.com/WHUIR/MATINF) | [Model](https://github.com/WHUIR/MATINF)
 
@@ -114,12 +114,3 @@ author_profile: true
   <b>Jiaxin Pei</b> and Chenliang Li
   <br> The 2018 Conference on Empirical Methods on Natural Language Processing (EMNLP'18)
   <br> [Paper](https://www.aclweb.org/anthology/D18-1082)
-
-## Preprints
-* <b>Targeted Sentiment Analysis: A Data-Driven Categorization</b> <br>
-  <b>Jiaxin Pei</b>, Aixin Sun, Chenliang Li
-  <br> [Arxiv Link](https://arxiv.org/abs/1905.03423)
-
-* <b>SUM: Suboptimal Unitary Multi-task Learning Framework for Spatiotemporal Data Prediction</b> <br>
-  Qichen Li, <b>Jiaxin Pei</b>, Jianding Zhang, Bo Han
-  <br> [Arxiv Link](https://arxiv.org/pdf/1910.05150.pdf)
