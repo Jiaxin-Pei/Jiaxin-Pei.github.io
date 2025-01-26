@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: ""
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
 ---
-
+<small>
 ## Working Papers
 * <b>30 Million Canvas Records Reveal Widespread Sequential Bias and System-induced Surname Initial Disparity in Grading</b> <br>
   *<b>Jiaxin Pei</b>, *Zhihan (Helen) Wang, Jun Li
@@ -114,3 +117,4 @@ author_profile: true
   <b>Jiaxin Pei</b> and Chenliang Li
   <br> The 2018 Conference on Empirical Methods on Natural Language Processing (EMNLP'18)
   <br> [Paper](https://www.aclweb.org/anthology/D18-1082)
+</small>
