@@ -5,39 +5,32 @@ author_profile: true
 ---
 ## Industry Experience
 
-### Bloomberg AI | Research Intern | New York
-*May 2023 - Aug 2023*
+**Bloomberg AI** | Research Intern | New York | *May 2023 - Aug 2023*
 - Worked in the Knowledge Extraction Team
 - Mentored by [Xinyu Hua](https://xinyuhua.github.io) and [Soumya Vadlamannati](https://www.linkedin.com/in/soumya-vadlamannati/)
 
-### Snap Research | Research Intern | Santa Monica
-*Jan 2022 - Jul 2022*
+**Snap Research** | Research Intern | Santa Monica | *Jan 2022 - Jul 2022*
 - Worked in the [Computational Social Science Team](https://research.snap.com/team/user-modeling-and-personalization.html)
 - Mentored by [Francesco Barbieri](https://scholar.google.com/citations?user=B10uzI4AAAAJ&hl=en&authuser=2) and [Vítor Silva Sousa](https://www.linkedin.com/in/vitor-silva-sousa/)
 
-### Bell Labs | Research Intern | Cambridge, UK
-*Jun 2020 - Aug 2020*
+**Bell Labs** | Research Intern | Cambridge, UK | *Jun 2020 - Aug 2020*
 - Worked in the [Social Dynamics Group](https://social-dynamics.net/)
 - Hosted by [Luca Maria Aiello](http://www.lajello.com/), [Sanja Šćepanović](http://sanja7s.space/) and [Daniele Quercia](http://researchswinger.org/)
 
-### Tencent AI Lab | Research Intern | Shenzhen
-*Mar 2019 - Aug 2019*
+**Tencent AI Lab** | Research Intern | Shenzhen | *Mar 2019 - Aug 2019*
 - Research Intern in the NLP Group
 - Hosted by Yan Wang
 
 ## Academic Experience
 
-### University of Pittsburgh | Data Scientist | Remote
-*Aug 2023 - Aug 2024*
+**University of Pittsburgh** | Data Scientist | Remote | *Aug 2023 - Aug 2024*
 - Working with [Lingfei Wu](https://lingfeiwu.github.io)
 
-### Northeastern University | Visiting Student | Boston
-*Nov 2018 - Mar 2019*
+**Northeastern University** | Visiting Student | Boston | *Nov 2018 - Mar 2019*
 - Visited the NLP Group
 - Hosted by [Lu Wang](http://www.ccs.neu.edu/home/luwang/index.html)
 
-### Nanyang Technological University | Visiting Student | Singapore
-*Aug 2018 - Sep 2018*
+**Nanyang Technological University** | Visiting Student | Singapore | *Aug 2018 - Sep 2018*
 - Visited the Data Management and Analytics Lab
 - Hosted by [Aixin Sun](http://www.ntu.edu.sg/home/axsun/)
 
