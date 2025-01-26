@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+{% include toc %}
+
 I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Digital Economy Lab](https://digitaleconomy.stanford.edu) and the [NLP group](https://nlp.stanford.edu). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. Before coming to Michigan, I was an undergraduate student at the School of Computer Science, Wuhan University.
 
 ## Research Interests
