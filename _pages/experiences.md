@@ -21,7 +21,7 @@ author_profile: true
 
 * **Tencent AI Lab**, Shenzhen (Mar 2019 ~ Aug 2019)
   * Research Intern in the NLP Group
-  * Advised by Yan Wang
+  * Hosted by Yan Wang
 
 ## Academic Experience
 
@@ -52,9 +52,9 @@ author_profile: true
   * EMNLP 2021, 2022, 2023
   * EACL 2023
   * NLP+CSS workshop 2022
-  * IC2S2 2022, 2023, 2024
+  * IC2S2 2022, 2023, 2024, 2025
   * NLPCC 2021, 2022
-  * ICIS 2023
+  * ICIS 2024
   * AOM 2024
   * Active reviewer for ACL Rolling Review
 
