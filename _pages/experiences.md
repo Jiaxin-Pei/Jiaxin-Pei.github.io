@@ -5,6 +5,9 @@ permalink: /experiences/
 author_profile: true
 ---
 
+{% include base_path %}
+{% include toc %}
+
 ## Industry
 
 * **Bloomberg AI**, New York (May 2023 ~ Aug 2023)
