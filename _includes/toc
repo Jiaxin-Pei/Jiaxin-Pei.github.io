@@ -1,7 +1,6 @@
 <aside class="sidebar__right">
 <nav class="toc" markdown="1">
-<header class="header" style="background-color: #d3d3d3; white-space: nowrap;">On This Page</header>
-
+<header><h4 style="white-space: nowrap; width: 100%; background-color: #d3d3d3; padding: 150px;">On This Page</h4></header>
 *  Auto generated table of contents
 {:toc .toc__menu}
 </nav>
