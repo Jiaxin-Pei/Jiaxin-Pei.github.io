@@ -40,17 +40,17 @@ author_profile: true
 - Member, [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) (2018-2023)
 
 **Conference Service**
-- Organizer for:
+- Organizer:
   - [SemEval 2023 Task 9](https://semeval2023.org/)
 
-- Area Chair for:
+- Area Chair:
   - ACL Rolling Review
 
-- Program Committee Member/Reviewer for:
+- Program Committee Member/Reviewer:
   - **AI/ML**: AAAI (2020-2022), IJCAI (2023-2024)
-- **NLP**: ACL (2021-2023), EMNLP (2021-2023), EACL 2023, NLPCC (2021-2022)
-- **Computational Social Science**: IC2S2 (2022-2025), NLP+CSS Workshop 2022
-- **Management & Information Systems**: ICIS 2024, AOM 2024
+  - **NLP**: ACL (2021-2023), EMNLP (2021-2023), EACL 2023, NLPCC (2021-2022)
+  - **Computational Social Science**: IC2S2 (2022-2025), NLP+CSS Workshop 2022
+  - **Management & Information Systems**: ICIS 2024, AOM 2024
 
 
 **Journal Reviews**
