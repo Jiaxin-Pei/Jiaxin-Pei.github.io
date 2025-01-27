@@ -36,25 +36,24 @@ author_profile: true
 
 ## Professional Service
 
-### Professional Roles
+**Professional Roles**
 - Member, [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) (2018-2023)
 
-### Conference Service
-Organizer for:
-- [SemEval 2023 Task 9](https://semeval2023.org/)
+**Conference Service**
+- Organizer for:
+  - [SemEval 2023 Task 9](https://semeval2023.org/)
 
-Area Chair for:
-- ACL Rolling Review
+- Area Chair for:
+  - ACL Rolling Review
 
-Program Committee Member/Reviewer for:
-- **AI/ML**: AAAI (2020-2022), IJCAI (2023-2024)
+- Program Committee Member/Reviewer for:
+  - **AI/ML**: AAAI (2020-2022), IJCAI (2023-2024)
 - **NLP**: ACL (2021-2023), EMNLP (2021-2023), EACL 2023, NLPCC (2021-2022)
 - **Computational Social Science**: IC2S2 (2022-2025), NLP+CSS Workshop 2022
 - **Management & Information Systems**: ICIS 2024, AOM 2024
 
 
-### Journal Reviews
-Reviewer for:
+**Journal Reviews**
 - Journal of the Association for Information Science and Technology (JASIST)
 - Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
 - Transactions on Audio, Speech and Language Processing (IEEE TASLP)
