@@ -21,7 +21,7 @@ My research focuses on three key directions:
 
 **1. Building socially-aware AI technologies:** I work on evaluating and improving the [social capabilities of Large Language Models](https://arxiv.org/abs/2305.14938), developing models that can understand nuanced social signals like [interpersonal intimacy](https://arxiv.org/pdf/2011.03020.pdf) and [firm risks](https://aclanthology.org/2024.naacl-industry.6.pdf).
 
-**2. Understanding human behaviors at scale:** I develop computational methods to analyze large-scale digital traces to understand human behaviors in vairous communication and decision-making contexts. For example, how people [communicate scientific uncertainty](https://arxiv.org/abs/2210.13001) and how people interact with AI companions [in the wild](https://arxiv.org/pdf/2409.00862).
+**2. Understanding human behaviors at scale:** I develop computational methods to analyze large-scale digital traces to understand human behaviors in vairous communication and decision-making contexts. For example, [how science is being communicated to the public](https://arxiv.org/abs/2210.13001) and [how people interact with AI companions in the wild](https://arxiv.org/pdf/2409.00862).
 
 **3. Evaluating and developing Human-Centered Computing systems:** I investigate how system design impacts human behavior, such as studying [alphabetical ordering effects in online grading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603146) and creating [effective and inclusive human computation systems for AI development and evaluation](https://arxiv.org/abs/2212.08620).
 
