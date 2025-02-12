@@ -18,7 +18,6 @@ redirect_from:
 
 * **Hidden Division of Labor in Scientific Teams Revealed Through 1.6 Million LaTeX Files**  
   ***Jiaxin Pei**, Lulin Yang, Lingfei Wu*
-  
   [[Paper]](https://arxiv.org/abs/2502.07263)
 
 * **Political-LLM: Large Language Models in Political Science**  
