@@ -16,9 +16,10 @@ redirect_from:
   🏆 Best Student Paper Award at [EAAMO](https://conference2023.eaamo.org/awards/)  
   Media: [Michigan News](https://news.umich.edu/keeping-up-with-the-joneses-when-it-comes-to-getting-better-grades-its-good-to-be-the-andersons/) • [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13322981/Students-surnames-later-alphabet-lower-grades.html) • [ABC News](https://www.10news.com/study-students-with-last-names-at-end-of-alphabet-given-lower-grades) • [Newsweek](https://www.newsweek.com/lower-grades-students-later-alphabet-bias-1891652) • [Fox News](https://www.fox26houston.com/news/study-lower-grades-students-surnames-later-alphabet)
 
+
 * **Hidden Division of Labor in Scientific Teams Revealed Through 1.6 Million LaTeX Files**  
   ***Jiaxin Pei**, Lulin Yang, Lingfei Wu*
-  [[Paper]](https://arxiv.org/abs/2502.07263)
+   [[Paper]](https://arxiv.org/abs/2502.07263)
 
 * **Political-LLM: Large Language Models in Political Science**  
   *Lincan Li, Jiaqi Li, Catherine Chen, Fred Gui, Hongjia Yang, Chenxiao Yu, Zhengguang Wang, Jianing Cai, Junlong Aaron Zhou, Bolin Shen, Alex Qian, Weixin Chen, Zhongkai Xue, Lichao Sun, Lifang He, Hanjie Chen, Kaize Ding, Zijian Du, Fangzhou Mu, **Jiaxin Pei**, Jieyu Zhao, Swabha Swayamdipta, Willie Neiswanger, Hua Wei, Xiyang Hu, Shixiang Zhu, Tianlong Chen, Yingzhou Lu, Yang Shi, Lianhui Qin, Tianfan Fu, Zhengzhong Tu, Yuzhe Yang, Jaemin Yoo, Jiaheng Zhang, Ryan Rossi, Liang Zhan, Liang Zhao, Emilio Ferrara, Yan Liu, Furong Huang, Xiangliang Zhang, Lawrence Rothenberg, Shuiwang Ji, Philip S. Yu, Yue Zhao, Yushun Dong*  
