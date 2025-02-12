@@ -18,8 +18,8 @@ redirect_from:
 
 
 * **Hidden Division of Labor in Scientific Teams Revealed Through 1.6 Million LaTeX Files**  
-  ***Jiaxin Pei**, Lulin Yang, Lingfei Wu*
-   [[Paper]](https://arxiv.org/abs/2502.07263)
+  ***Jiaxin Pei**, Lulin Yang, Lingfei Wu*  
+  [[Paper]](https://arxiv.org/abs/2502.07263)
 
 * **Political-LLM: Large Language Models in Political Science**  
   *Lincan Li, Jiaqi Li, Catherine Chen, Fred Gui, Hongjia Yang, Chenxiao Yu, Zhengguang Wang, Jianing Cai, Junlong Aaron Zhou, Bolin Shen, Alex Qian, Weixin Chen, Zhongkai Xue, Lichao Sun, Lifang He, Hanjie Chen, Kaize Ding, Zijian Du, Fangzhou Mu, **Jiaxin Pei**, Jieyu Zhao, Swabha Swayamdipta, Willie Neiswanger, Hua Wei, Xiyang Hu, Shixiang Zhu, Tianlong Chen, Yingzhou Lu, Yang Shi, Lianhui Qin, Tianfan Fu, Zhengzhong Tu, Yuzhe Yang, Jaemin Yoo, Jiaheng Zhang, Ryan Rossi, Liang Zhan, Liang Zhao, Emilio Ferrara, Yan Liu, Furong Huang, Xiangliang Zhang, Lawrence Rothenberg, Shuiwang Ji, Philip S. Yu, Yue Zhao, Yushun Dong*  
