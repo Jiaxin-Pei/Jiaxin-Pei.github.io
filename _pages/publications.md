@@ -26,7 +26,7 @@ redirect_from:
 
 ## Published Papers
 
-* **Aligning with Whom? Large Language Models Have Gender and Racial Biases in Subjective NLP Tasks**  
+* **Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs**  
   *†Huaman Sun, **Jiaxin Pei**, Minje Choi and David Jurgens* (†Mentored student)  
   NAACL 2025  
   [[Paper]](http://arxiv.org/abs/2311.09730) [[Code]](https://github.com/Jiaxin-Pei/LLM-Group-Bias)
