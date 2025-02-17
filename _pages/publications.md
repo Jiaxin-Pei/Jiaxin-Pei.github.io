@@ -30,7 +30,7 @@ redirect_from:
 * **Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs**  
   *†Huaman Sun, **Jiaxin Pei**, Minje Choi and David Jurgens* (†Mentored student)  
   NAACL 2025  
-  [[Paper]](http://arxiv.org/abs/2311.09730) [[Code]](https://github.com/Jiaxin-Pei/LLM-Group-Bias)
+  [[Paper]](http://arxiv.org/abs/2311.09730) [[Code]](https://github.com/Jiaxin-Pei/LLM-as-Subjective-Judge)
 
 * **User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions**  
   *Xianzhe Fan, Qing Xiao, Xuhui Zhou, **Jiaxin Pei**, Maarten Sap, Zhicong Lu, Hong Shen*  

@@ -38,6 +38,7 @@ I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an 
 
 ## Recent News
 
+* 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025!
 * [POTATO](https://github.com/davidjurgens/potato) won the Best Demo Paper Award at HCOMP 2024!
 * [POTATO](https://github.com/davidjurgens/potato), our open-source annotation system reached 40K downloads! Try it out if you need data labeling!
 * Our [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603146) on how Canvas transforms sequential grading bias into initial disparities won the Best Student Paper Award at [the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2023)](https://conference2023.eaamo.org/awards/)
