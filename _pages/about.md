@@ -11,15 +11,15 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Digital Economy Lab](https://digitaleconomy.stanford.edu) and the [NLP group](https://nlp.stanford.edu). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. I 
+I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Digital Economy Lab](https://digitaleconomy.stanford.edu) and the [NLP group](https://nlp.stanford.edu). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. Outside of academia, I have interned at Bloomberg, Snapchat, Nokia Bell Labs, and Tencent.
 
 ## Research Interests
 
-My research lies at the intersection of Human-Centered AI, Natural Language Processing, and Computational Social Science. My overarching goal is to build **Human-Centered AI Systems for constructive communication and effective decision-making** by combining insights from NLP, Computational Social Science, and Human-Computer Interaction.
+My research lies at the intersection of Human-Centered AI, Natural Language Processing, and Computational Social Science. My overarching goal is to build **Human-Centered AI Systems for constructive communication and effective decision-making**.
 
 My research focuses on the following directions:
 
-**1. Social NLP:** How to evaluate and improve AI's capabilities to understand and interact with humans in social contexts.
+**1. Social NLP:** How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
 
 **2. Computational Social Science:** How to use computational methods to understand human behavior and social phenomena at scale.
 
