@@ -11,19 +11,19 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Digital Economy Lab](https://digitaleconomy.stanford.edu) and the [NLP group](https://nlp.stanford.edu). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. 
+I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Digital Economy Lab](https://digitaleconomy.stanford.edu) and the [NLP group](https://nlp.stanford.edu). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. I 
 
 ## Research Interests
 
-My research lies at the intersection of Human-Centered AI, Natural Language Processing, and Computational Social Science. **My overarching goal is to build Human-Centered AI Systems that facilitate constructive communication at scale and enhance human decision-making by combining insights from NLP, Computational Social Science, and Human Computation.**
+My research lies at the intersection of Human-Centered AI, Natural Language Processing, and Computational Social Science. My overarching goal is to build **Human-Centered AI Systems for constructive communication and effective decision-making** by combining insights from NLP, Computational Social Science, and Human-Computer Interaction.
 
-My research focuses on three key directions:
+My research focuses on the following directions:
 
-**1. Building socially-aware AI technologies:** I work on evaluating and improving the [social capabilities of Large Language Models](https://arxiv.org/abs/2305.14938), developing models that can understand nuanced social signals like [interpersonal intimacy](https://arxiv.org/pdf/2011.03020.pdf) and [firm risks](https://aclanthology.org/2024.naacl-industry.6.pdf).
+**1. Social NLP:** How to evaluate and improve AI's capabilities to understand and interact with humans in social contexts.
 
-**2. Understanding human behaviors at scale:** I develop computational methods to analyze large-scale digital traces to understand human behaviors in vairous communication and decision-making contexts. For example, [how science is being communicated to the public](https://arxiv.org/abs/2210.13001) and [how people interact with AI companions in the wild](https://arxiv.org/pdf/2409.00862).
+**2. Computational Social Science:** How to use computational methods to understand human behavior and social phenomena at scale.
 
-**3. Evaluating and developing Human-Centered Computing systems:** I investigate how system design impacts human behavior, such as studying [alphabetical ordering effects in online grading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603146) and creating [effective and inclusive human computation systems for AI development and evaluation](https://arxiv.org/abs/2212.08620).
+**3. Human-Computer Interaction:** How to design and evaluate Human-Centered AI systems for different social scenarios.
 
 ## Awards & Recognition
 
