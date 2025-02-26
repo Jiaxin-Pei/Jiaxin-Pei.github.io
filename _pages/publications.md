@@ -11,7 +11,7 @@ redirect_from:
 ## Working Papers
 
 * **30 Million Canvas Records Reveal Widespread Sequential Bias and System-induced Surname Initial Disparity in Grading**  
-  ****Jiaxin Pei**, *Zhihan (Helen) Wang, Jun Li*  
+  **Jiaxin Pei**\*, Zhihan (Helen) Wang\*, Jun Li* (\*Equal Contributions)  
   Major Revision at Management Science, [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603146)  
   🏆 Best Student Paper Award at [EAAMO](https://conference2023.eaamo.org/awards/)  
   Media: [Michigan News](https://news.umich.edu/keeping-up-with-the-joneses-when-it-comes-to-getting-better-grades-its-good-to-be-the-andersons/) • [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13322981/Students-surnames-later-alphabet-lower-grades.html) • [ABC News](https://www.10news.com/study-students-with-last-names-at-end-of-alphabet-given-lower-grades) • [Newsweek](https://www.newsweek.com/lower-grades-students-later-alphabet-bias-1891652) • [Fox News](https://www.fox26houston.com/news/study-lower-grades-students-surnames-later-alphabet)
