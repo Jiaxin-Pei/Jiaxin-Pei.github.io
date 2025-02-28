@@ -25,6 +25,11 @@ My research focuses on the following directions:
 
 **3. Human-Computer Interaction:** How to design and evaluate Human-Centered AI systems for different social scenarios.
 
+
+## Opening
+I'm looking for a student to work on a project related to science of science and team dynamics. Please email me if you are interested. Strong data science skills are required.
+
+
 ## Awards & Recognition
 
 * Best Student Paper Award, ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)
