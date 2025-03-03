@@ -16,6 +16,10 @@ redirect_from:
   🏆 Best Student Paper Award at [EAAMO](https://conference2023.eaamo.org/awards/)  
   Media: [Michigan News](https://news.umich.edu/keeping-up-with-the-joneses-when-it-comes-to-getting-better-grades-its-good-to-be-the-andersons/) • [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13322981/Students-surnames-later-alphabet-lower-grades.html) • [ABC News](https://www.10news.com/study-students-with-last-names-at-end-of-alphabet-given-lower-grades) • [Newsweek](https://www.newsweek.com/lower-grades-students-later-alphabet-bias-1891652) • [Fox News](https://www.fox26houston.com/news/study-lower-grades-students-surnames-later-alphabet)
 
+* **Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions**  
+  *Matthias Orlikowski, **Jiaxin Pei**, Paul Röttger, Philipp Cimiano, David Jurgens, Dirk Hovy*  
+  [[Paper]](https://arxiv.org/abs/2502.20897) [[Code]](https://github.com/morlikowski/beyond-demographics)  
+
 
 * **Hidden Division of Labor in Scientific Teams Revealed Through 1.6 Million LaTeX Files**  
   ***Jiaxin Pei**, Lulin Yang, Lingfei Wu*  
@@ -26,10 +30,6 @@ redirect_from:
   [[Paper]](https://arxiv.org/abs/2412.06864) [[Website]](https://political-llm.org)
 
 ## Published Papers
-
-* **Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions**  
-  *Matthias Orlikowski, **Jiaxin Pei**, Paul Röttger, Philipp Cimiano, David Jurgens, Dirk Hovy*  
-  [[Paper]](https://arxiv.org/abs/2502.20897) [[code]](https://github.com/morlikowski/beyond-demographics)  
 
 * **Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs**  
   *†Huaman Sun, **Jiaxin Pei**, Minje Choi and David Jurgens* (†Mentored student)  
