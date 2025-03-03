@@ -27,6 +27,10 @@ redirect_from:
 
 ## Published Papers
 
+* **Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions**  
+  *Matthias Orlikowski, **Jiaxin Pei**, Paul Röttger, Philipp Cimiano, David Jurgens, Dirk Hovy*  
+  [[Paper]](https://arxiv.org/abs/2502.20897) [[code]](https://github.com/morlikowski/beyond-demographics)  
+
 * **Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs**  
   *†Huaman Sun, **Jiaxin Pei**, Minje Choi and David Jurgens* (†Mentored student)  
   NAACL 2025  
