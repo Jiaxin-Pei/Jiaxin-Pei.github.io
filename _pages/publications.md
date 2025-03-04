@@ -44,7 +44,7 @@ redirect_from:
 * **Who Reaps All the Superchats? A Large-Scale Analysis of Income Inequality in Virtual YouTuber Livestreaming**  
   *†Ruijing Zhao, †Brian Diep, **Jiaxin Pei**, Dongwook Yoon, David Jurgens, and Jian Zhu* (†Mentored student)  
   CHI 2025  
-  [Forthcoming]
+  [[Paper]](https://arxiv.org/pdf/2503.00825)
 
 * **Modeling and Detecting Company Risks from News**  
   ***Jiaxin Pei**, Soumya Vadlamannati, Liang-Kang Huang, Daniel Preotiuc-Pietro, Xinyu Hua*  
