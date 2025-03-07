@@ -27,8 +27,8 @@ My research focuses on the following directions:
 **3. Human-Computer Interaction:** How to design and evaluate Human-Centered AI systems for different social scenarios.
 
 
-## Opening
-I'm looking for a student to work on a project related to science of science and team dynamics. Please email me if you are interested. Strong data science skills are required.
+## Opening 
+I am always looking for talented students and collaborators from all backgrounds for both research and impactful open source projects. Feel free to shoot me an email if you are interested in my research, but please understand if I am not able to respond to every email (and usually no response means no).
 
 
 ## Awards & Recognition
