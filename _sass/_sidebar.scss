@@ -139,6 +139,34 @@
   position: relative;
   cursor: pointer;
 
+  @media (max-width: $small) {
+    li {
+      display: inline-block;
+      padding-right: 10px;
+    }
+    
+    .author__urls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      position: relative;
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      border: 0;
+      background: transparent;
+      box-shadow: none;
+      
+      &:before {
+        display: none;
+      }
+      
+      &:after {
+        display: none;
+      }
+    }
+  }
+
   li:last-child {
     a {
       margin-bottom: 0;
@@ -147,20 +175,6 @@
 
   @include breakpoint($large) {
     display: block;
-  }
-
-  /* Added for mobile visibility */
-  @media screen and (max-width: $large - 1) {
-    display: block;
-    position: relative;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-    
-    &.is--visible {
-      display: block;
-    }
   }
 
   button {
@@ -196,24 +210,12 @@
     box-shadow: none;
   }
 
-  /* Added for mobile visibility */
-  @media screen and (max-width: $large - 1) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
   &:before {
     display: block;
     content: "";
     position: absolute;
     top: -11px;
-    left: 50%;
-    margin-left: -10px;
+    left: calc(50% - 10px);
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
@@ -230,8 +232,7 @@
     content: "";
     position: absolute;
     top: -10px;
-    left: 50%;
-    margin-left: -10px;
+    left: calc(50% - 10px);
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
