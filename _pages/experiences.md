@@ -45,6 +45,7 @@ author_profile: true
 
 - Area Chair:
   - ACL Rolling Review
+  - NeurIPS
 
 - Program Committee Member/Reviewer:
   - **AI/ML**: AAAI (2020-2022), IJCAI (2023-2024)
@@ -59,3 +60,4 @@ author_profile: true
 - Transactions on Audio, Speech and Language Processing (IEEE TASLP)
 - Royal Society Open Science
 - Data and Information Management (DIM)
+- Scientific Data
