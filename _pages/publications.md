@@ -37,7 +37,7 @@ redirect_from:
 
 
 * **Sociodemographic Prompting is Not Yet an Effective Approach for Simulating Subjective Judgments with LLMs**  
-  *†Huaman Sun, **Jiaxin Pei**, Minje Choi and David Jurgens* (†Mentored student)  
+  *†Huaman Sun, **Jiaxin Pei**, Minje Choi and David Jurgens* (†Student Mentee)  
   NAACL 2025  
   [[Paper]](https://arxiv.org/abs/2311.09730) [[Code]](https://github.com/Jiaxin-Pei/LLM-as-Subjective-Judge)
 
@@ -47,7 +47,7 @@ redirect_from:
   [[Paper]](https://arxiv.org/pdf/2409.00862)
 
 * **Who Reaps All the Superchats? A Large-Scale Analysis of Income Inequality in Virtual YouTuber Livestreaming**  
-  *†Ruijing Zhao, †Brian Diep, **Jiaxin Pei**, Dongwook Yoon, David Jurgens, and Jian Zhu* (†Mentored student)  
+  *†Ruijing Zhao, †Brian Diep, **Jiaxin Pei**, Dongwook Yoon, David Jurgens, and Jian Zhu* (†Student Mentee)  
   CHI 2025  
   [[Paper]](https://arxiv.org/pdf/2503.00825)
 
@@ -57,7 +57,7 @@ redirect_from:
   [[Paper]](https://aclanthology.org/2024.naacl-industry.6.pdf) [[Blog]](https://www.bloomberg.com/company/stories/bloombergs-ai-group-publishes-3-research-papers-at-naacl-2024/?linkId=473264235)
 
 * **When "A Helpful Assistant" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models**  
-  *†Mingqian Zheng, **Jiaxin Pei**, Lajanugen Logeswaran, Moontae Lee and David Jurgens* (†Mentored student)  
+  *†Mingqian Zheng, **Jiaxin Pei**, Lajanugen Logeswaran, Moontae Lee and David Jurgens* (†Student Mentee)  
   EMNLP 2024 (Findings)  
   [[Paper]](https://arxiv.org/abs/2311.10054) [[Code]](https://github.com/Jiaxin-Pei/Prompting-with-Social-Roles)  
   Media: [The Markup](https://themarkup.org/hello-world/2024/01/06/what-happens-when-you-roleplay-with-chatgpt)
