@@ -14,6 +14,9 @@ redirect_from:
 I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu) and the [Stanford NLP group](https://nlp.stanford.edu). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. 
 Outside of academia, I have interned at Bloomberg, Snapchat, Nokia Bell Labs, and Tencent.
 
+I will join the School of Information at UT-Austin as an Assistant Professor in Fall 2026 and will start a new lab on Human-Centered AI Systems. I will be hiring PhD, Master's, undergraduate, and visiting students. Please stay tuned for more details! 
+
+
 ## Research Interests
 
 My research lies at the intersection of Human-Centered AI, Natural Language Processing, and Computational Social Science. My overarching goal is to build **Human-Centered AI Systems for constructive communication and effective decision-making**.
