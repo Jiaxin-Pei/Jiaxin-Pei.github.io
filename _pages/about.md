@@ -25,13 +25,13 @@ My research focuses on the following directions:
 
 **1. Social NLP:** How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
 
-**2. Computational Social Science:** How to use computational methods to understand human behavior and social phenomena at scale.
+**2. Human-Computer Interaction:** How to design and evaluate Human-Centered AI systems for different social scenarios.
 
-**3. Human-Computer Interaction:** How to design and evaluate Human-Centered AI systems for different social scenarios.
+**3. Computational Social Science:** How to use computational methods to understand human behavior and social phenomena at scale.
 
 
 ## Opening 
-I am always looking for talented students and collaborators from all backgrounds for both research and impactful open source projects. Feel free to shoot me an email if you are interested in my research, but please understand if I am not able to respond to every email (and usually no response means no).
+I am always looking for talented students and collaborators from all backgrounds for both research and impactful open source projects. Feel free to shoot me an email if you are interested in my research, but please understand if I am not able to respond to every email.
 
 
 ## Awards & Recognition
@@ -45,11 +45,9 @@ I am always looking for talented students and collaborators from all backgrounds
 
 I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an open-source data labeling system for effective and responsive human computation.
 
-## Recent News
-
-* 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025!
-* [POTATO](https://github.com/davidjurgens/potato) won the Best Demo Paper Award at HCOMP 2024!
-* [POTATO](https://github.com/davidjurgens/potato), our open-source annotation system reached 40K downloads! Try it out if you need data labeling!
-* Our [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603146) on how Canvas transforms sequential grading bias into initial disparities won the Best Student Paper Award at [the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2023)](https://conference2023.eaamo.org/awards/)
-* Two papers accepted to EMNLP 2023!
-* Our paper on [modeling information change in science communication](https://arxiv.org/abs/2210.13001) won an Honorable Mention Award at [the International Conference on Computational Social Science (IC2S2 2023)](https://ic2s2-2023.org/awards)
+<!-- * 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025! -->
+<!-- * [POTATO](https://github.com/davidjurgens/potato) won the Best Demo Paper Award at HCOMP 2024! -->
+<!-- * [POTATO](https://github.com/davidjurgens/potato), our open-source annotation system reached 40K downloads! Try it out if you need data labeling! -->
+<!-- * Our [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603146) on how Canvas transforms sequential grading bias into initial disparities won the Best Student Paper Award at [the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2023)](https://conference2023.eaamo.org/awards/) -->
+<!-- * Two papers accepted to EMNLP 2023! -->
+<!-- * Our paper on [modeling information change in science communication](https://arxiv.org/abs/2210.13001) won an Honorable Mention Award at [the International Conference on Computational Social Science (IC2S2 2023)](https://ic2s2-2023.org/awards) -->
