@@ -37,8 +37,8 @@ redirect_from:
 ## Published Papers
 
 * **Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions**  
-  *Matthias Orlikowski, **Jiaxin Pei**, Paul Röttger, Philipp Cimiano, David Jurgens, Dirk Hovy*  
-  ACL 2025
+  *Matthias Orlikowski, **Jiaxin Pei**, Paul Röttger, Philipp Cimiano, David Jurgens, Dirk Hovy*   
+  ACL 2025  
   [[Paper]](https://arxiv.org/abs/2502.20897) [[Code]](https://github.com/morlikowski/beyond-demographics)  
 
 
