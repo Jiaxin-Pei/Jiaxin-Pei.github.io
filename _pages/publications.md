@@ -24,6 +24,7 @@ redirect_from:
 * **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**  
   *Yijia Shao, Humishka Zope, Yucheng Jiang, **Jiaxin Pei**, David Nguyen, Erik Brynjolfsson, Diyi Yang*  
   [[Paper]](https://arxiv.org/abs/2506.06576)
+  Media: [Forbes](https://www.forbes.com/sites/avivalegatt/2025/06/16/ai-agents-are-set-to-transform-higher-education-heres-how/)
 
 <!-- * **Writing Patterns Reveal a Hidden Division of Labor in Scientific Teams**  
   *Lulin Yang, **Jiaxin Pei**, Lingfei Wu*  
