@@ -19,7 +19,7 @@ redirect_from:
 * **The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets**  
   *Shenzhe Zhu, Jiao Sun, Yi Nian, Tobin South, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2506.00073) [[Code]](https://github.com/ShenzheZhu/A2A-NT)  
-  Media: [MIT Technology Review](https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/) • [Stanford HAI](https://hai.stanford.edu/news/the-art-of-the-automated-negotiation)
+  Media: [MIT Technology Review](https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/) • [Stanford HAI](https://hai.stanford.edu/news/the-art-of-the-automated-negotiation) • [Forbes](https://www.forbes.com/sites/rashishrivastava/2025/06/17/the-prompt-white-collar-bloodbaths/)
 
 * **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**  
   *Yijia Shao, Humishka Zope, Yucheng Jiang, **Jiaxin Pei**, David Nguyen, Erik Brynjolfsson, Diyi Yang*  
