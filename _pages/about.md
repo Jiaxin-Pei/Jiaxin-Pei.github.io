@@ -18,16 +18,13 @@ I will join the School of Information at UT-Austin as an Assistant Professor in 
 
 
 ## Research Interests
-
-My research lies at the intersection of Human-Centered AI, Natural Language Processing, and Computational Social Science. My overarching goal is to build **Human-Centered AI Systems for constructive communication and effective decision-making**.
-
-My research focuses on the following directions:
+My research focuses on Large Language Models, Human-Computer Interaction and Computational Social Science. I am currently interested in the following research directions:
 
 **1. Social NLP:** How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
 
-**2. Human-Computer Interaction:** How to design and evaluate Human-Centered AI systems for different social scenarios.
+**2. Human-AI Interaction:** How to design and evaluate AI systems for different social scenarios.
 
-**3. Computational Social Science:** How to use computational methods to understand human behavior and social phenomena at scale.
+**3. Computational Social Science:** How to understand human behaviors and social dynamics using large-scale data and computational methods.
 
 
 ## Opening 
