@@ -46,6 +46,11 @@ redirect_from:
   NAACL 2025  
   [[Paper]](https://arxiv.org/abs/2311.09730) [[Code]](https://github.com/Jiaxin-Pei/LLM-as-Subjective-Judge)
 
+* **Causally Modeling the Linguistic and Social Factors that Predict Email Response**
+  *Yinuo Xu, Hong Chen, Sushrita Rakshit, Aparna Ananthasubramaniam, Omkar Yadav, Mingqian Zheng, Michael Jiang, Lechen Zhang, Bowen Yi, Kenan Alkiek, Abraham Israeli, Bangzhao Shu, Hua Shen, **Jiaxin Pei**, Haotian Zhang, Miriam Schirmer, David Jurgens*  
+  NAACL 2025
+  [[Paper]](https://aclanthology.org/2025.naacl-long.594.pdf)
+
 * **User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions**  
   *Xianzhe Fan, Qing Xiao, Xuhui Zhou, **Jiaxin Pei**, Maarten Sap, Zhicong Lu, Hong Shen*  
   CHI 2025  
