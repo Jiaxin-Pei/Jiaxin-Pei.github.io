@@ -46,9 +46,9 @@ redirect_from:
   NAACL 2025  
   [[Paper]](https://arxiv.org/abs/2311.09730) [[Code]](https://github.com/Jiaxin-Pei/LLM-as-Subjective-Judge)
 
-* **Causally Modeling the Linguistic and Social Factors that Predict Email Response**
+* **Causally Modeling the Linguistic and Social Factors that Predict Email Response**  
   *Yinuo Xu, Hong Chen, Sushrita Rakshit, Aparna Ananthasubramaniam, Omkar Yadav, Mingqian Zheng, Michael Jiang, Lechen Zhang, Bowen Yi, Kenan Alkiek, Abraham Israeli, Bangzhao Shu, Hua Shen, **Jiaxin Pei**, Haotian Zhang, Miriam Schirmer, David Jurgens*  
-  NAACL 2025
+  NAACL 2025  
   [[Paper]](https://aclanthology.org/2025.naacl-long.594.pdf)
 
 * **User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions**  
@@ -93,7 +93,7 @@ redirect_from:
   Media: [Michigan News](https://news.umich.edu/building-reliable-ai-models-requires-understanding-the-people-behind-the-datasets/) • [Prolific](https://www.prolific.com/resources/key-takeaways-from-our-study-on-bias-in-ai-annotations) • [Digit News](https://www.digit.fyi/study-ai-bias-influenced-by-demographics-of-moderators/) • [Today Headline](https://todayheadline.co/building-reliable-ai-models-requires-understanding-the-people-behind-the-datasets/)
 
 * **Exploring Linguistic Style Matching in Online Communities: The Role of Social Context and Conversation Dynamics**  
-  **Aparna Ananthasubramaniam\*, Hong Chen\*, Jason Yan\*, Kenan Alkiek\*, **Jiaxin Pei**\*, Agrima Seth\*, Lavinia Dunagan\*, Minje Choi\*, Benjamin Litterer\* and David Jurgens* (\*Equal Contributions)  
+  *Aparna Ananthasubramaniam, Hong Chen, Jason Yan, Kenan Alkiek, **Jiaxin Pei**, Agrima Seth, Lavinia Dunagan, Minje Choi, Benjamin Litterer and David Jurgens*  
   SICon @ ACL 2023  
   🏆 Best Paper Award  
   [[Paper]](https://arxiv.org/pdf/2307.02758.pdf) [[Code]](https://github.com/davidjurgens/style-influence)
