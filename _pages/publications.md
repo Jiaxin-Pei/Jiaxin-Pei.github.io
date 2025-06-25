@@ -8,6 +8,24 @@ redirect_from:
   - /research.html
 ---
 
+<style>
+.page__content {
+  font-size: 0.9em;
+}
+
+.page__content h2 {
+  font-size: 1.3em;
+}
+
+.page__content p, .page__content li {
+  font-size: 0.85em;
+}
+
+.page__content strong {
+  font-size: inherit;
+}
+</style>
+
 ## Working Papers
 
 * **30 Million Canvas Records Reveal Widespread Sequential Bias and System-induced Surname Initial Disparity in Grading**  
