@@ -10,15 +10,15 @@ redirect_from:
 
 <style>
 .page__content {
-  font-size: 0.8em;
+  font-size: 0.5em;
 }
 
 .page__content h2 {
-  font-size: 1em;
+  font-size: 0.6em;
 }
 
 .page__content p, .page__content li {
-  font-size: 0.75em;
+  font-size: 0.55em;
 }
 
 .page__content strong {
