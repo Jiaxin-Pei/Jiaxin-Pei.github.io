@@ -18,7 +18,7 @@ I will join the School of Information at UT-Austin as an Assistant Professor in 
 
 
 ## Research Interests
-My research focuses on Large Language Models, Human-Computer Interaction and Computational Social Science. I am currently interested in the following research directions:
+My research focuses on NLP and HCI. I am currently interested in the following research directions:
 
 **1. Social NLP:** How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
 
