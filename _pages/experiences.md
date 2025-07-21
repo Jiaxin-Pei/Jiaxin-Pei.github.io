@@ -46,6 +46,7 @@ author_profile: true
 - Area Chair:
   - ACL Rolling Review
   - NeurIPS
+  - CHI
 
 - Program Committee Member/Reviewer:
   - **AI/ML**: AAAI (2020-2022), IJCAI (2023-2024)
