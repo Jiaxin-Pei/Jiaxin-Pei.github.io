@@ -1,6 +1,6 @@
 ---
 permalink: /working-with-me/
-title: "Working with me 🔥"
+title: "Working with me"
 author_profile: true
 ---
 
