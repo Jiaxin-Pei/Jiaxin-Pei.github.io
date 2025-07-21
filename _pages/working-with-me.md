@@ -1,6 +1,6 @@
 ---
 permalink: /working-with-me/
-title: "Working with me"
+title: "Working with me 🔥"
 author_profile: true
 ---
 
@@ -8,7 +8,7 @@ author_profile: true
 {% include toc %}
 
 ## General Advising Philosophy
-Whether you are a PhD student, master's student, or an undergraduate, once I decide to work with you on a project, I consider it an **adventure** where we can explore something interesting together. I understand that people might be motivated by things like money, recommendation letters, graduation requirements, etc. I'm totally fine with that. However, the most important thing for me is whether we enjoy the time we spend together on a project and whether we can create something that both of us are proud of. I will do my best to make this adventure exciting, and I also hope that you come with similar values.
+Whether you are a PhD student, master's student, or an undergraduate, once I decide to work with you on a project, I consider it an **adventure** where we can explore something interesting together. The most important thing for me is whether we enjoy the time we spend together on a project and whether we can create something that both of us are proud of. I will do my best to make this adventure exciting, and I also hope that you come with similar values.
 
 
 ## PhD Students
