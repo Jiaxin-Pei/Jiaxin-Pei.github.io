@@ -18,13 +18,13 @@ I will join the [School of Information at UT-Austin](https://ischool.utexas.edu)
 
 
 ## Research Interests
-My research focuses on NLP and HCI. I am currently interested in the following research directions:
+My research focuses on Large Language Models, Human-Computer Interaction and Computational Social Science. I am currently interested in the following research directions:
 
-**1. Social NLP:** How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
+**1. Human-AI Interaction:** Develop new interfaces and systems for human users to better interact with AI models; build more interactive, collaborative and trustworthy AI agents; Create new benchmarks and pipeline for AI system evaluation.
 
-**2. Human-AI Interaction:** How to design and evaluate AI systems for different social scenarios.
+**2. Digital Infrastructure for AI Agents:** Build new standards and protocals for the future society with AI Agents. 
 
-**3. Computational Social Science:** How to understand human behaviors and social dynamics using large-scale data and computational methods.
+**3. Computational Social Science:** Understand the impact of AI and technology on individuals, community and society. 
 
 
 ## Opening 
