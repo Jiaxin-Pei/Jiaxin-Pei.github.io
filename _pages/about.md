@@ -24,7 +24,7 @@ My research focuses on Large Language Models, Human-Computer Interaction and Com
 
 **2. Digital Infrastructure for AI Agents:** Build new standards and protocals for the future society with AI Agents. 
 
-**3. Collective intelligence Systems:** Build new systems that help groups and communities to better collaborate and make decisions. 
+**3. Collective Intelligence Systems:** Build new systems that help groups and communities to better collaborate and make decisions. 
 
 **4. Computational Social Science:** Understand the impact of AI and technology on individuals, community and society. 
 
