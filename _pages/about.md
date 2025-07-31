@@ -14,7 +14,7 @@ redirect_from:
 I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu) and the [Stanford NLP group](https://nlp.stanford.edu). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. 
 Outside of academia, I have interned at Bloomberg, Snapchat, Nokia Bell Labs, and Tencent.
 
-I will join the [School of Information at UT-Austin](https://ischool.utexas.edu) as an Assistant Professor in Fall 2026 and will start a new lab on Human-Centered AI Systems. I will be hiring PhD, Master's, undergraduate, and visiting students. Please check out this [page](https://jiaxin-pei.github.io/working-with-me/) for more details! 
+I will join the [School of Information at UT-Austin](https://ischool.utexas.edu) as an Assistant Professor in Fall 2026 and will start a new lab on Human-Centered AI Systems. I will be hiring PhD, Master's, undergraduate, and visiting students. Please check out [my advising philosophy](https://jiaxin-pei.github.io/working-with-me/) and fill out this [application form](https://docs.google.com/forms/d/e/1FAIpQLSdexPPwufb_k5d1Vl3Y8hlxBQ6wq8SVO1-XJtLYnr614N8R3g/viewform?usp=dialog).
 
 
 ## Research Interests
@@ -29,10 +29,6 @@ My research focuses on Large Language Models, Human-Computer Interaction and Com
 **3. Collective Intelligence Systems:** Build new systems that help groups and communities to better collaborate and make decisions. 
 
 **4. Computational Social Science:** Understand the impact of AI and technology on individuals, community and society. 
-
-
-## Opening 
-I am always looking for talented students and collaborators from all backgrounds for both research and impactful open source projects. Feel free to shoot me an email if you are interested in my research, but please understand if I am not able to respond to every email.
 
 
 ## Awards & Recognition
