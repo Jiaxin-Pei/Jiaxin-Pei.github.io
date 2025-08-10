@@ -24,3 +24,7 @@ A PhD is a long (usually 4-6 years) commitment, so it is a long **adventure**. T
 I really enjoy working with master's students and undergraduate students. Usually, I prefer to work on a very specific and well-scoped project, as you might not have much research experience yet. Solid coding and analytical skills are required.
 
 
+## FAQ
+
+### Do you support your students to build start ups?
+100%. I consider my lab as an incubator for not only research papers, but also meaningful products that can actually succeed in the business world. You have my full support to convert your research project into a start up. 
