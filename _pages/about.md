@@ -42,6 +42,24 @@ My research focuses on Large Language Models, Human-Computer Interaction and Com
 
 I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an open-source data labeling system for effective and responsive human computation.
 
+
+## Current Mentees
+Shenzhe Zhu (Undergrad at UToronto)  
+Anshika Agarwal (Master's student at Stanford)  
+Andy Dai (Undergrad at Stanford)  
+Zhenyu Zhang (Master's student at Stanford)  
+Tim Chen (Master's student at Stanford)  
+David Anugraha (Master's student at Stanford)  
+Michelle Liu (Master's student at Stanford, now at Adobe)  
+Zhemin Huang (Master's student at Stanford)  
+Longju Bai (Master's student at UMich)
+
+## Past Mentees
+Fangqing Lin (Master's student at UMich)  
+Mingqian Zheng (Master's student at UMich, now PhD at CMU)  
+Huaman Sun (Master's student at UMich, now PhD at Northwestern)
+
+
 <!-- * 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025! -->
 <!-- * [POTATO](https://github.com/davidjurgens/potato) won the Best Demo Paper Award at HCOMP 2024! -->
 <!-- * [POTATO](https://github.com/davidjurgens/potato), our open-source annotation system reached 40K downloads! Try it out if you need data labeling! -->

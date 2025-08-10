@@ -7,6 +7,12 @@ author_profile: true
 {% include base_path %}
 {% include toc %}
 
+Now since you are here, I want to first thank you for your interest in working with me! It's the start of many exciting things! Please make sure you read this page carefully to better under my advising philosophy, my research interest and the application process. 
+
+## Application
+The best way to express your interest in working with me is through this [application form](https://docs.google.com/forms/d/e/1FAIpQLSdexPPwufb_k5d1Vl3Y8hlxBQ6wq8SVO1-XJtLYnr614N8R3g/viewform?usp=dialog). I receive a large volumn of emails everyday so it is very easy for me to lose track of applications submitted through email. Therefore, the best way to ensure your application is reviewed is to submit through the google form and I will reach out if there is a fit (of both interest and time).
+
+
 ## General Advising Philosophy
 Whether you are a PhD student, master's student, or an undergraduate, once I decide to work with you on a project, I consider it an **adventure** where we can explore something interesting together. The most important thing for me is whether we enjoy the time we spend together on a project and whether we can create something that both of us are proud of. I will do my best to make this adventure exciting, and I also hope that you come with similar values.
 
@@ -17,18 +23,4 @@ A PhD is a long (usually 4-6 years) commitment, so it is a long **adventure**. T
 ## Master's and Undergraduate Students
 I really enjoy working with master's students and undergraduate students. Usually, I prefer to work on a very specific and well-scoped project, as you might not have much research experience yet. Solid coding and analytical skills are required.
 
-## Current Mentees
-Shenzhe Zhu (Undergrad at UToronto)  
-Anshika Agarwal (Master's student at Stanford)  
-Andy Dai (Undergrad at Stanford)  
-Zhenyu Zhang (Master's student at Stanford)  
-Tim Chen (Master's student at Stanford)  
-David Anugraha (Master's student at Stanford)  
-Michelle Liu (Master's student at Stanford, now at Adobe)  
-Zhemin Huang (Master's student at Stanford)  
-Longju Bai (Master's student at UMich)
 
-## Past Mentees
-Fangqing Lin (Master's student at UMich)  
-Mingqian Zheng (Master's student at UMich, now PhD at CMU)  
-Huaman Sun (Master's student at UMich, now PhD at Northwestern)
