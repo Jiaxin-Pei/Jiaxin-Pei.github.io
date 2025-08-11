@@ -54,6 +54,11 @@ redirect_from:
 
 ## 2025
 
+* **The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities**  
+  *Harsh Nishant Lalai, Raj Sanjay Shah, **Jiaxin Pei**, Sashank Varma, Yi-Chia Wang, Ali Emami*  
+  COLM 2025  
+  [[Paper]](https://arxiv.org/abs/2508.05525)
+
 * **Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals' Subjective Text Perceptions**  
   *Matthias Orlikowski, **Jiaxin Pei**, Paul Röttger, Philipp Cimiano, David Jurgens, Dirk Hovy*   
   ACL 2025  
