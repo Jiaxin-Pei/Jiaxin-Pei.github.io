@@ -26,5 +26,5 @@ I really enjoy working with visitors and interns. Many of my previous mentees ha
 
 ## FAQ
 
-#### Do you support your students to build start ups?
-200%. I consider my lab as an incubator for not only research papers, but also meaningful products that can actually succeed in the business world. You have my full support to convert your research project into a start up. 
+- Do you support your students in building start-ups?
+	- 200%. I consider my lab as an incubator for not only research papers, but also meaningful products that can actually succeed in the business world. You have my full support to convert your research project into a startup.
