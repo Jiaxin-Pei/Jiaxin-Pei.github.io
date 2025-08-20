@@ -44,6 +44,11 @@ redirect_from:
   [[Paper]](https://arxiv.org/abs/2506.06576)   [Website](https://futureofwork.saltlab.stanford.edu)  
   Media: [Forbes](https://www.forbes.com/sites/avivalegatt/2025/06/16/ai-agents-are-set-to-transform-higher-education-heres-how/) • [Stanford HAI](https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence)
 
+* **Deliberation.io: Facilitating Democratic and Civil Engagement at Scale with Open-Source and Open-Science**  
+  ***Jiaxin Pei**, José Ramón Enríquez, Umar Patel, Alia Braley, Nuole Chen, Lily Tsai, and Alex Pentland*  
+  [Website](https://deliberation.io)
+  Media: [GovTech](https://www.govtech.com/artificial-intelligence/washington-d-c-will-pilot-ai-at-public-listening-session)
+
 <!-- * **Writing Patterns Reveal a Hidden Division of Labor in Scientific Teams**  
   *Lulin Yang, **Jiaxin Pei**, Lingfei Wu*  
   [[Paper]](https://arxiv.org/abs/2504.14093)
