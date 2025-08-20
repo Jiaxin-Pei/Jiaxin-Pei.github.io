@@ -46,7 +46,7 @@ redirect_from:
 
 * **Deliberation.io: Facilitating Democratic and Civil Engagement at Scale with Open-Source and Open-Science**  
   ***Jiaxin Pei**, José Ramón Enríquez, Umar Patel, Alia Braley, Nuole Chen, Lily Tsai, and Alex Pentland*  
-  [Website](https://deliberation.io)
+  [Website](https://deliberation.io)  
   Media: [GovTech](https://www.govtech.com/artificial-intelligence/washington-d-c-will-pilot-ai-at-public-listening-session)
 
 <!-- * **Writing Patterns Reveal a Hidden Division of Labor in Scientific Teams**  
