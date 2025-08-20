@@ -41,12 +41,12 @@ redirect_from:
 
 * **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**  
   *Yijia Shao, Humishka Zope, Yucheng Jiang, **Jiaxin Pei**, David Nguyen, Erik Brynjolfsson, Diyi Yang*  
-  [[Paper]](https://arxiv.org/abs/2506.06576)   [Website](https://futureofwork.saltlab.stanford.edu)  
+  [[Paper]](https://arxiv.org/abs/2506.06576)   [[Website]](https://futureofwork.saltlab.stanford.edu)  
   Media: [Forbes](https://www.forbes.com/sites/avivalegatt/2025/06/16/ai-agents-are-set-to-transform-higher-education-heres-how/) • [Stanford HAI](https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence)
 
 * **Deliberation.io: Facilitating Democratic and Civil Engagement at Scale with Open-Source and Open-Science**  
   ***Jiaxin Pei**, José Ramón Enríquez, Umar Patel, Alia Braley, Nuole Chen, Lily Tsai, and Alex Pentland*  
-  [Website](https://deliberation.io)  
+  [[Website]](https://deliberation.io)  
   Media: [GovTech](https://www.govtech.com/artificial-intelligence/washington-d-c-will-pilot-ai-at-public-listening-session)
 
 <!-- * **Writing Patterns Reveal a Hidden Division of Labor in Scientific Teams**  
