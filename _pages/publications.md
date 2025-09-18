@@ -26,7 +26,7 @@ redirect_from:
 }
 </style>
 
-## Working Papers
+## Recent Preprints
 
 * **The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets**  
   *Shenzhe Zhu, Jiao Sun, Yi Nian, Tobin South, Alex Pentland, **Jiaxin Pei***  
