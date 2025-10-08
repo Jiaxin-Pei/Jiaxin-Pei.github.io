@@ -53,6 +53,10 @@ redirect_from:
   [[Paper]](https://arxiv.org/abs/2412.06864) [[Website]](https://political-llm.org) -->
 
 ## 2025
+* **ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents**  
+  *Zhenyu Zhang, Tianyi Chen, Weiran Xu, Alex Pentland, **Jiaxin Pei***  
+  NeurIPS 2025
+[[Forthcoming]]()
 
 * **The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities**  
   *Harsh Nishant Lalai, Raj Sanjay Shah, **Jiaxin Pei**, Sashank Varma, Yi-Chia Wang, Ali Emami*  
