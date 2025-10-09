@@ -28,6 +28,12 @@ redirect_from:
 
 ## Recent Preprints
 
+
+* **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
+  *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2510.05154)
+
+
 * **The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets**  
   *Shenzhe Zhu, Jiao Sun, Yi Nian, Tobin South, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2506.00073) [[Code]](https://github.com/ShenzheZhu/A2A-NT)  
