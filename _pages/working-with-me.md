@@ -10,7 +10,11 @@ author_profile: true
 Now since you are here, I want to first thank you for your interest in working with me! It's the start of many exciting things! Please make sure you read this page carefully to better under my advising philosophy, my research interest and the application process. 
 
 ## Application
-The best way to express your interest in working with me is through this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdexPPwufb_k5d1Vl3Y8hlxBQ6wq8SVO1-XJtLYnr614N8R3g/viewform?usp=dialog). I receive a large volumn of emails everyday so it is very easy for me to lose track of applications submitted through email. Therefore, the best way to ensure your application is reviewed is to submit through the google form and I will reach out if there is a fit (of both interest and time).
+### PhD students
+I'm mostly hiring PhD students through the [PhD program](https://ischool.utexas.edu/programs/phd) at UT-Austin ischool (deadline Dec 1st) this year, however, I might also take students through the [CS PhD program](https://www.cs.utexas.edu/graduate-program/phd-program)(deadline Dec 15th). Please consider applying and make sure you mention my name in your application. I will carefully review all the applications. 
+
+### Visitor students, Remote Interns, ...
+The best way to express your interest in working with me is through this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdexPPwufb_k5d1Vl3Y8hlxBQ6wq8SVO1-XJtLYnr614N8R3g/viewform?usp=dialog). I receive a large volumn of emails everyday so it is very easy for me to lose track of applications submitted through email. Therefore, the best way to ensure your application is reviewed is to submit through the google form and I will reach out if there is a fit (of both interest and time). 
 
 
 ## General Advising Philosophy
@@ -27,4 +31,4 @@ I really enjoy working with visitors and interns. Many of my previous mentees ha
 ## FAQ
 
 - Do you support your students in building start-ups?
-	- 200%. I consider my lab as an incubator for not only research papers, but also meaningful products that can actually succeed in the business world. You have my full support to convert your research project into a startup.
+	- 100%. I consider my lab as an incubator for not only research papers, but also meaningful products that can actually succeed in the business world. You have my full support to convert your research project into a startup.
