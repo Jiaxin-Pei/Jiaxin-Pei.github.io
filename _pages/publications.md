@@ -50,6 +50,13 @@ redirect_from:
   Media: [GovTech](https://www.govtech.com/artificial-intelligence/washington-d-c-will-pilot-ai-at-public-listening-session) [Stanford Daily](https://stanforddaily.com/2025/09/24/digital-economy-lab-launches-platform/) 
 
 
+* **Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world**  
+  *Tobin South, Subramanya Nagabhushanaradhya, Ayesha Dissanayaka, Sarah Cecchetti, George Fletcher, Victor Lu, Aldo Pietropaolo, Dean H Saxe, Jeff Lombardo, Abhishek Maligehalli Shivalingaiah, Stan Bounev, Alex Keisner, Andor Kesselman, Zack Proser, Ginny Fahs, Andrew Bunyea, Ben Moskowitz, Atul Tulshibagwale, Dazza Greenwood, **Jiaxin Pei**, Alex Pentland*  
+  [[Paper]](https://arxiv.org/abs/2510.25819)
+
+
+
+
 <!-- * **Writing Patterns Reveal a Hidden Division of Labor in Scientific Teams**  
   *Lulin Yang, **Jiaxin Pei**, Lingfei Wu*  
   [[Paper]](https://arxiv.org/abs/2504.14093)
