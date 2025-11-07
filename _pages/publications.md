@@ -69,7 +69,7 @@ redirect_from:
 * **ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents**  
   *Zhenyu Zhang, Tianyi Chen, Weiran Xu, Alex Pentland, **Jiaxin Pei***  
   NeurIPS 2025
-[[Forthcoming]]()
+[[Paper]](https://arxiv.org/abs/2510.23822) [[Code]](https://github.com/ReCAP-Stanford/ReCAP)  
 
 * **The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities**  
   *Harsh Nishant Lalai, Raj Sanjay Shah, **Jiaxin Pei**, Sashank Varma, Yi-Chia Wang, Ali Emami*  
