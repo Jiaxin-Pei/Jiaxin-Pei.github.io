@@ -55,6 +55,12 @@ redirect_from:
   [[Paper]](https://arxiv.org/abs/2510.25819)
 
 
+* **Benchmarking Overton Pluralism in LLMs**  
+  *Elinor Poole-Dayan, Jiayi Wu, Taylor Sorensen, **Jiaxin Pei**, Michiel A. Bakker*  
+  [[Paper]](https://arxiv.org/abs/2512.01351)
+
+
+
 
 
 <!-- * **Writing Patterns Reveal a Hidden Division of Labor in Scientific Teams**  
