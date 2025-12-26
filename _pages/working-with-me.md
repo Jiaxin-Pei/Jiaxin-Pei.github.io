@@ -13,10 +13,6 @@ Now since you are here, I want to first thank you for your interest in working w
 ### PhD students
 I'm mostly hiring PhD students through the [PhD program](https://ischool.utexas.edu/programs/phd) at UT-Austin ischool (deadline Dec 1st) this year, however, I might also take students through the [CS PhD program](https://www.cs.utexas.edu/graduate-program/phd-program) (deadline Dec 15th). Please consider applying and make sure you mention my name in your application. I will carefully review all the applications. 
 
-I'm going to NeurIPS this year and happy to chat about things! Please make sure you submit your application by the **Dec 1st deadline**!
-{: .notice--info}
-
-
 ### Visitors, Interns, ...
 The best way to express your interest in working with me is through this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdexPPwufb_k5d1Vl3Y8hlxBQ6wq8SVO1-XJtLYnr614N8R3g/viewform?usp=dialog). I receive a large volumn of emails everyday so it is very easy for me to lose track of applications submitted through email. Therefore, the best way to ensure your application is reviewed is to submit through the google form and I will reach out if there is a fit (of both interest and time). 
 
