@@ -64,7 +64,7 @@ redirect_from:
 ## 2026
 
 * **Paper Copilot: Tracking the Evolution of Peer Review in AI Conferences**  
-  Jing Yang, Qiyao Wei, **Jiaxin Pei**
+  Jing Yang, Qiyao Wei, **Jiaxin Pei**  
   ICLR 2026  
   [[Paper]](https://arxiv.org/abs/2510.13201) • [[Website]](https://papercopilot.com/)
 
