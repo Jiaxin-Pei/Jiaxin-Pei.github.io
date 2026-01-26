@@ -29,6 +29,10 @@ redirect_from:
 ## Recent Preprints
 
 
+* **Permission Manifests for Web Agents**  
+  *Samuele Marro, Alan Chan, Xinxing Ren, Lewis Hammond, Jesse Wright, Gurjyot Wanga, Tiziano Piccardi, Nuno Campos, Tobin South, Jialin Yu, Alex Pentland, Philip Torr, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2601.02371)
+
 * **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
   *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2510.05154) • [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) • [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) • [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
