@@ -31,8 +31,7 @@ redirect_from:
 
 * **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
   *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
-  [[Paper]](https://arxiv.org/abs/2510.05154)
-
+  [[Paper]](https://arxiv.org/abs/2510.05154) [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
 
 * **The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets**  
   *Shenzhe Zhu, Jiao Sun, Yi Nian, Tobin South, Alex Pentland, **Jiaxin Pei***  
@@ -54,15 +53,6 @@ redirect_from:
   *Tobin South, Subramanya Nagabhushanaradhya, Ayesha Dissanayaka, Sarah Cecchetti, George Fletcher, Victor Lu, Aldo Pietropaolo, Dean H Saxe, Jeff Lombardo, Abhishek Maligehalli Shivalingaiah, Stan Bounev, Alex Keisner, Andor Kesselman, Zack Proser, Ginny Fahs, Andrew Bunyea, Ben Moskowitz, Atul Tulshibagwale, Dazza Greenwood, **Jiaxin Pei**, Alex Pentland*  
   [[Paper]](https://arxiv.org/abs/2510.25819)
 
-
-* **Benchmarking Overton Pluralism in LLMs**  
-  *Elinor Poole-Dayan, Jiayi Wu, Taylor Sorensen, **Jiaxin Pei**, Michiel A. Bakker*  
-  [[Paper]](https://arxiv.org/abs/2512.01351)
-
-
-
-
-
 <!-- * **Writing Patterns Reveal a Hidden Division of Labor in Scientific Teams**  
   *Lulin Yang, **Jiaxin Pei**, Lingfei Wu*  
   [[Paper]](https://arxiv.org/abs/2504.14093)
@@ -70,6 +60,18 @@ redirect_from:
 * **Political-LLM: Large Language Models in Political Science**  
   *Lincan Li, Jiaqi Li, Catherine Chen, Fred Gui, Hongjia Yang, Chenxiao Yu, Zhengguang Wang, Jianing Cai, Junlong Aaron Zhou, Bolin Shen, Alex Qian, Weixin Chen, Zhongkai Xue, Lichao Sun, Lifang He, Hanjie Chen, Kaize Ding, Zijian Du, Fangzhou Mu, **Jiaxin Pei**, Jieyu Zhao, Swabha Swayamdipta, Willie Neiswanger, Hua Wei, Xiyang Hu, Shixiang Zhu, Tianlong Chen, Yingzhou Lu, Yang Shi, Lianhui Qin, Tianfan Fu, Zhengzhong Tu, Yuzhe Yang, Jaemin Yoo, Jiaheng Zhang, Ryan Rossi, Liang Zhan, Liang Zhao, Emilio Ferrara, Yan Liu, Furong Huang, Xiangliang Zhang, Lawrence Rothenberg, Shuiwang Ji, Philip S. Yu, Yue Zhao, Yushun Dong*  
   [[Paper]](https://arxiv.org/abs/2412.06864) [[Website]](https://political-llm.org) -->
+
+## 2026
+
+* **Paper Copilot: Tracking the Evolution of Peer Review in AI Conferences**  
+  Jing Yang, Qiyao Wei, **Jiaxin Pei**
+  ICLR 2026  
+  [[Paper]](https://arxiv.org/abs/2510.13201) [[Website]](https://papercopilot.com/)
+
+* **Benchmarking Overton Pluralism in LLMs**  
+  *Elinor Poole-Dayan, Jiayi Wu, Taylor Sorensen, **Jiaxin Pei**, Michiel A. Bakker*  
+  ICLR 2026  
+  [[Paper]](https://arxiv.org/abs/2512.01351)
 
 ## 2025
 
