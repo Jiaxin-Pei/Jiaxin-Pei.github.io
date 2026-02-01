@@ -29,10 +29,6 @@ redirect_from:
 ## Recent Preprints
 
 
-* **Permission Manifests for Web Agents**  
-  *Samuele Marro, Alan Chan, Xinxing Ren, Lewis Hammond, Jesse Wright, Gurjyot Wanga, Tiziano Piccardi, Nuno Campos, Tobin South, Jialin Yu, Alex Pentland, Philip Torr, **Jiaxin Pei***  
-  [[Paper]](https://arxiv.org/abs/2601.02371)
-
 * **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
   *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2510.05154) • [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) • [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) • [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
@@ -44,13 +40,17 @@ redirect_from:
 
 * **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**  
   *Yijia Shao, Humishka Zope, Yucheng Jiang, **Jiaxin Pei**, David Nguyen, Erik Brynjolfsson, Diyi Yang*  
-  [[Paper]](https://arxiv.org/abs/2506.06576) • [[Website]](https://futureofwork.saltlab.stanford.edu)  
+  [[Paper]](https://arxiv.org/abs/2506.06576) • [[Website]](https://futureofwork.saltlab.stanford.edu) • [[Data]](https://github.com/SALT-NLP/workbank)  
   Media: [Forbes](https://www.forbes.com/sites/avivalegatt/2025/06/16/ai-agents-are-set-to-transform-higher-education-heres-how/) • [Stanford HAI](https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence)
 
 * **Deliberation.io: Facilitating Democratic and Civil Engagement at Scale with Open-Source and Open-Science**  
   ***Jiaxin Pei**, José Ramón Enríquez, Umar Patel, Alia Braley, Nuole Chen, Lily Tsai, and Alex Pentland*  
   [[Website]](https://deliberation.io)  
   Media: [GovTech](https://www.govtech.com/artificial-intelligence/washington-d-c-will-pilot-ai-at-public-listening-session) • [Stanford Daily](https://stanforddaily.com/2025/09/24/digital-economy-lab-launches-platform/) 
+
+* **Permission Manifests for Web Agents**  
+  *Samuele Marro, Alan Chan, Xinxing Ren, Lewis Hammond, Jesse Wright, Gurjyot Wanga, Tiziano Piccardi, Nuno Campos, Tobin South, Jialin Yu, Alex Pentland, Philip Torr, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2601.02371)
 
 
 * **Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world**  
@@ -75,7 +75,7 @@ redirect_from:
 * **Benchmarking Overton Pluralism in LLMs**  
   *Elinor Poole-Dayan, Jiayi Wu, Taylor Sorensen, **Jiaxin Pei**, Michiel A. Bakker*  
   ICLR 2026  
-  [[Paper]](https://arxiv.org/abs/2512.01351)
+  [[Paper]](https://arxiv.org/abs/2512.01351) • [[Dataset]](https://huggingface.co/datasets/elinorpd/overtonbench)
 
 ## 2025
 
