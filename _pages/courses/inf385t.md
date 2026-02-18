@@ -42,9 +42,9 @@ This course explores the design and development of practical applications powere
 
 ## Schedule {#schedule}
 
-**Schedule is tentative and subject to change.** Based on the [UT Austin 2026–2027 Academic Calendar](https://registrar.utexas.edu/calendars/26-27). Fall term: Aug 24 – Dec 14, 2026.
+**Schedule is tentative and subject to change.**
 
-* **Week 1 (8/24–8/28)** – Finding ideas
+* **Week 1 (8/24–8/28) – Finding ideas**
   * Course introduction. How to identify opportunities and find ideas for building something cool with LLMs.
   * Readings:  
     * [Y Combinator, Requests for Startups (RFS)](https://www.ycombinator.com/rfs)  
@@ -56,45 +56,45 @@ This course explores the design and development of practical applications powere
     * [Sequoia, AI in 2025](https://sequoiacap.com/article/ai-in-2025/)  
     * [NFX, Generative AI Tech Market Map](https://www.nfx.com/post/generative-ai-tech-market-map)  
   * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and (2–4) three products you want to build
-* **Week 2 (8/31–9/4)** – LLM basics I
+* **Week 2 (8/31–9/4) – LLM basics I**
   * How LLMs work; prompting and instruction-following; few-shot learning; in-context learning.
   * **Homework:** Use AI tools to build the **first** demo of the LLM application you want to build
-* **Week 3 (9/7–9/11)** – LLM basics II *(Labor Day 9/7; no class)*
+* **Week 3 (9/7–9/11) – LLM basics II** *(Labor Day 9/7; no class)*
   * Retrieval-augmented generation (RAG); embeddings and semantic search; grounding LLM outputs.
   * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
-* **Week 4 (9/14–9/18)** – LLM basics III
+* **Week 4 (9/14–9/18) – LLM basics III**
   * Orchestration and composing LLM calls; chaining; structured outputs; key patterns for building applications.
   * **Homework:** Use AI tools to build the **third** demo of the LLM application you want to build
-* **Week 5 (9/21–9/25)** – Lightweight demo day
+* **Week 5 (9/21–9/25) – Lightweight demo day**
   * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
-* **Week 6 (9/28–10/2)** – Agentic systems and tool use
+* **Week 6 (9/28–10/2) – Agentic systems and tool use**
   * Planning, multi-step reasoning, function calling, and agent frameworks.
   * **Homework:** Build application in teams
-* **Week 7 (10/5–10/9)** – Evaluation and testing
+* **Week 7 (10/5–10/9) – Evaluation and testing**
   * Automated evals, human evals, LLM-as-judge, regression testing.
   * **Homework:** Build application in teams
-* **Week 8 (10/12–10/16)** – Safety, guardrails, and reliability
+* **Week 8 (10/12–10/16) – Safety, guardrails, and reliability**
   * Prompt injection, hallucination mitigation, content filtering, error recovery.
   * **Homework:** Build application in teams
-* **Week 9 (10/19–10/23)** – Product design for AI
+* **Week 9 (10/19–10/23) – Product design for AI**
   * UX patterns, latency vs quality tradeoffs, human-in-the-loop design.
   * **Homework:** Build application in teams
-* **Week 10 (10/26–10/30)** – Demo day & beta test
+* **Week 10 (10/26–10/30) – Demo day & beta test**
   * Teams present their applications and run beta testing with real users.
-* **Week 11 (11/2–11/6)** – Cost optimization and deployment
+* **Week 11 (11/2–11/6) – Cost optimization and deployment**
   * Caching, model selection, latency optimization, serving infrastructure.
   * **Homework:** Iterate based on real user feedback
-* **Week 12 (11/9–11/13)** – Guest lecture: Founders
+* **Week 12 (11/9–11/13) – Guest lecture: Founders**
   * Founder perspective on building and shipping AI products.
   * **Homework:** Iterate based on real user feedback
-* **Week 13 (11/16–11/20)** – Guest lecture: Investors
+* **Week 13 (11/16–11/20) – Guest lecture: Investors**
   * Investor perspective on evaluating AI startups, moats, and go-to-market.
   * **Homework:** Iterate based on real user feedback
-* **Week 14 (11/23–11/27)** – Thanksgiving break; no classes
-* **Week 15 (11/30–12/4)** – Guest lecture: Researchers
+* **Week 14 (11/23–11/27) – Thanksgiving break; no classes**
+* **Week 15 (11/30–12/4) – Guest lecture: Researchers**
   * Researcher perspective on frontier AI and what's next.
   * **Homework:** Iterate based on real user feedback
-* **Week 16 (12/7)** – Public demo day *(last class day)*
+* **Week 16 (12/7) – Public demo day** *(last class day)*
 
 
 
