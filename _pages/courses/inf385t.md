@@ -7,8 +7,12 @@ author_profile: false
 
 <style>
 .page {
-  float: left;
+  float: none;
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
 }
 .page__inner-wrap {
   max-width: 100%;
