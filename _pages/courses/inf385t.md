@@ -1,16 +1,11 @@
 ---
 permalink: /courses/inf385t/
-title: "Large Language Model Applications"
+title: "INF 385T Large Language Model Applications"
 excerpt: "INF 385T - MSIS course at UT-Austin"
 author_profile: true
 ---
 
 {% include base_path %}
-{% include toc %}
-
-# INF 385T
-
-# Large Language Model Applications
 
 The University of Texas at Austin  
 School of Information  
@@ -40,11 +35,69 @@ Python programming is required. Prior experience with machine learning or natura
 
 * Readings and resources will be provided via hyperlinks under Schedule.
 * Exercises, code, etc. will be posted on Canvas.
-* We recommend [Google Colab](https://colab.research.google.com/) for assignments.
 
 ### Course overview and objectives
 
 This course explores the design and development of practical applications powered by large language models (LLMs), including agentic systems that can plan, take actions, and use tools to complete real-world tasks. The course covers both LLM fundamentals—how LLMs work, their capabilities and limitations—and applied methods for building reliable systems, including prompting, retrieval-augmented generation, orchestration, safety, and evaluation. The course is project-driven: student teams build and iterate on an LLM-based application throughout the term, complemented by guest lectures from founders, investors, and researchers on building and assessing frontier AI systems.
+
+## Schedule {#schedule}
+
+**Schedule is tentative and subject to change.** Based on the [UT Austin 2026–2027 Academic Calendar](https://registrar.utexas.edu/calendars/26-27). Fall term: Aug 24 – Dec 14, 2026.
+
+* **Week 1 (8/24–8/28)** – Finding ideas
+  * Course introduction. How to identify opportunities and find ideas for building something cool with LLMs.
+  * Readings:  
+    * [Y Combinator, Requests for Startups (RFS)](https://www.ycombinator.com/rfs)  
+    * [Y Combinator, Techno-Industrialist](https://www.ycombinator.com/techno-industrialist)  
+    * [a16z, Big Ideas 2026 (Part 1)](https://a16z.com/newsletter/big-ideas-2026-part-1/)  
+    * [Greylock, Idea Map](https://greylock.com/idea-map/)  
+    * [Bessemer Venture Partners, Atlas](https://www.bvp.com/atlas)  
+    * [Sequoia, AI Retail Opportunity](https://sequoiacap.com/article/ai-retail-opportunity/)  
+    * [Sequoia, AI in 2025](https://sequoiacap.com/article/ai-in-2025/)  
+    * [NFX, Generative AI Tech Market Map](https://www.nfx.com/post/generative-ai-tech-market-map)  
+  * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and (2–4) three products you want to build
+* **Week 2 (8/31–9/4)** – LLM basics I
+  * How LLMs work; prompting and instruction-following; few-shot learning; in-context learning.
+  * **Homework:** Use AI tools to build the **first** demo of the LLM application you want to build
+* **Week 3 (9/7–9/11)** – LLM basics II *(Labor Day 9/7; no class)*
+  * Retrieval-augmented generation (RAG); embeddings and semantic search; grounding LLM outputs.
+  * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
+* **Week 4 (9/14–9/18)** – LLM basics III
+  * Orchestration and composing LLM calls; chaining; structured outputs; key patterns for building applications.
+  * **Homework:** Use AI tools to build the **third** demo of the LLM application you want to build
+* **Week 5 (9/21–9/25)** – Lightweight demo day
+  * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
+* **Week 6 (9/28–10/2)** – Agentic systems and tool use
+  * Planning, multi-step reasoning, function calling, and agent frameworks.
+  * **Homework:** Build application in teams
+* **Week 7 (10/5–10/9)** – Evaluation and testing
+  * Automated evals, human evals, LLM-as-judge, regression testing.
+  * **Homework:** Build application in teams
+* **Week 8 (10/12–10/16)** – Safety, guardrails, and reliability
+  * Prompt injection, hallucination mitigation, content filtering, error recovery.
+  * **Homework:** Build application in teams
+* **Week 9 (10/19–10/23)** – Product design for AI
+  * UX patterns, latency vs quality tradeoffs, human-in-the-loop design.
+  * **Homework:** Build application in teams
+* **Week 10 (10/26–10/30)** – Demo day & beta test
+  * Teams present their applications and run beta testing with real users.
+* **Week 11 (11/2–11/6)** – Cost optimization and deployment
+  * Caching, model selection, latency optimization, serving infrastructure.
+  * **Homework:** Iterate based on real user feedback
+* **Week 12 (11/9–11/13)** – Guest lecture: Founders
+  * Founder perspective on building and shipping AI products.
+  * **Homework:** Iterate based on real user feedback
+* **Week 13 (11/16–11/20)** – Guest lecture: Investors
+  * Investor perspective on evaluating AI startups, moats, and go-to-market.
+  * **Homework:** Iterate based on real user feedback
+* **Week 14 (11/23–11/27)** – Thanksgiving break; no classes
+* **Week 15 (11/30–12/4)** – Guest lecture: Researchers
+  * Researcher perspective on frontier AI and what's next.
+  * **Homework:** Iterate based on real user feedback
+* **Week 16 (12/7)** – Public demo day *(last class day)*
+
+
+
 
 ### Course requirements and grading policy
 
@@ -101,44 +154,4 @@ The University of Texas at Austin provides upon request appropriate academic acc
 
 A student who cannot meet an assignment deadline due to the observance of a religious holy day may submit the assignment up to 24 hours late without penalty, if proper notice of the planned absence has been given. Notice must be given at least 14 days prior to the due date. For religious holy days that fall within the first 2 weeks of the semester, notice should be given on the first day of the semester. Notice should be emailed to the instructor and course staff.
 
-## Schedule {#schedule}
 
-**Schedule is tentative and subject to change.** Based on the [UT Austin 2026–2027 Academic Calendar](https://registrar.utexas.edu/calendars/26-27). Fall term: Aug 24 – Dec 14, 2026.
-
-* **Week 1 (8/24–8/28)** – Course introduction; how to find ideas for building something cool  
-  * Readings:  
-    * [Y Combinator, Requests for Startups (RFS)](https://www.ycombinator.com/rfs)  
-    * [Y Combinator, Techno-Industrialist](https://www.ycombinator.com/techno-industrialist)  
-    * [a16z, Big Ideas 2026 (Part 1)](https://a16z.com/newsletter/big-ideas-2026-part-1/)  
-    * [Greylock, Idea Map](https://greylock.com/idea-map/)  
-    * [Bessemer Venture Partners, Atlas](https://www.bvp.com/atlas)  
-    * [Sequoia, AI Retail Opportunity](https://sequoiacap.com/article/ai-retail-opportunity/)  
-    * [Sequoia, AI in 2025](https://sequoiacap.com/article/ai-in-2025/)  
-    * [NFX, Generative AI Tech Market Map](https://www.nfx.com/post/generative-ai-tech-market-map)  
-  * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and (2–4) three products you want to build
-* **Week 2 (8/31–9/4)** – *LLM basics I:* How LLMs work; prompting and instruction-following; few-shot learning; in-context learning  
-  * **Homework:** Use AI tools to build the **first** demo of the LLM application you want to build
-* **Week 3 (9/7–9/11)** – *LLM basics II:* Retrieval-augmented generation (RAG); embeddings and semantic search; grounding LLM outputs *(Labor Day 9/7; no class)*  
-  * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
-* **Week 4 (9/14–9/18)** – *LLM basics III:* Orchestration and composing LLM calls; chaining; structured outputs; key patterns for building applications  
-  * **Homework:** Use AI tools to build the **third** demo of the LLM application you want to build
-* **Week 5 (9/21–9/25)** – *Lightweight demo day:* Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project
-* **Week 6 (9/28–10/2)** – *Agentic systems and tool use:* Planning, multi-step reasoning, function calling, agent frameworks  
-  * **Homework:** Build application in teams
-* **Week 7 (10/5–10/9)** – *Evaluation and testing LLM applications:* Automated evals, human evals, LLM-as-judge, regression testing  
-  * **Homework:** Build application in teams
-* **Week 8 (10/12–10/16)** – *Safety, guardrails, and reliability:* Prompt injection, hallucination mitigation, content filtering, error recovery  
-  * **Homework:** Build application in teams
-* **Week 9 (10/19–10/23)** – *Product design for AI applications:* UX patterns, latency vs quality tradeoffs, human-in-the-loop design  
-  * **Homework:** Build application in teams
-* **Week 10 (10/26–10/30)** – *Demo day & beta test:* Teams present their applications and run beta testing with real users
-* **Week 11 (11/2–11/6)** – *Cost optimization and deployment:* Caching, model selection, latency optimization, serving infrastructure  
-  * **Homework:** Iterate based on real user feedback
-* **Week 12 (11/9–11/13)** – *Guest lecture:* Founder perspective on building and shipping AI products  
-  * **Homework:** Iterate based on real user feedback
-* **Week 13 (11/16–11/20)** – *Guest lecture:* Investor perspective on evaluating AI startups, moats, and go-to-market  
-  * **Homework:** Iterate based on real user feedback
-* **Week 14 (11/23–11/27)** – Thanksgiving break; no classes
-* **Week 15 (11/30–12/4)** – *Guest lecture:* Researcher perspective on frontier AI and what's next  
-  * **Homework:** Iterate based on real user feedback
-* **Week 16 (12/7)** – Public demo day *(last class day)*
