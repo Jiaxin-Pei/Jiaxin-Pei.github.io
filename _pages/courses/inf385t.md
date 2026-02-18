@@ -44,12 +44,6 @@ Instructor: [Jiaxin Pei](https://jiaxin-pei.github.io/)
 
 ## Syllabus {#syllabus}
 
-* **Course**: INF 385T Large Language Model Applications
-* **Semester**: Fall 2026
-* **Webpage**: https://jiaxin-pei.github.io/courses/inf385t/
-* **Canvas**: TBA
-* **Meeting**: TBA
-
 ### Prerequisites
 
 Comfortable writing Python applications, using APIs, and working in a terminal. Prior experience with machine learning or natural language processing is also required.
