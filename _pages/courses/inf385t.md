@@ -5,7 +5,6 @@ excerpt: "INF 385T - MSIS course at UT-Austin"
 author_profile: false
 ---
 
-{% include base_path %}
 
 <style>
 .page {
@@ -34,14 +33,18 @@ details li {
   margin-bottom: 3px;
 }
 </style>
-"Build an AI Product in 15 weeks and submit to Y Combinator"
+<div style="text-align: center;">
+<span style="font-size: 2.6em; font-weight: bold;">INF 385T Large Language Model Applications</span>
 
+"Build an AI Product in 15 weeks and submit to Y Combinator"
 
 The University of Texas at Austin, Fall 2026  
 Instructor: [Jiaxin Pei](https://jiaxin-pei.github.io/)
 Email: jiaxinpei@utexas.edu  
 
 [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
+
+</div>
 
 ## Syllabus {#syllabus}
 
