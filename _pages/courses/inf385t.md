@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
+"Build an AI Product in 15 weeks and submit to Y Combinator"
 
-The University of Texas at Austin  
-School of Information  
-Fall 2026  
+
+The University of Texas at Austin, Fall 2026  
 Instructor: [Jiaxin Pei](https://jiaxin-pei.github.io/)
 
 [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
 
 ## Syllabus {#syllabus}
 
-* **Course**: INF 385T Large Language Model Applications (MSIS)
+* **Course**: INF 385T Large Language Model Applications
 * **Semester**: Fall 2026
 * **Webpage**: https://jiaxin-pei.github.io/courses/inf385t/
 * **Canvas**: TBA
