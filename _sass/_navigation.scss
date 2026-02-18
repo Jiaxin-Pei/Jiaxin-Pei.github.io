@@ -203,6 +203,7 @@
 
   .visible-links {
     display: table;
+    margin: 0 auto;
 
     li {
       display: table-cell;
@@ -210,16 +211,6 @@
 
       &:first-child {
         font-weight: bold;
-
-        a {
-          margin-left: 0;
-        }
-      }
-
-      &:last-child {
-        a {
-          margin-right: 0;
-        }
       }
     }
 

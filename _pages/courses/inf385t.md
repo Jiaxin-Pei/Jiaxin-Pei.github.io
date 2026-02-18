@@ -117,6 +117,47 @@ By the end of this course, students will be able to:
 .phase-beta { background: linear-gradient(180deg, #ffe4e6 0%, #fff1f2 100%); }
 .phase-iterate { background: linear-gradient(180deg, #cffafe 0%, #ecfeff 100%); }
 .phase-launch { background: linear-gradient(180deg, #fed7aa 0%, #fff7ed 100%); }
+
+@media (max-width: 768px) {
+  .course-timeline {
+    font-size: 0.68em;
+  }
+  .course-timeline .phase {
+    padding: 10px 4px;
+  }
+  .course-timeline .phase-icon {
+    font-size: 1.3em;
+    margin-bottom: 3px;
+  }
+  .course-timeline .phase-title {
+    font-size: 0.78em;
+  }
+  .course-timeline .phase-weeks {
+    font-size: 0.68em;
+  }
+  .course-timeline .phase-desc {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .course-timeline {
+    font-size: 0.58em;
+  }
+  .course-timeline .phase {
+    padding: 8px 2px;
+  }
+  .course-timeline .phase-icon {
+    font-size: 1.1em;
+    margin-bottom: 2px;
+  }
+  .course-timeline .phase-title {
+    font-size: 0.72em;
+  }
+  .course-timeline .phase-weeks {
+    font-size: 0.62em;
+  }
+}
 </style>
 
 <div class="course-timeline">
