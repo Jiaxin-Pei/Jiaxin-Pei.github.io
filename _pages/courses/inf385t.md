@@ -53,74 +53,93 @@ By the end of this course, students will be able to:
 <style>
 .course-timeline {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0;
+  align-items: stretch;
   margin: 1.5em 0 2em 0;
-  font-size: 0.85em;
+  font-size: 0.82em;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
 }
 .course-timeline .phase {
-  flex: 1 1 0;
-  min-width: 120px;
-  padding: 12px 14px;
-  border-left: 4px solid;
+  flex: 1;
+  padding: 14px 10px;
+  text-align: center;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.course-timeline .phase-icon {
+  font-size: 1.6em;
+  margin-bottom: 6px;
 }
 .course-timeline .phase-title {
   font-weight: 700;
-  font-size: 0.95em;
-  margin-bottom: 4px;
+  font-size: 0.88em;
+  margin-bottom: 2px;
 }
 .course-timeline .phase-weeks {
-  font-size: 0.8em;
-  opacity: 0.7;
-  margin-bottom: 4px;
+  font-size: 0.75em;
+  opacity: 0.6;
+  margin-bottom: 5px;
 }
 .course-timeline .phase-desc {
-  font-size: 0.82em;
-  line-height: 1.4;
+  font-size: 0.75em;
+  line-height: 1.35;
+  opacity: 0.85;
 }
-.phase-ideate { border-color: #f59e0b; background: #fef9ee; }
-.phase-basics { border-color: #3b82f6; background: #eff6ff; }
-.phase-demo1 { border-color: #8b5cf6; background: #f5f3ff; }
-.phase-build { border-color: #10b981; background: #ecfdf5; }
-.phase-beta { border-color: #f43f5e; background: #fff1f2; }
-.phase-iterate { border-color: #06b6d4; background: #ecfeff; }
-.phase-launch { border-color: #f97316; background: #fff7ed; }
+.course-timeline .phase + .phase {
+  border-left: 1px solid rgba(0,0,0,0.08);
+}
+.phase-ideate { background: linear-gradient(180deg, #fef3c7 0%, #fef9ee 100%); }
+.phase-basics { background: linear-gradient(180deg, #dbeafe 0%, #eff6ff 100%); }
+.phase-demo1 { background: linear-gradient(180deg, #ede9fe 0%, #f5f3ff 100%); }
+.phase-build { background: linear-gradient(180deg, #d1fae5 0%, #ecfdf5 100%); }
+.phase-beta { background: linear-gradient(180deg, #ffe4e6 0%, #fff1f2 100%); }
+.phase-iterate { background: linear-gradient(180deg, #cffafe 0%, #ecfeff 100%); }
+.phase-launch { background: linear-gradient(180deg, #fed7aa 0%, #fff7ed 100%); }
 </style>
 
 <div class="course-timeline">
   <div class="phase phase-ideate">
-    <div class="phase-title">💡 Ideate</div>
+    <div class="phase-icon">💡</div>
+    <div class="phase-title">Ideate</div>
     <div class="phase-weeks">Week 1</div>
     <div class="phase-desc">Find ideas, study the landscape</div>
   </div>
   <div class="phase phase-basics">
-    <div class="phase-title">🧱 Learn & Build</div>
+    <div class="phase-icon">🧱</div>
+    <div class="phase-title">Learn & Build</div>
     <div class="phase-weeks">Weeks 2–4</div>
-    <div class="phase-desc">LLM basics, build 3 individual demos</div>
+    <div class="phase-desc">LLM basics, 3 individual demos</div>
   </div>
   <div class="phase phase-demo1">
-    <div class="phase-title">🎤 Demo Day 1</div>
+    <div class="phase-icon">🎤</div>
+    <div class="phase-title">Demo Day</div>
     <div class="phase-weeks">Week 5</div>
     <div class="phase-desc">Present, vote, form teams</div>
   </div>
   <div class="phase phase-build">
-    <div class="phase-title">🔨 Team Build</div>
+    <div class="phase-icon">🔨</div>
+    <div class="phase-title">Team Build</div>
     <div class="phase-weeks">Weeks 6–9</div>
     <div class="phase-desc">Agents, evals, multi-modal, safety</div>
   </div>
   <div class="phase phase-beta">
-    <div class="phase-title">🧪 Beta Test</div>
+    <div class="phase-icon">🧪</div>
+    <div class="phase-title">Beta Test</div>
     <div class="phase-weeks">Week 10</div>
-    <div class="phase-desc">Demo day & real user testing</div>
+    <div class="phase-desc">Demo &amp; real user testing</div>
   </div>
   <div class="phase phase-iterate">
-    <div class="phase-title">🔄 Iterate</div>
+    <div class="phase-icon">🔄</div>
+    <div class="phase-title">Iterate</div>
     <div class="phase-weeks">Weeks 11–15</div>
-    <div class="phase-desc">User feedback, guest lectures, deploy</div>
+    <div class="phase-desc">Feedback, guest lectures, deploy</div>
   </div>
   <div class="phase phase-launch">
-    <div class="phase-title">🚀 Launch</div>
+    <div class="phase-icon">🚀</div>
+    <div class="phase-title">Launch</div>
     <div class="phase-weeks">Week 16</div>
     <div class="phase-desc">Public demo day</div>
   </div>
