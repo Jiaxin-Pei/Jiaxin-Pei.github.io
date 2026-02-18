@@ -38,8 +38,7 @@ details li {
 "Build an AI Product in 15 weeks and submit to Y Combinator"
 
 The University of Texas at Austin, Fall 2026  
-Instructor: [Jiaxin Pei](https://jiaxin-pei.github.io/)
-Email: jiaxinpei@utexas.edu  
+[Jiaxin Pei](https://jiaxin-pei.github.io/), jiaxinpei@utexas.edu  
 
 [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
 
