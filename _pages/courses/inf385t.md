@@ -161,6 +161,7 @@ By the end of this course, students will be able to:
   * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and (2–4) three products you want to build
 * **Week 2 (8/31–9/4) – LLM basics I**
   * How LLMs work; prompting and instruction-following; few-shot learning; in-context learning.
+  * Product to explore: [RowFlow](https://rowflow.ai/) (YC S25) — replaces traditional forms with AI conversations that extract structured data from natural language
   * Readings:
     * [DeepLearning.AI, How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) (short course)
     * [Anthropic, Prompt Engineering Overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
@@ -169,6 +170,7 @@ By the end of this course, students will be able to:
   * **Homework:** Use AI tools to build the **first** demo of the LLM application you want to build
 * **Week 3 (9/7–9/11) – LLM basics II** *(Labor Day 9/7; no class)*
   * Retrieval-augmented generation (RAG); embeddings and semantic search; grounding LLM outputs.
+  * Product to explore: [Morphik](https://www.morphik.ai/) (YC W25) — RAG infrastructure with visual-first retrieval that achieves 96% accuracy on document analysis without hallucinations
   * Readings:
     * [LangChain, Build a RAG Agent](https://python.langchain.com/docs/tutorials/rag/)
     * [Ashutosh, The Complete Guide to RAG in 2025](https://ashutosh.dev/the-complete-guide-to-retrieval-augmented-generation-rag-in-2025/)
@@ -176,6 +178,7 @@ By the end of this course, students will be able to:
   * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
 * **Week 4 (9/14–9/18) – LLM basics III**
   * Orchestration and composing LLM calls; chaining; structured outputs; key patterns for building applications.
+  * Product to explore: [Paloma](https://www.ycombinator.com/companies/paloma) (YC S25) — AI-native CRM that orchestrates LLM chains to automate post-sales operations end-to-end
   * Readings:
     * [OpenAI, Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs)
     * [OpenAI, Function Calling](https://platform.openai.com/docs/guides/function-calling)
@@ -186,6 +189,7 @@ By the end of this course, students will be able to:
   * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
 * **Week 6 (9/28–10/2) – Agentic systems and tool use**
   * Planning, multi-step reasoning, function calling, and agent frameworks.
+  * Product to explore: [Browser Use](https://www.browseruse.com/) (YC W25) — open-source web agent with 50k+ GitHub stars that lets AI control browsers to complete real-world tasks
   * Readings:
     * [Anthropic, Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
     * [Anthropic, Writing Effective Tools for AI Agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
@@ -194,6 +198,7 @@ By the end of this course, students will be able to:
   * **Homework:** Build application in teams
 * **Week 7 (10/5–10/9) – Evaluation and testing**
   * Automated evals, human evals, LLM-as-judge, regression testing.
+  * Product to explore: [Confident AI](https://www.ycombinator.com/companies/confident-ai) (YC W25) — LLM eval and observability platform built by the creators of DeepEval (12.6k GitHub stars, 3M+ monthly downloads)
   * Readings:
     * [Hamel Husain, Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/index.html)
     * [Anthropic, Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
@@ -201,6 +206,7 @@ By the end of this course, students will be able to:
   * **Homework:** Build application in teams
 * **Week 8 (10/12–10/16) – Multi-modal applications**
   * Vision, audio, and video models; integrating multi-modal capabilities into LLM applications; use cases and design patterns.
+  * Product to explore: [Cardboard](https://www.ycombinator.com/companies/cardboard) (YC W26) — agentic video editor that uses multi-modal LLMs to understand footage and auto-generate edits
   * Readings:
     * [OpenAI, Vision Guide](https://platform.openai.com/docs/guides/vision)
     * [Google, Gemini Multi-Modal Capabilities](https://ai.google.dev/gemini-api/docs/vision)
@@ -208,6 +214,7 @@ By the end of this course, students will be able to:
   * **Homework:** Build application in teams
 * **Week 9 (10/19–10/23) – Safety, guardrails, and product design**
   * Prompt injection, hallucination mitigation, content filtering, error recovery; UX patterns, latency vs quality tradeoffs, human-in-the-loop design.
+  * Product to explore: [Alter](https://www.ycombinator.com/companies/alter) (YC S25) — zero-trust identity and access control for AI agents, with fine-grained authorization and real-time guardrails
   * Readings:
     * [OWASP, Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
     * [Simon Willison, The Lethal Trifecta for AI Agents](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)
@@ -219,6 +226,7 @@ By the end of this course, students will be able to:
   * Teams present their applications and run beta testing with real users.
 * **Week 11 (11/2–11/6) – Cost optimization and deployment**
   * Caching, model selection, latency optimization, serving infrastructure.
+  * Product to explore: [Chamber](https://www.ycombinator.com/companies/chamber) (YC W26) — autopilots GPU cluster governance, enabling teams to run ~50% more workloads on the same infrastructure
   * Readings:
     * [Enrico Piovano, LLM Cost Engineering: Token Budgeting, Caching, and Model Routing](https://enricopiovano.com/blog/llm-cost-optimization-caching-strategies)
     * [Redis, LLMOps Guide: Build Fast, Cost-Effective LLM Apps](https://redis.io/blog/large-language-model-operations-guide/)
@@ -226,13 +234,16 @@ By the end of this course, students will be able to:
   * **Homework:** Iterate based on real user feedback
 * **Week 12 (11/9–11/13) – Guest lecture: Founders**
   * Founder perspective on building and shipping AI products.
+  * Product to explore: [Martini](https://www.ycombinator.com/companies/martini) (YC W26) — collaborative AI-native platform for professional filmmaking using generative media
   * **Homework:** Iterate based on real user feedback
 * **Week 13 (11/16–11/20) – Guest lecture: Investors**
   * Investor perspective on evaluating AI startups, moats, and go-to-market.
+  * Product to explore: [Fenrock AI](https://www.ycombinator.com/companies/fenrock-ai-yc-w26) (YC W26) — AI agents for financial crime compliance that help analysts process 10x more workload
   * **Homework:** Iterate based on real user feedback
 * **Week 14 (11/23–11/27) – Thanksgiving break; no classes**
 * **Week 15 (11/30–12/4) – Guest lecture: Researchers**
   * Researcher perspective on frontier AI and what's next.
+  * Product to explore: [Ritivel](https://www.ycombinator.com/companies/ritivel) (YC W26) — AI agents that turn clinical trial data into FDA submission documents in minutes
   * **Homework:** Iterate based on real user feedback
 * **Week 16 (12/7) – Public demo day** *(last class day)*
 
