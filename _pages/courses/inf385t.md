@@ -39,6 +39,7 @@ details li {
 
 The University of Texas at Austin, Fall 2026  
 Instructor: [Jiaxin Pei](https://jiaxin-pei.github.io/)
+Email: jiaxinpei@utexas.edu  
 
 [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
 
@@ -47,11 +48,6 @@ Instructor: [Jiaxin Pei](https://jiaxin-pei.github.io/)
 ### Prerequisites
 
 Comfortable writing Python applications, using APIs, and working in a terminal. Prior experience with machine learning or natural language processing is also required.
-
-### Contact information
-
-* **Instructor**: [Jiaxin Pei](https://jiaxin-pei.github.io/); email: jiaxinpei@utexas.edu  
-  * Office hours: TBA. Location: TBA.
 
 ### Course materials
 
