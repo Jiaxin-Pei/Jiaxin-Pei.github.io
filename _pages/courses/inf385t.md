@@ -50,6 +50,82 @@ By the end of this course, students will be able to:
 
 ## Schedule {#schedule}
 
+<style>
+.course-timeline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  margin: 1.5em 0 2em 0;
+  font-size: 0.85em;
+}
+.course-timeline .phase {
+  flex: 1 1 0;
+  min-width: 120px;
+  padding: 12px 14px;
+  border-left: 4px solid;
+  position: relative;
+}
+.course-timeline .phase-title {
+  font-weight: 700;
+  font-size: 0.95em;
+  margin-bottom: 4px;
+}
+.course-timeline .phase-weeks {
+  font-size: 0.8em;
+  opacity: 0.7;
+  margin-bottom: 4px;
+}
+.course-timeline .phase-desc {
+  font-size: 0.82em;
+  line-height: 1.4;
+}
+.phase-ideate { border-color: #f59e0b; background: #fef9ee; }
+.phase-basics { border-color: #3b82f6; background: #eff6ff; }
+.phase-demo1 { border-color: #8b5cf6; background: #f5f3ff; }
+.phase-build { border-color: #10b981; background: #ecfdf5; }
+.phase-beta { border-color: #f43f5e; background: #fff1f2; }
+.phase-iterate { border-color: #06b6d4; background: #ecfeff; }
+.phase-launch { border-color: #f97316; background: #fff7ed; }
+</style>
+
+<div class="course-timeline">
+  <div class="phase phase-ideate">
+    <div class="phase-title">💡 Ideate</div>
+    <div class="phase-weeks">Week 1</div>
+    <div class="phase-desc">Find ideas, study the landscape</div>
+  </div>
+  <div class="phase phase-basics">
+    <div class="phase-title">🧱 Learn & Build</div>
+    <div class="phase-weeks">Weeks 2–4</div>
+    <div class="phase-desc">LLM basics, build 3 individual demos</div>
+  </div>
+  <div class="phase phase-demo1">
+    <div class="phase-title">🎤 Demo Day 1</div>
+    <div class="phase-weeks">Week 5</div>
+    <div class="phase-desc">Present, vote, form teams</div>
+  </div>
+  <div class="phase phase-build">
+    <div class="phase-title">🔨 Team Build</div>
+    <div class="phase-weeks">Weeks 6–9</div>
+    <div class="phase-desc">Agents, evals, multi-modal, safety</div>
+  </div>
+  <div class="phase phase-beta">
+    <div class="phase-title">🧪 Beta Test</div>
+    <div class="phase-weeks">Week 10</div>
+    <div class="phase-desc">Demo day & real user testing</div>
+  </div>
+  <div class="phase phase-iterate">
+    <div class="phase-title">🔄 Iterate</div>
+    <div class="phase-weeks">Weeks 11–15</div>
+    <div class="phase-desc">User feedback, guest lectures, deploy</div>
+  </div>
+  <div class="phase phase-launch">
+    <div class="phase-title">🚀 Launch</div>
+    <div class="phase-weeks">Week 16</div>
+    <div class="phase-desc">Public demo day</div>
+  </div>
+</div>
+
 **Schedule is tentative and subject to change.**
 
 * **Week 1 (8/24–8/28) – Finding ideas**
