@@ -2,10 +2,20 @@
 permalink: /courses/inf385t/
 title: "INF 385T Large Language Model Applications"
 excerpt: "INF 385T - MSIS course at UT-Austin"
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
+
+<style>
+.page {
+  float: left;
+  width: 100%;
+}
+.page__inner-wrap {
+  max-width: 100%;
+}
+</style>
 "Build an AI Product in 15 weeks and submit to Y Combinator"
 
 
