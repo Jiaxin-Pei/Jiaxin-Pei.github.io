@@ -178,7 +178,7 @@ By the end of this course, students will be able to:
     <li><a href="https://sequoiacap.com/article/ai-in-2025/">Sequoia, AI in 2025</a></li>
     <li><a href="https://www.nfx.com/post/generative-ai-tech-market-map">NFX, Generative AI Tech Market Map</a></li>
     </ul></details>
-  * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and (2–4) three products you want to build
+  * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and three AI Applications you want to build
 * **Week 2 (8/31–9/4) – LLM basics I**
   * How LLMs work; prompting and instruction-following; few-shot learning; in-context learning.
   * Product to explore: [RowFlow](https://rowflow.ai/) (YC S25) — replaces traditional forms with AI conversations that extract structured data from natural language
