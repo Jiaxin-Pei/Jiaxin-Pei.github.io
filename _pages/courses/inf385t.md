@@ -1,6 +1,6 @@
 ---
 permalink: /courses/inf385t/
-excerpt: "INF 385T - MSIS course at UT-Austin"
+excerpt: "INF 385T - Large Language Model Applications"
 author_profile: false
 ---
 
