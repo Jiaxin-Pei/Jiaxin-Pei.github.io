@@ -24,7 +24,7 @@ Instructor: [Jiaxin Pei](https://jiaxin-pei.github.io/)
 
 ### Prerequisites
 
-Python programming is required. Prior experience with machine learning or natural language processing is highly desirable.
+Comfortable writing Python applications, using APIs, and working in a terminal. Prior experience with machine learning or natural language processing is also required.
 
 ### Contact information
 
@@ -39,6 +39,14 @@ Python programming is required. Prior experience with machine learning or natura
 ### Course overview and objectives
 
 This course explores the design and development of practical applications powered by large language models (LLMs), including agentic systems that can plan, take actions, and use tools to complete real-world tasks. The course covers both LLM fundamentals—how LLMs work, their capabilities and limitations—and applied methods for building reliable systems, including prompting, retrieval-augmented generation, orchestration, safety, and evaluation. The course is project-driven: student teams build and iterate on an LLM-based application throughout the term, complemented by guest lectures from founders, investors, and researchers on building and assessing frontier AI systems.
+
+By the end of this course, students will be able to:
+
+1. Design and build a working LLM-powered application from idea to deployed product
+2. Apply core techniques—prompting, RAG, orchestration, agentic tool use, and multi-modal integration—to solve real-world problems
+3. Evaluate LLM systems for quality, safety, and cost
+4. Iterate on a product based on real user feedback
+5. Communicate and present an AI product to technical and non-technical audiences
 
 ## Schedule {#schedule}
 
@@ -58,31 +66,68 @@ This course explores the design and development of practical applications powere
   * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and (2–4) three products you want to build
 * **Week 2 (8/31–9/4) – LLM basics I**
   * How LLMs work; prompting and instruction-following; few-shot learning; in-context learning.
+  * Readings:
+    * [DeepLearning.AI, How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) (short course)
+    * [Anthropic, Prompt Engineering Overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+    * [OpenAI, GPT Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+    * [Learn Prompting, Shot-Based Prompting: Zero-Shot, One-Shot, and Few-Shot](https://learnprompting.org/docs/basics/few_shot)
   * **Homework:** Use AI tools to build the **first** demo of the LLM application you want to build
 * **Week 3 (9/7–9/11) – LLM basics II** *(Labor Day 9/7; no class)*
   * Retrieval-augmented generation (RAG); embeddings and semantic search; grounding LLM outputs.
+  * Readings:
+    * [LangChain, Build a RAG Agent](https://python.langchain.com/docs/tutorials/rag/)
+    * [Ashutosh, The Complete Guide to RAG in 2025](https://ashutosh.dev/the-complete-guide-to-retrieval-augmented-generation-rag-in-2025/)
+    * [OpenAI, Embeddings Guide](https://platform.openai.com/docs/guides/embeddings)
   * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
 * **Week 4 (9/14–9/18) – LLM basics III**
   * Orchestration and composing LLM calls; chaining; structured outputs; key patterns for building applications.
+  * Readings:
+    * [OpenAI, Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs)
+    * [OpenAI, Function Calling](https://platform.openai.com/docs/guides/function-calling)
+    * [LangChain, Workflows and Agents](https://langchain-ai.github.io/langgraph/tutorials/workflows/)
+    * [Deepchecks, Orchestrating Multi-Step LLM Chains](https://www.deepchecks.com/orchestrating-multi-step-llm-chains-best-practices/)
   * **Homework:** Use AI tools to build the **third** demo of the LLM application you want to build
 * **Week 5 (9/21–9/25) – Lightweight demo day**
   * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
 * **Week 6 (9/28–10/2) – Agentic systems and tool use**
   * Planning, multi-step reasoning, function calling, and agent frameworks.
+  * Readings:
+    * [Anthropic, Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
+    * [Anthropic, Writing Effective Tools for AI Agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
+    * [Lilian Weng, LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+    * [LangGraph Tutorial: Building AI Agents](https://langchain-tutorials.github.io/langgraph-tutorial-2026-beginners-guide/)
   * **Homework:** Build application in teams
 * **Week 7 (10/5–10/9) – Evaluation and testing**
   * Automated evals, human evals, LLM-as-judge, regression testing.
+  * Readings:
+    * [Hamel Husain, Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/index.html)
+    * [Anthropic, Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
+    * [Evidently AI, LLM-as-a-Judge: A Complete Guide](https://evidentlyai.com/llm-guide/llm-as-a-judge)
   * **Homework:** Build application in teams
-* **Week 8 (10/12–10/16) – Safety, guardrails, and reliability**
-  * Prompt injection, hallucination mitigation, content filtering, error recovery.
+* **Week 8 (10/12–10/16) – Multi-modal applications**
+  * Vision, audio, and video models; integrating multi-modal capabilities into LLM applications; use cases and design patterns.
+  * Readings:
+    * [OpenAI, Vision Guide](https://platform.openai.com/docs/guides/vision)
+    * [Google, Gemini Multi-Modal Capabilities](https://ai.google.dev/gemini-api/docs/vision)
+    * [Anthropic, Vision with Claude](https://docs.anthropic.com/en/docs/build-with-claude/vision)
   * **Homework:** Build application in teams
-* **Week 9 (10/19–10/23) – Product design for AI**
-  * UX patterns, latency vs quality tradeoffs, human-in-the-loop design.
+* **Week 9 (10/19–10/23) – Safety, guardrails, and product design**
+  * Prompt injection, hallucination mitigation, content filtering, error recovery; UX patterns, latency vs quality tradeoffs, human-in-the-loop design.
+  * Readings:
+    * [OWASP, Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
+    * [Simon Willison, The Lethal Trifecta for AI Agents](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)
+    * [Promptfoo, Red Teaming LLM Guide](https://www.promptfoo.dev/docs/red-team/)
+    * [Google PAIR, People + AI Guidebook](https://pair.withgoogle.com/guidebook/patterns)
+    * [Nielsen Norman Group, Designing AI Products and Features](https://www.nngroup.com/articles/designing-ai-study-guide/)
   * **Homework:** Build application in teams
 * **Week 10 (10/26–10/30) – Demo day & beta test**
   * Teams present their applications and run beta testing with real users.
 * **Week 11 (11/2–11/6) – Cost optimization and deployment**
   * Caching, model selection, latency optimization, serving infrastructure.
+  * Readings:
+    * [Enrico Piovano, LLM Cost Engineering: Token Budgeting, Caching, and Model Routing](https://enricopiovano.com/blog/llm-cost-optimization-caching-strategies)
+    * [Redis, LLMOps Guide: Build Fast, Cost-Effective LLM Apps](https://redis.io/blog/large-language-model-operations-guide/)
+    * [GoPenAI, Optimizing LLM Infrastructure: Latency, Cost, and Quality Trade-offs](https://blog.gopenai.com/optimizing-large-language-model-infrastructure-a-practitioners-guide-to-latency-cost-and-46f9002152bc)
   * **Homework:** Iterate based on real user feedback
 * **Week 12 (11/9–11/13) – Guest lecture: Founders**
   * Founder perspective on building and shipping AI products.
@@ -97,18 +142,22 @@ This course explores the design and development of practical applications powere
 * **Week 16 (12/7) – Public demo day** *(last class day)*
 
 
-
-
 ### Course requirements and grading policy
 
-* **Assignments, 60%**  
-  * These will involve programming projects and write-ups. You will be required to turn in your code.
+* **Individual assignments (30%)** — Weeks 1–4
+  * Week 1: Four one-pagers on AI products
+  * Weeks 2–4: Three individual demos built with AI tools
 
-* **Class project, 40%**  
-  * An open-ended project building an LLM-based application. Work with the instructor to find a topic you are interested in.
-  * Milestones:
-    * An initial presentation and written proposal of your project;
-    * Final project presentation.
+* **Class project (60%)** — Weeks 5–16
+  * Teams of 3 students with complementary expertise (e.g., engineering, design, domain knowledge).
+  * Grading based on:
+    * Lightweight demo day presentation (Week 5)
+    * Beta test and demo day (Week 10)
+    * Iteration progress and user feedback incorporation (Weeks 11–15)
+    * Public demo day (Week 16)
+
+* **Peer review and participation (10%)**
+  * Reviewing and voting on classmates' demos (Week 5), beta testing other teams' products (Week 10), and engagement with guest speakers.
 
 * The course will use plus-minus grading, using the following scale:
 
@@ -126,25 +175,13 @@ This course explores the design and development of practical applications powere
 | D     | ≥ 63%      |
 | D-    | ≥ 60%      |
 
-### Extension policy
+### Academic integrity and AI tools
 
-* **Slip days**: You will have a total of 4 free slip days that you can use throughout the semester. You can choose how many days you want to use and distribute them across assignments. Slip days cannot be used fractionally: submitting an assignment 1 hour late incurs 1 slip day, 25 hours late incurs 2 slip days, etc.
-* **Extension permissions**: Beyond the slip days, extensions may *ONLY* be granted on a case-by-case basis due to medical emergency or other extraordinary circumstances. You *MUST* reach out to the instructor to obtain an extension *before the deadline in question*.
-* **Late penalty**: If you have used up your free slip days and did not obtain permission for an extension, 10 points (out of 100) will be deducted for lateness, plus an additional 5 points for every 24-hour period beyond 2 that the assignment is late. Resubmissions of assignments are allowed; extension penalty applies for post-deadline resubmissions.
+This course *requires* you to use AI tools — ChatGPT, Copilot, Cursor, and whatever else helps you build. Building on the shoulders of AI is a core skill this class teaches.
 
-### Academic dishonesty policy
+That said, using AI tools does not remove your responsibility to understand what you submit. You must be able to explain every piece of your work — how it works, why you made the choices you did, and what the tradeoffs are. If your only answer is "the AI told me to do it," that is not your own work.
 
-You are encouraged to discuss assignments with classmates. But all coding and written work must be your own. You are not allowed to collaborate with other students directly on code and submit shared code as part of two or more students' submissions, unless this is explicitly allowed as in the case of the final project.
-
-You may consult external resources such as blog posts, YouTube videos, academic papers, and GitHub repositories. However, your use of such resources must be limited in the same way as discussions with classmates: you can look at these to get ideas, but you should not take external code and submit it as part of your assignment.
-
-Be sure you respect these policies when posting on the discussion board. Asking clarifying questions and addressing possible bugs in the provided code are fair game, but do not discuss solutions in a substantive way that might spoil them for others. When in doubt, do not post large amounts of source code publicly.
-
-Students who violate these policies may receive a failing grade on the assignment in question or for the course overall, depending on the instructor's judgment and the severity of the infraction.
-
-### Policy on ChatGPT, Copilot, and other AI assistants
-
-We *require* you to use ChatGPT and related tools to understand concepts and as assistants with programming assignments. Building on the shoulder of GenAI tools is a key focus of this class. 
+You are encouraged to discuss ideas with classmates, consult external resources, and use open-source code. However, you must cite any substantial external code or resources you incorporate. For individual assignments, the work you submit must reflect your own understanding. For team projects, all team members are expected to contribute meaningfully and be able to speak to the full scope of the project.
 
 ### Notice about students with disabilities
 
