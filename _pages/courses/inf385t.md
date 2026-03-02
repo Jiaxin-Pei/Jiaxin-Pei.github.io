@@ -49,9 +49,7 @@ The University of Texas at Austin, Fall 2026
 
 </div>
 
-## Syllabus {#syllabus}
-
-### Class Philosophy
+## Class Philosophy
 
 This is not a lecture-and-exam course. It is a **builder course**. You will spend the semester designing, building, and shipping a real AI product—one good enough to put in front of real users.
 
@@ -60,6 +58,8 @@ We cover LLM fundamentals not as an end in themselves, but as tools you need to 
 We welcome students with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
 
 We hold ourselves and our students to a high standard. This course is fast-paced and demanding—expect to invest serious time and energy every week. But if you are passionate about building with AI and ready to put in the work, you will leave with a product you are proud of, skills that transfer directly to industry, and a portfolio piece that speaks for itself.
+
+## Syllabus {#syllabus}
 
 ### Prerequisites
 
