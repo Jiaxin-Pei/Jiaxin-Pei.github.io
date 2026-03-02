@@ -51,14 +51,14 @@ Andy Dai (Undergrad at Stanford)
 Zhenyu Zhang (Master's student at Stanford)  
 Tim Chen (Master's student at Stanford)  
 David Anugraha (Master's student at Stanford)  
-Michelle Liu (Master's student at Stanford, now at Adobe)  
-Zhemin Huang (Master's student at Stanford)  
 Longju Bai (Master's student at UMich)
 
 ## Past Mentees
 Fangqing Lin (Master's student at UMich)  
 Mingqian Zheng (Master's student at UMich, now PhD at CMU)  
 Huaman Sun (Master's student at UMich, now PhD at Northwestern)
+Zhemin Huang (Master's student at Stanford, now MTS at Microsoft AI)
+Michelle Liu (Master's student at Stanford, now SDE at Adobe)  
 
 
 <!-- * 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025! -->

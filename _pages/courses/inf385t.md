@@ -42,6 +42,7 @@ details li {
 "Build an AI Product in 15 weeks and submit to Y Combinator"
 
 The University of Texas at Austin, Fall 2026  
+**M 9:00 a.m.–12:00 p.m. · UTA 1.208**  
 [Jiaxin Pei](https://jiaxin-pei.github.io/), jiaxinpei@utexas.edu  
 
 [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
@@ -235,7 +236,10 @@ By the end of this course, students will be able to:
     <li><a href="https://learnprompting.org/docs/basics/few_shot">Learn Prompting, Shot-Based Prompting: Zero-Shot, One-Shot, and Few-Shot</a></li>
     </ul></details>
   * **Homework:** Use AI tools to build the **first** demo of the LLM application you want to build
-* **Week 3 (9/7–9/11) – LLM basics II** *(Labor Day 9/7; no class)*
+* **Week 3 (9/7–9/11)** *(Labor Day 9/7; no class)*
+  * Product to explore: [TBD]
+  * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
+* **Week 4 (9/14–9/18) – LLM basics II**
   * Retrieval-augmented generation (RAG); embeddings and semantic search; grounding LLM outputs.
   * Product to explore: [TBD]
   * Guest speaker: [TBD] (30 min)
@@ -244,25 +248,17 @@ By the end of this course, students will be able to:
     <li><a href="https://ashutosh.dev/the-complete-guide-to-retrieval-augmented-generation-rag-in-2025/">Ashutosh, The Complete Guide to RAG in 2025</a></li>
     <li><a href="https://platform.openai.com/docs/guides/embeddings">OpenAI, Embeddings Guide</a></li>
     </ul></details>
-  * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
-* **Week 4 (9/14–9/18) – LLM basics III**
-  * Orchestration and composing LLM calls; chaining; structured outputs; key patterns for building applications.
+  * **Homework:** Use AI tools to build the **third** demo of the LLM application you want to build
+* **Week 5 (9/21–9/25) – Lightweight demo day**
+  * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
+* **Week 6 (9/28–10/2) – Agentic systems and tool use**
+  * Orchestration and composing LLM calls; chaining; structured outputs. Planning, multi-step reasoning, function calling, and agent frameworks.
   * Product to explore: [TBD]
   * Guest speaker: [TBD] (30 min)
   * <details><summary>Readings</summary><ul>
     <li><a href="https://platform.openai.com/docs/guides/structured-outputs">OpenAI, Structured Outputs</a></li>
     <li><a href="https://platform.openai.com/docs/guides/function-calling">OpenAI, Function Calling</a></li>
     <li><a href="https://langchain-ai.github.io/langgraph/tutorials/workflows/">LangChain, Workflows and Agents</a></li>
-    <li><a href="https://www.deepchecks.com/orchestrating-multi-step-llm-chains-best-practices/">Deepchecks, Orchestrating Multi-Step LLM Chains</a></li>
-    </ul></details>
-  * **Homework:** Use AI tools to build the **third** demo of the LLM application you want to build
-* **Week 5 (9/21–9/25) – Lightweight demo day**
-  * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
-* **Week 6 (9/28–10/2) – Agentic systems and tool use**
-  * Planning, multi-step reasoning, function calling, and agent frameworks.
-  * Product to explore: [TBD]
-  * Guest speaker: [TBD] (30 min)
-  * <details><summary>Readings</summary><ul>
     <li><a href="https://www.anthropic.com/research/building-effective-agents">Anthropic, Building Effective Agents</a></li>
     <li><a href="https://www.anthropic.com/engineering/writing-tools-for-agents">Anthropic, Writing Effective Tools for AI Agents</a></li>
     <li><a href="https://lilianweng.github.io/posts/2023-06-23-agent/">Lilian Weng, LLM Powered Autonomous Agents</a></li>
