@@ -61,7 +61,7 @@ We hold ourselves and our students to the highest standard. This course is fast-
 
 The semester culminates in a public demo day with investors from top venture capital firms. Standout teams will have fast-track access to leading accelerator programs to continue building beyond the classroom.
 
-<div style="background: #f0f0f0; border-left: 4px solid #333; padding: 14px 18px; margin: 1.5em 0;">
+<div style="background: #f0f0f0; padding: 14px 18px; margin: 1.5em 0;">
 <strong>Interested in sponsoring or collaborating?</strong><br>
 We welcome partnerships with investors, accelerators, and industry sponsors who want to connect with the next generation of AI builders. Reach out at <a href="mailto:jiaxinpei@utexas.edu">jiaxinpei@utexas.edu</a>.
 </div>
@@ -79,7 +79,7 @@ Comfortable writing Python applications, using APIs, and working in a terminal. 
 
 ### Course overview and objectives
 
-This course explores the design and development of practical applications powered by large language models (LLMs), including agentic systems that can plan, take actions, and use tools to complete real-world tasks. The course covers both LLM fundamentals—how LLMs work, their capabilities and limitations—and applied methods for building reliable systems, including prompting, retrieval-augmented generation, orchestration, safety, and evaluation. The course is project-driven: student teams build and iterate on an LLM-based application throughout the term, complemented by guest lectures from founders, investors, and researchers on building and assessing frontier AI systems. 
+This course explores the design and development of practical applications powered by large language models (LLMs), including agentic systems that can plan, take actions, and use tools to complete real-world tasks. The course covers both LLM fundamentals—how LLMs work, their capabilities and limitations—and applied methods for building reliable systems, including prompting, retrieval-augmented generation, orchestration, safety, and evaluation. The course is project-driven: student teams build and iterate on an LLM-based application throughout the term, complemented by guest lectures from founders, investors, and researchers on building and assessing frontier AI systems.
 
 By the end of this course, students will be able to:
 
