@@ -57,7 +57,14 @@ We cover LLM fundamentals not as an end in themselves, but as tools you need to 
 
 We welcome students with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
 
-We hold ourselves and our students to a high standard. This course is fast-paced and demanding—expect to invest serious time and energy every week. But if you are passionate about building with AI and ready to put in the work, you will leave with a product you are proud of, skills that transfer directly to industry, and a portfolio piece that speaks for itself.
+We hold ourselves and our students to the highest standard. This course is fast-paced and demanding—expect to invest serious time and energy every week. But if you are passionate about building with AI and ready to put in the work, you will leave with a product you are proud of, skills that transfer directly to industry, and a portfolio piece that speaks for itself.
+
+The semester culminates in a public demo day with investors from top venture capital firms. Standout teams will have fast-track access to leading accelerator programs to continue building beyond the classroom.
+
+<div style="background: #f0f0f0; border-left: 4px solid #333; padding: 14px 18px; margin: 1.5em 0;">
+<strong>Interested in sponsoring or collaborating?</strong><br>
+We welcome partnerships with investors, accelerators, and industry sponsors who want to connect with the next generation of AI builders. Reach out at <a href="mailto:jiaxinpei@utexas.edu">jiaxinpei@utexas.edu</a>.
+</div>
 
 ## Syllabus {#syllabus}
 
