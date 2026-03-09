@@ -55,9 +55,9 @@ This is not a lecture-and-exam course. It is a **builder course**. You will spen
 
 We cover LLM fundamentals not as an end in themselves, but as tools you need to build something great. The best way to learn what LLMs can and cannot do is to push them to their limits on a problem you care about.
 
-We welcome students with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
+We welcome students with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. **We especially welcome PhD students from all areas** who want to apply LLMs to their own research domains. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
 
-We hold ourselves and our students to the highest standard. This course is fast-paced and demanding—expect to invest serious time and energy every week. But if you are passionate about building with AI and ready to put in the work, you will leave with a product you are proud of, skills that transfer directly to industry, and a portfolio piece that speaks for itself.
+We hold ourselves and our students to the highest standard. This course is fast-paced and demanding—expect to invest serious time and energy every week. But if you are passionate about building with AI and ready to put in the work, you will leave with a product you are proud of, skills that transfer directly to industry, a portfolio piece that speaks for itself—and, ultimately, an opportunity that changes your life.
 
 The semester culminates in a public demo day with investors from top venture capital firms. Standout teams will have fast-track access to leading accelerator programs to continue building beyond the classroom.
 
