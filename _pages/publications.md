@@ -29,6 +29,14 @@ redirect_from:
 ## Recent Preprints
 
 
+* **MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**  
+  *Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, **Jiaxin Pei**, Julian McAuley, Yejin Choi, Alex Pentland*  
+  [[Paper]](https://arxiv.org/pdf/2602.16313) • [[Website]](https://memoryarena.github.io/)
+
+* **CooperBench: Why Coding Agents Cannot be Your Teammates Yet**  
+  *Arpandeep Khatua, Hao Zhu, Peter Tran, Arya Prabhudesai, Frederic Sadrieh, Johann K. Lieberwirth, Xinkai Yu, Yicheng Fu, Michael J. Ryan, **Jiaxin Pei**, Diyi Yang*  
+  [[Paper]](https://arxiv.org/pdf/2601.13295) • [[Website]](https://cooperbench.com/)
+
 * **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
   *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2510.05154) • [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) • [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) • [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
@@ -51,7 +59,6 @@ redirect_from:
 * **Permission Manifests for Web Agents**  
   *Samuele Marro, Alan Chan, Xinxing Ren, Lewis Hammond, Jesse Wright, Gurjyot Wanga, Tiziano Piccardi, Nuno Campos, Tobin South, Jialin Yu, Alex Pentland, Philip Torr, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2601.02371)
-
 
 * **Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world**  
   *Tobin South, Subramanya Nagabhushanaradhya, Ayesha Dissanayaka, Sarah Cecchetti, George Fletcher, Victor Lu, Aldo Pietropaolo, Dean H Saxe, Jeff Lombardo, Abhishek Maligehalli Shivalingaiah, Stan Bounev, Alex Keisner, Andor Kesselman, Zack Proser, Ginny Fahs, Andrew Bunyea, Ben Moskowitz, Atul Tulshibagwale, Dazza Greenwood, **Jiaxin Pei**, Alex Pentland*  

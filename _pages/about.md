@@ -15,7 +15,7 @@ I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Ar
 
 I will join the [School of Information at UT-Austin](https://ischool.utexas.edu) as an Assistant Professor in Fall 2026 and will be part of the UT-Austin [NLP group](https://www.nlp.utexas.edu)，[Machine Learning Laboratory](UT-Austin) and the [Oden Institute](https://www.oden.utexas.edu). If you are interested in working with me, please check out [this page](https://jiaxin-pei.github.io/working-with-me/).
 
-In Fall 2026, I will be teaching **[Large Language Model Applications](/courses/inf385t/)**, a first-of-its-kind course designed to **help students build "YC-ready" AI applications in 15 weeks** within a curated, hands-on classroom environment. If you are an investor, founder, or industry partner interested in collaborating or sponsoring, I would love to connect — please [reach out](mailto:pedropei@utexas.edu)!
+In Fall 2026, I will be teaching **[Large Language Model Applications](/courses/inf385t/)**, a first-of-its-kind course designed to **help students build "YC-ready" AI applications in 15 weeks** within a curated, hands-on classroom environment. If you are an investor, founder, or industry partner interested in collaborating or sponsoring, I would love to connect — please [reach out](mailto:jiaxinpei@utexas.edu)!
 
 
 ## Research Interests
