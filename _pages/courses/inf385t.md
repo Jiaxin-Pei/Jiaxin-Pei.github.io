@@ -197,7 +197,7 @@ By the end of this course, students will be able to:
   </div>
   <div class="phase phase-demo1">
     <div class="phase-icon">🎤</div>
-    <div class="phase-title">Demo Day</div>
+    <div class="phase-title">Lightweight Demo Day</div>
     <div class="phase-weeks">Week 5</div>
     <div class="phase-desc">Present, vote, form teams</div>
   </div>
@@ -221,9 +221,9 @@ By the end of this course, students will be able to:
   </div>
   <div class="phase phase-launch">
     <div class="phase-icon">🚀</div>
-    <div class="phase-title">Launch</div>
+    <div class="phase-title">Public Demo Day</div>
     <div class="phase-weeks">Week 16</div>
-    <div class="phase-desc">Public demo day</div>
+    <div class="phase-desc">Pitch to investors</div>
   </div>
 </div>
 
