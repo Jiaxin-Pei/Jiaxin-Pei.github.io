@@ -23,7 +23,7 @@ My research focuses on Large Language Models, Human-Computer Interaction and Com
 
 **1. Human-AI Interaction:** Develop new interfaces and systems for human users to better interact with AI models; build more interactive, collaborative and trustworthy AI agents; Create new benchmarks and pipeline for AI system evaluation.
 
-**2. Digital Infrastructure for AI Agents:** Build new standards and protocals for the future society with AI Agents. 
+**2. Digital Infrastructure for AI Agents:** Build new standards and protocols for the future society with AI Agents. 
 
 **3. Data Pipeline for LLM Training and Evaluation:** Build effective data collection and annotation pipeline to better train and evaluate LLMs. 
 
@@ -48,8 +48,6 @@ I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an 
 Shenzhe Zhu (Undergrad at UToronto)  
 Anshika Agarwal (Master's student at Stanford)  
 Andy Dai (Undergrad at Stanford)  
-Zhenyu Zhang (Master's student at Stanford)  
-Tim Chen (Master's student at Stanford)  
 David Anugraha (Master's student at Stanford)  
 Longju Bai (PhD student at UMich)
 
@@ -58,7 +56,9 @@ Fangqing Lin (Master's student at UMich)
 Mingqian Zheng (Master's student at UMich, now PhD at CMU)  
 Huaman Sun (Master's student at UMich, now PhD at Northwestern)
 Zhemin Huang (Master's student at Stanford, now MTS at Microsoft AI)
-Michelle Liu (Master's student at Stanford, now SDE at Adobe)  
+Michelle Liu (Master's student at Stanford, now SDE at Adobe)
+Zhenyu Zhang (Master's student at Stanford, incoming MTS at OpenAI)  
+Tim Chen (Master's student at Stanford, incoming SDE at Stripe)    
 
 
 <!-- * 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025! -->
