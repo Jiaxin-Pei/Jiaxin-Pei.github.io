@@ -57,9 +57,10 @@ I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an 
 ### Masters and Undergraduate
 Andy Dai (Undergrad at Stanford)  
 David Anugraha (Master's student at Stanford)  
-[Hannah Guan](https://hannahguan.github.io) (Master's student at Stanford)  
+[Hannah Guan](https://hannahguan.github.io) (Master's student at Stanford)
+[Xiangning Lin](https://xiangninglin.github.io) (Research intern at Stanford HAI)  
 [Yuxin Chen](https://richsomeday222.github.io/PersonalWeb/) (Undergrad at UMN)
-[Xiangning Lin](https://xiangninglin.github.io) (Research intern at Stanford HAI)
+
 
 ### Past Mentees and Alumni
 Fangqing Lin (Master's student at UMich)  
