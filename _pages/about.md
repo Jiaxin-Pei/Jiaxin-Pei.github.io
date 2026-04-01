@@ -44,21 +44,31 @@ My research focuses on Large Language Models, Human-Computer Interaction and Com
 I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an open-source data labeling system for effective and responsive human computation.
 
 
-## Current Mentees
-Shenzhe Zhu (Undergrad at UToronto)  
-Anshika Agarwal (Master's student at Stanford)  
+## Group
+
+### PhD Students
+[Shenzhe Zhu](https://shenzhezhu.github.io)  
+[Jingyu Tang](https://jytang0621.github.io)  
+[Keyang Xuan](https://keyangds.github.io) (co-advised with Yizhong Wang)  
+
+### Other collaborators
+[Longju Bai](https://longjubai.github.io) (PhD student at UMich)
+
+### Masters, Undergraduate and Interns 
 Andy Dai (Undergrad at Stanford)  
 David Anugraha (Master's student at Stanford)  
-Longju Bai (PhD student at UMich)
+[Hannah Guan](https://hannahguan.github.io) (Master's student at Stanford)  
+[Yuxin Chen](https://richsomeday222.github.io/PersonalWeb/) (Undergrad at UMN)
+  
 
-## Past Mentees
+### Past Mentees and Alumni
 Fangqing Lin (Master's student at UMich)  
 Mingqian Zheng (Master's student at UMich, now PhD at CMU)  
-Huaman Sun (Master's student at UMich, now PhD at Northwestern)
-Zhemin Huang (Master's student at Stanford, now MTS at Microsoft AI)
-Michelle Liu (Master's student at Stanford, now SDE at Adobe)
+Huaman Sun (Master's student at UMich, now PhD at Northwestern)  
+Zhemin Huang (Master's student at Stanford, now MTS at Microsoft AI)  
+Michelle Liu (Master's student at Stanford, now SDE at Adobe)  
 Zhenyu Zhang (Master's student at Stanford, incoming MTS at OpenAI)  
-Tim Chen (Master's student at Stanford, incoming SDE at Stripe)    
+Tim Chen (Master's student at Stanford, incoming SDE at Stripe)  
 
 
 <!-- * 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025! -->
