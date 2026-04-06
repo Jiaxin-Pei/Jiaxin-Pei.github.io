@@ -83,7 +83,7 @@ Comfortable writing Python applications, using APIs, and working in a terminal. 
 
 ### Course overview and objectives
 
-This course explores the design and development of practical applications powered by large language models (LLMs), including agentic systems that can plan, take actions, and use tools to complete real-world tasks. The course covers both LLM fundamentals—how LLMs work, their capabilities and limitations—and applied methods for building reliable systems, including prompting, retrieval-augmented generation, orchestration, safety, and evaluation. The course is project-driven: student teams build and iterate on an LLM-based application throughout the term, complemented by guest lectures from founders, investors, and researchers on building and assessing frontier AI systems.
+This course explores the design and development of practical applications powered by large language models (LLMs), with an emphasis on frontier application categories such as coding agents, personal agents, vertical AI, AI-native distribution, and multi-modal systems. Core technical concepts such as prompting, retrieval-augmented generation, embeddings, structured outputs, orchestration, safety, and evaluation are taught in the context of building products rather than as isolated abstractions, with additional technical foundations provided as a Canvas reference page. The course is project-driven: students rapidly prototype individual demos, form teams around the strongest ideas, and then build, test, and pitch an LLM-based application with guidance from founders, investors, and researchers.
 
 By the end of this course, students will be able to:
 
@@ -189,15 +189,15 @@ By the end of this course, students will be able to:
 <div class="course-timeline">
   <div class="phase phase-ideate">
     <div class="phase-icon">💡</div>
-    <div class="phase-title">Ideate</div>
+    <div class="phase-title">Landscape</div>
     <div class="phase-weeks">Week 1</div>
-    <div class="phase-desc">Find ideas, study the landscape</div>
+    <div class="phase-desc">Survey frontier AI products and opportunities</div>
   </div>
   <div class="phase phase-basics">
     <div class="phase-icon">🧱</div>
-    <div class="phase-title">Learn & Build</div>
+    <div class="phase-title">Ideate &amp; Build</div>
     <div class="phase-weeks">Weeks 2–4</div>
-    <div class="phase-desc">LLM basics, 3 individual demos</div>
+    <div class="phase-desc">Coding agents, personal agents, 3 demos</div>
   </div>
   <div class="phase phase-demo1">
     <div class="phase-icon">🎤</div>
@@ -209,7 +209,7 @@ By the end of this course, students will be able to:
     <div class="phase-icon">🔨</div>
     <div class="phase-title">Team Build</div>
     <div class="phase-weeks">Weeks 6–9</div>
-    <div class="phase-desc">Agents, evals, multi-modal, safety</div>
+    <div class="phase-desc">Vertical AI, evals, GEO, safety</div>
   </div>
   <div class="phase phase-beta">
     <div class="phase-icon">🧪</div>
@@ -219,9 +219,9 @@ By the end of this course, students will be able to:
   </div>
   <div class="phase phase-iterate">
     <div class="phase-icon">🔄</div>
-    <div class="phase-title">Iterate</div>
+    <div class="phase-title">Iterate &amp; Ship</div>
     <div class="phase-weeks">Weeks 11–15</div>
-    <div class="phase-desc">Feedback, guest lectures, deploy</div>
+    <div class="phase-desc">Multi-modal, costs, moats, pitch practice</div>
   </div>
   <div class="phase phase-launch">
     <div class="phase-icon">🚀</div>
@@ -231,79 +231,86 @@ By the end of this course, students will be able to:
   </div>
 </div>
 
-**Schedule is tentative and subject to change.**
+**Schedule is tentative and subject to change.** Guest speakers are distributed throughout the semester rather than concentrated in standalone guest-lecture weeks.
 
-* **Week 1 (8/24–8/28) – Finding ideas**
-  * Course introduction. How to identify opportunities and find ideas for building something cool with LLMs. Guest speaker: [TBD] (30 min).
+* **Week 1 (8/24–8/28) – The AI application landscape**
+  * Course introduction. Rapid-fire tour of frontier application areas: coding agents, personal agents, vertical AI, generative engine optimization, agentic web, and world models. The goal is to help students see what exists, who is building it, and where ambitious project ideas may come from.
+  * Students will be assigned 2–3 AI products to sign up for and try before writing their one-pagers. Example products include Cursor, Claude Code, Windsurf, Replit Agent, Claude Computer Use, OpenAI Operator, Perplexity, Harvey, Granola, Lovable, v0, and ElevenLabs.
+  * Guest speaker: [TBD — ideally a founder or investor who can paint the big picture] (30 min)
   * <details><summary>Readings</summary><ul>
     <li><a href="https://www.ycombinator.com/rfs">Y Combinator, Requests for Startups (RFS)</a></li>
     <li><a href="https://www.ycombinator.com/techno-industrialist">Y Combinator, Techno-Industrialist</a></li>
     <li><a href="https://a16z.com/newsletter/big-ideas-2026-part-1/">a16z, Big Ideas 2026 (Part 1)</a></li>
+    <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
     <li><a href="https://greylock.com/idea-map/">Greylock, Idea Map</a></li>
     <li><a href="https://www.bvp.com/atlas">Bessemer Venture Partners, Atlas</a></li>
-    <li><a href="https://sequoiacap.com/article/ai-retail-opportunity/">Sequoia, AI Retail Opportunity</a></li>
     <li><a href="https://sequoiacap.com/article/ai-in-2025/">Sequoia, AI in 2025</a></li>
     <li><a href="https://www.nfx.com/post/generative-ai-tech-market-map">NFX, Generative AI Tech Market Map</a></li>
     </ul></details>
-  * **Homework:** Write four one-pagers: (1) a cool AI startup product that you like, and three AI Applications you want to build
-* **Week 2 (8/31–9/4) – LLM basics I**
-  * How LLMs work; prompting and instruction-following; few-shot learning; in-context learning.
-  * Product to explore: [TBD]
-  * Guest speaker: [TBD] (30 min)
+  * **Homework:** Write four one-pagers: (1) a cool AI startup product that you tried, and (2–4) three AI applications you want to build
+* **Week 2 (8/31–9/4) – Coding agents**
+  * How AI coding agents work, from autocomplete to autonomous multi-file editing. Architecture of Cursor, Claude Code, Devin, and Windsurf. Agentic loops, tool use, function calling, structured outputs, and MCP basics. This is also a practical skills week: students will use coding agents to build all their demos.
+  * Product to explore: Cursor or Claude Code (hands-on in class)
+  * Guest speaker: [TBD — someone from Cursor, Replit, Cognition, or Anthropic Claude Code team] (30 min)
   * <details><summary>Readings</summary><ul>
-    <li><a href="https://www.deeplearning.ai/short-courses/how-transformer-llms-work/">DeepLearning.AI, How Transformer LLMs Work</a> (short course)</li>
-    <li><a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview">Anthropic, Prompt Engineering Overview</a></li>
-    <li><a href="https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide">OpenAI, GPT Prompting Guide</a></li>
-    <li><a href="https://learnprompting.org/docs/basics/few_shot">Learn Prompting, Shot-Based Prompting: Zero-Shot, One-Shot, and Few-Shot</a></li>
-    </ul></details>
-  * **Homework:** Use AI tools to build the **first** demo of the LLM application you want to build
-* **Week 3 (9/7–9/11)** *(Labor Day 9/7; no class)*
-  * Product to explore: [TBD]
-  * **Homework:** Use AI tools to build the **second** demo of the LLM application you want to build
-* **Week 4 (9/14–9/18) – LLM basics II**
-  * Retrieval-augmented generation (RAG); embeddings and semantic search; grounding LLM outputs.
-  * Product to explore: [TBD]
-  * Guest speaker: [TBD] (30 min)
-  * <details><summary>Readings</summary><ul>
-    <li><a href="https://python.langchain.com/docs/tutorials/rag/">LangChain, Build a RAG Agent</a></li>
-    <li><a href="https://ashutosh.dev/the-complete-guide-to-retrieval-augmented-generation-rag-in-2025/">Ashutosh, The Complete Guide to RAG in 2025</a></li>
-    <li><a href="https://platform.openai.com/docs/guides/embeddings">OpenAI, Embeddings Guide</a></li>
-    </ul></details>
-  * **Homework:** Use AI tools to build the **third** demo of the LLM application you want to build
-* **Week 5 (9/21–9/25) – Lightweight demo day**
-  * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
-* **Week 6 (9/28–10/2) – Agentic systems and tool use**
-  * Orchestration and composing LLM calls; chaining; structured outputs. Planning, multi-step reasoning, function calling, and agent frameworks.
-  * Product to explore: [TBD]
-  * Guest speaker: [TBD] (30 min)
-  * <details><summary>Readings</summary><ul>
-    <li><a href="https://platform.openai.com/docs/guides/structured-outputs">OpenAI, Structured Outputs</a></li>
-    <li><a href="https://platform.openai.com/docs/guides/function-calling">OpenAI, Function Calling</a></li>
-    <li><a href="https://langchain-ai.github.io/langgraph/tutorials/workflows/">LangChain, Workflows and Agents</a></li>
     <li><a href="https://www.anthropic.com/research/building-effective-agents">Anthropic, Building Effective Agents</a></li>
     <li><a href="https://www.anthropic.com/engineering/writing-tools-for-agents">Anthropic, Writing Effective Tools for AI Agents</a></li>
+    <li><a href="https://platform.openai.com/docs/guides/function-calling">OpenAI, Function Calling</a></li>
+    <li><a href="https://platform.openai.com/docs/guides/structured-outputs">OpenAI, Structured Outputs</a></li>
+    <li><a href="https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell">Lenny's Newsletter, The Rise of Cursor — Michael Truell</a></li>
+    <li><a href="https://fortune.com/2026/03/21/cursor-ceo-michael-truell-ai-coding-claude-anthropic-venture-capital/">Fortune, Cursor's Crossroads</a></li>
+    </ul></details>
+  * **Homework:** Use a coding agent to build the **first** demo of the LLM application you want to build
+* **Week 3 (9/7–9/11)** *(Labor Day 9/7; no class)*
+  * Product to explore: [TBD]
+  * **Homework:** Use a coding agent to build the **second** demo of the LLM application you want to build
+* **Week 4 (9/14–9/18) – Personal agents & the agentic web**
+  * Agents that operate on your behalf: browsing the web, managing email, booking travel, and filling forms. Key technical concepts are taught through this lens, including multi-step planning, error recovery, permission models, RAG for context retrieval, embeddings for memory, MCP as the "USB-C for AI," and multi-agent orchestration patterns.
+  * Product to explore: Claude Cowork / Computer Use (hands-on)
+  * Guest speaker: [TBD — someone building agent infrastructure or personal AI products] (30 min)
+  * <details><summary>Readings</summary><ul>
+    <li><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool">Anthropic, Computer Use Tool Documentation</a></li>
+    <li><a href="https://www.anthropic.com/news/model-context-protocol">Anthropic, Introducing the Model Context Protocol</a></li>
+    <li><a href="https://www.anthropic.com/engineering/code-execution-with-mcp">Anthropic, Code Execution with MCP</a></li>
+    <li><a href="https://docs.anthropic.com/en/docs/mcp">Model Context Protocol Documentation</a></li>
     <li><a href="https://lilianweng.github.io/posts/2023-06-23-agent/">Lilian Weng, LLM Powered Autonomous Agents</a></li>
-    <li><a href="https://langchain-tutorials.github.io/langgraph-tutorial-2026-beginners-guide/">LangGraph Tutorial: Building AI Agents</a></li>
+    <li><a href="https://langchain-ai.github.io/langgraph/tutorials/workflows/">LangChain, Workflows and Agents</a></li>
+    </ul></details>
+  * **Homework:** Use a coding agent to build the **third** demo of the LLM application you want to build
+* **Week 5 (9/21–9/25) – Lightweight demo day**
+  * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
+* **Week 6 (9/28–10/2) – AI for vertical domains: law, finance, healthcare**
+  * How LLM applications win in specific industries. Deep dive into products such as Harvey, Abridge, and Ramp. We will examine domain expertise, enterprise sales, compliance, trust-building with professional users, and why the "wrapper" framing missed what makes vertical AI defensible.
+  * Product to explore: Harvey or a legal/healthcare AI tool
+  * Guest speaker: [TBD — ideally Winston Weinberg (Harvey), or a founder building vertical AI] (30 min)
+  * <details><summary>Readings</summary><ul>
+    <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
+    <li><a href="https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/">TechCrunch, Inside Harvey</a></li>
+    <li><a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=67121">Harvard Business School, Harvey: AI for Lawyers (case study)</a></li>
+    <li><a href="https://sequoiacap.com/article/ai-retail-opportunity/">Sequoia, AI Retail Opportunity</a></li>
     </ul></details>
   * **Homework:** Build application in teams
-* **Week 7 (10/5–10/9) – Evaluation and testing**
-  * Automated evals, human evals, LLM-as-judge, regression testing.
-  * Product to explore: [TBD]
+* **Week 7 (10/5–10/9) – Evaluation, testing & red-teaming**
+  * Automated evals, human evals, LLM-as-judge, and regression testing, reframed for the agentic era: evaluating multi-step autonomous systems rather than only single-turn chatbots. We will also cover prompt injection via observed content, tool misuse, and cascading failures in multi-agent systems.
+  * Product to explore: Promptfoo or Braintrust (eval tooling)
   * Guest speaker: [TBD] (30 min)
   * <details><summary>Readings</summary><ul>
     <li><a href="https://hamel.dev/blog/posts/evals/index.html">Hamel Husain, Your AI Product Needs Evals</a></li>
     <li><a href="https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents">Anthropic, Demystifying Evals for AI Agents</a></li>
     <li><a href="https://evidentlyai.com/llm-guide/llm-as-a-judge">Evidently AI, LLM-as-a-Judge: A Complete Guide</a></li>
+    <li><a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">Simon Willison, The Lethal Trifecta for AI Agents</a></li>
+    <li><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/">OWASP, Top 10 for LLM Applications 2025</a></li>
     </ul></details>
-  * **Homework:** Build application in teams
-* **Week 8 (10/12–10/16) – Multi-modal applications**
-  * Vision, audio, and video models; integrating multi-modal capabilities into LLM applications; use cases and design patterns.
-  * Product to explore: [TBD]
-  * Guest speaker: [TBD] (30 min)
+  * **Homework:** Build application in teams. Set up evals for your project
+* **Week 8 (10/12–10/16) – Generative engine optimization & AI-native distribution**
+  * How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
+  * Product to explore: Perplexity (study how it cites sources)
+  * Guest speaker: [TBD — a GEO practitioner, or someone from Perplexity/search] (30 min)
   * <details><summary>Readings</summary><ul>
-    <li><a href="https://platform.openai.com/docs/guides/vision">OpenAI, Vision Guide</a></li>
-    <li><a href="https://ai.google.dev/gemini-api/docs/vision">Google, Gemini Multi-Modal Capabilities</a></li>
-    <li><a href="https://docs.anthropic.com/en/docs/build-with-claude/vision">Anthropic, Vision with Claude</a></li>
+    <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
+    <li><a href="https://arxiv.org/pdf/2311.09735">Princeton et al., GEO: Generative Engine Optimization</a></li>
+    <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
+    <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
     </ul></details>
   * **Homework:** Build application in teams
 * **Week 9 (10/19–10/23) – Safety, guardrails, and product design**
@@ -312,38 +319,70 @@ By the end of this course, students will be able to:
   * Guest speaker: [TBD] (30 min)
   * <details><summary>Readings</summary><ul>
     <li><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/">OWASP, Top 10 for LLM Applications 2025</a></li>
-    <li><a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">Simon Willison, The Lethal Trifecta for AI Agents</a></li>
     <li><a href="https://www.promptfoo.dev/docs/red-team/">Promptfoo, Red Teaming LLM Guide</a></li>
     <li><a href="https://pair.withgoogle.com/guidebook/patterns">Google PAIR, People + AI Guidebook</a></li>
     <li><a href="https://www.nngroup.com/articles/designing-ai-study-guide/">Nielsen Norman Group, Designing AI Products and Features</a></li>
     </ul></details>
-  * **Homework:** Build application in teams
+  * **Homework:** Build application in teams. Red-team another team's product
 * **Week 10 (10/26–10/30) – Demo day & beta test**
   * Teams present their applications and run beta testing with real users.
-* **Week 11 (11/2–11/6) – Cost optimization and deployment**
-  * Caching, model selection, latency optimization, serving infrastructure.
+* **Week 11 (11/2–11/6) – Multi-modal applications & world models**
+  * Vision, audio, and video models; integrating multi-modal capabilities into products. We then zoom out to frontier research: why some researchers are betting against pure LLMs, what world models are, and how they connect to robotics, simulation, and physical reasoning.
+  * Product to explore: [TBD — a multi-modal product like ElevenLabs, Sora, or Runway]
+  * Guest speaker: [TBD — a researcher working on world models or embodied AI] (30 min)
+  * <details><summary>Readings</summary><ul>
+    <li><a href="https://platform.openai.com/docs/guides/vision">OpenAI, Vision Guide</a></li>
+    <li><a href="https://ai.google.dev/gemini-api/docs/vision">Google, Gemini Multi-Modal Capabilities</a></li>
+    <li><a href="https://docs.anthropic.com/en/docs/build-with-claude/vision">Anthropic, Vision with Claude</a></li>
+    <li><a href="https://tech-insider.org/yann-lecun-ami-labs-1-billion-world-models-2026/">Tech Insider, LeCun's AMI Labs Raises $1B for World Models</a></li>
+    <li><a href="https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch">ByteByteGo, What's Next in AI: Five Trends to Watch in 2026</a></li>
+    </ul></details>
+  * **Homework:** Iterate based on real user feedback
+* **Week 12 (11/9–11/13) – Cost optimization and deployment**
+  * Caching, model selection and routing, latency optimization, serving infrastructure, and the economics of running an LLM application. We will focus on token budgeting, model sizing, and when smaller models are sufficient.
   * Product to explore: [TBD]
-  * Guest speaker: [TBD] (30 min)
+  * Guest speaker: [TBD — founder who has scaled an AI product] (30 min)
   * <details><summary>Readings</summary><ul>
     <li><a href="https://enricopiovano.com/blog/llm-cost-optimization-caching-strategies">Enrico Piovano, LLM Cost Engineering: Token Budgeting, Caching, and Model Routing</a></li>
     <li><a href="https://redis.io/blog/large-language-model-operations-guide/">Redis, LLMOps Guide: Build Fast, Cost-Effective LLM Apps</a></li>
     <li><a href="https://blog.gopenai.com/optimizing-large-language-model-infrastructure-a-practitioners-guide-to-latency-cost-and-46f9002152bc">GoPenAI, Optimizing LLM Infrastructure: Latency, Cost, and Quality Trade-offs</a></li>
     </ul></details>
   * **Homework:** Iterate based on real user feedback
-* **Week 12 (11/9–11/13) – Guest lecture: Founders**
-  * Founder perspective on building and shipping AI products. Guest speaker: [TBD] (30 min).
+* **Week 13 (11/16–11/20) – AI economics, moats, and go-to-market**
+  * What makes an LLM application defensible when models keep getting better and cheaper? We will cover data flywheels, workflow lock-in, vertical vs. horizontal strategy, pricing, and how to pitch to investors. Students will also draft a YC application for their project.
   * Product to explore: [TBD]
-  * **Homework:** Iterate based on real user feedback
-* **Week 13 (11/16–11/20) – Guest lecture: Investors**
-  * Investor perspective on evaluating AI startups, moats, and go-to-market. Guest speaker: [TBD] (30 min).
-  * Product to explore: [TBD]
-  * **Homework:** Iterate based on real user feedback
+  * Guest speaker: [TBD — an investor plus a founder in conversation format] (30 min)
+  * <details><summary>Readings</summary><ul>
+    <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
+    <li><a href="https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell">Lenny's Newsletter, The Rise of Cursor — Michael Truell</a></li>
+    <li><a href="https://www.ycombinator.com/howtoapply">Y Combinator, How to Apply to YC</a></li>
+    </ul></details>
+  * **Homework:** Iterate based on real user feedback. Draft a YC application for your project
 * **Week 14 (11/23–11/27) – Thanksgiving break; no classes**
-* **Week 15 (11/30–12/4) – Guest lecture: Researchers**
-  * Researcher perspective on frontier AI and what's next. Guest speaker: [TBD] (30 min).
-  * Product to explore: [TBD]
-  * **Homework:** Iterate based on real user feedback
+* **Week 15 (11/30–12/4) – Final guest lecture & pitch practice**
+  * Final guest lecture from a researcher or founder on what is next, followed by in-class pitch practice and feedback.
+  * Guest speaker: [TBD — researcher perspective on frontier AI] (30 min)
+  * **Homework:** Final iteration. Polish demo day presentation
 * **Week 16 (12/7) – Public demo day** *(last class day)*
+
+### Technical foundations (Canvas reference page)
+
+These materials are not lectured as standalone units, but are available for students to consult as needed while building.
+
+* **How LLMs work**
+  * <a href="https://www.deeplearning.ai/short-courses/how-transformer-llms-work/">DeepLearning.AI, How Transformer LLMs Work</a>
+* **Prompting**
+  * <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview">Anthropic, Prompt Engineering Overview</a>
+  * <a href="https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide">OpenAI, GPT Prompting Guide</a>
+  * <a href="https://learnprompting.org/docs/basics/few_shot">Learn Prompting, Shot-Based Prompting</a>
+* **RAG and embeddings**
+  * <a href="https://python.langchain.com/docs/tutorials/rag/">LangChain, Build a RAG Agent</a>
+  * <a href="https://ashutosh.dev/the-complete-guide-to-retrieval-augmented-generation-rag-in-2025/">Ashutosh, The Complete Guide to RAG in 2025</a>
+  * <a href="https://platform.openai.com/docs/guides/embeddings">OpenAI, Embeddings Guide</a>
+* **Agent frameworks**
+  * <a href="https://langchain-tutorials.github.io/langgraph-tutorial-2026-beginners-guide/">LangGraph Tutorial: Building AI Agents</a>
+  * <a href="https://anthropic.skilljar.com/introduction-to-model-context-protocol">Anthropic, Introduction to MCP (Course)</a>
+  * <a href="https://anthropic.skilljar.com/model-context-protocol-advanced-topics">Anthropic, MCP Advanced Topics (Course)</a>
 
 
 ### Course requirements and grading policy
