@@ -338,7 +338,7 @@ By the end of this course, students will be able to:
 ### Week 1 (8/24–8/28) – The AI application landscape {#week-1}
 
 * Course introduction. Rapid-fire tour of frontier application areas: coding agents, personal agents, vertical AI, generative engine optimization, agentic web, and world models. The goal is to help students see what exists, who is building it, and where ambitious project ideas may come from.
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://www.ycombinator.com/rfs">Y Combinator, Requests for Startups (RFS)</a></li>
     <li><a href="https://www.ycombinator.com/techno-industrialist">Y Combinator, Techno-Industrialist</a></li>
@@ -355,7 +355,7 @@ By the end of this course, students will be able to:
 
 * How AI coding agents work, from autocomplete to autonomous multi-file editing. Architecture of Cursor, Claude Code, Devin, and Windsurf. Agentic loops, tool use, function calling, structured outputs, and MCP basics. This is also a practical skills week: students will use coding agents to build all their demos.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://www.anthropic.com/research/building-effective-agents">Anthropic, Building Effective Agents</a></li>
     <li><a href="https://www.anthropic.com/engineering/writing-tools-for-agents">Anthropic, Writing Effective Tools for AI Agents</a></li>
@@ -376,7 +376,7 @@ By the end of this course, students will be able to:
 
 * Agents that operate on your behalf: browsing the web, managing email, booking travel, and filling forms. Key technical concepts are taught through this lens, including multi-step planning, error recovery, permission models, RAG for context retrieval, embeddings for memory, MCP as the "USB-C for AI," and multi-agent orchestration patterns.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool">Anthropic, Computer Use Tool Documentation</a></li>
     <li><a href="https://www.anthropic.com/news/model-context-protocol">Anthropic, Introducing the Model Context Protocol</a></li>
@@ -395,7 +395,7 @@ By the end of this course, students will be able to:
 
 * How LLM applications win in specific industries. Deep dive into products such as Harvey, Abridge, and Ramp. We will examine domain expertise, enterprise sales, compliance, trust-building with professional users, and why the "wrapper" framing missed what makes vertical AI defensible.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
     <li><a href="https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/">TechCrunch, Inside Harvey</a></li>
@@ -408,7 +408,7 @@ By the end of this course, students will be able to:
 
 * Automated evals, human evals, LLM-as-judge, and regression testing, reframed for the agentic era: evaluating multi-step autonomous systems rather than only single-turn chatbots. We will also cover prompt injection via observed content, tool misuse, and cascading failures in multi-agent systems.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://hamel.dev/blog/posts/evals/index.html">Hamel Husain, Your AI Product Needs Evals</a></li>
     <li><a href="https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents">Anthropic, Demystifying Evals for AI Agents</a></li>
@@ -422,7 +422,7 @@ By the end of this course, students will be able to:
 
 * Vision, audio, and video models; integrating multi-modal capabilities into products. We then zoom out to frontier research: why some researchers are betting against pure LLMs, what world models are, and how they connect to robotics, simulation, and physical reasoning.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://platform.openai.com/docs/guides/vision">OpenAI, Vision Guide</a></li>
     <li><a href="https://ai.google.dev/gemini-api/docs/vision">Google, Gemini Multi-Modal Capabilities</a></li>
@@ -436,7 +436,7 @@ By the end of this course, students will be able to:
 
 * Voice agents, speech-to-text, text-to-speech, turn-taking, interruption handling, and latency-sensitive interaction design. We will study what makes voice products feel natural, where voice is better than chat, and how to build reliable spoken interfaces for real users.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://elevenlabs.io/blog/introducing-elevenlabs-agents">ElevenLabs, Introducing ElevenLabs Agents</a></li>
     <li><a href="https://elevenlabs.io/blog/everything-you-need-to-know-about-conversational-ai-agents">ElevenLabs, Everything You Need to Know About Conversational AI Agents</a></li>
@@ -455,7 +455,7 @@ By the end of this course, students will be able to:
 
 * How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
     <li><a href="https://arxiv.org/pdf/2311.09735">Princeton et al., GEO: Generative Engine Optimization</a></li>
@@ -468,7 +468,7 @@ By the end of this course, students will be able to:
 
 * Caching, model selection and routing, latency optimization, serving infrastructure, and the economics of running an LLM application. We will focus on token budgeting, model sizing, and when smaller models are sufficient.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://enricopiovano.com/blog/llm-cost-optimization-caching-strategies">Enrico Piovano, LLM Cost Engineering: Token Budgeting, Caching, and Model Routing</a></li>
     <li><a href="https://redis.io/blog/large-language-model-operations-guide/">Redis, LLMOps Guide: Build Fast, Cost-Effective LLM Apps</a></li>
@@ -480,7 +480,7 @@ By the end of this course, students will be able to:
 
 * What makes an LLM application defensible when models keep getting better and cheaper? We will cover data flywheels, workflow lock-in, vertical vs. horizontal strategy, pricing, and how to pitch to investors. Students will also draft a YC application for their project.
 * Product to explore: [TBD]
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
     <li><a href="https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell">Lenny's Newsletter, The Rise of Cursor — Michael Truell</a></li>
@@ -495,7 +495,7 @@ By the end of this course, students will be able to:
 ### Week 15 (11/30–12/4) – Final guest lecture & pitch practice {#week-15}
 
 * Final guest lecture from a researcher or founder on what is next, followed by in-class pitch practice and feedback.
-* Guest speaker: [TBD] (30 min)
+* Guest speaker: [TBD]
 * **Homework:** Final iteration. Polish demo day presentation
 
 ### Week 16 (12/7) – Public demo day {#week-16}
