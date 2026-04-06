@@ -17,12 +17,12 @@ author_profile: false
   max-width: 100%;
 }
 .course-layout {
-  max-width: 1220px;
+  max-width: 1160px;
   margin: 0 auto;
 }
 .course-page-toc {
   margin: 1.5em auto;
-  max-width: 860px;
+  max-width: 820px;
   background: #fff;
   border: 1px solid #e6e6e6;
   border-radius: 8px;
@@ -30,8 +30,8 @@ author_profile: false
 }
 .course-page-toc-title {
   margin: 0;
-  padding: 0.75rem 1rem;
-  font-size: 0.85rem;
+  padding: 0.65rem 0.85rem;
+  font-size: 0.78rem;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -47,19 +47,20 @@ author_profile: false
 }
 .course-page-toc-link {
   display: block;
-  padding: 0.6rem 1rem;
+  padding: 0.45rem 0.85rem;
   color: #555;
   text-decoration: none;
   border-top: 1px solid #e6e6e6;
   line-height: 1.4;
+  font-size: 0.82rem;
 }
 .course-page-toc-link:hover {
   background: #f8f8f8;
   color: #111;
 }
 .course-page-toc-sublist .course-page-toc-link {
-  padding-left: 1.75rem;
-  font-size: 0.92em;
+  padding-left: 1.4rem;
+  font-size: 0.78rem;
 }
 .course-main {
   max-width: 860px;
@@ -86,8 +87,8 @@ details li {
 @media (min-width: 1024px) {
   .course-layout {
     display: grid;
-    grid-template-columns: 270px minmax(0, 860px);
-    gap: 2rem;
+    grid-template-columns: 220px minmax(0, 860px);
+    gap: 1.5rem;
     justify-content: center;
     align-items: start;
   }
