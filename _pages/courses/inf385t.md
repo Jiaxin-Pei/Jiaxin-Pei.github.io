@@ -141,7 +141,7 @@ The University of Texas at Austin, Fall 2026
           <li><a class="course-page-toc-link" href="#week-6">Week 6: AI for vertical domains</a></li>
           <li><a class="course-page-toc-link" href="#week-7">Week 7: Evaluation, testing &amp; red-teaming</a></li>
           <li><a class="course-page-toc-link" href="#week-8">Week 8: Generative engine optimization &amp; AI-native distribution</a></li>
-          <li><a class="course-page-toc-link" href="#week-9">Week 9: Safety, guardrails, and product design</a></li>
+          <li><a class="course-page-toc-link" href="#week-9">Week 9: Voice AI and conversational interfaces</a></li>
           <li><a class="course-page-toc-link" href="#week-10">Week 10: Demo day &amp; beta test</a></li>
           <li><a class="course-page-toc-link" href="#week-11">Week 11: Multi-modal applications &amp; world models</a></li>
           <li><a class="course-page-toc-link" href="#week-12">Week 12: Cost optimization and deployment</a></li>
@@ -433,18 +433,20 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Build application in teams
 
-### Week 9 (10/19–10/23) – Safety, guardrails, and product design {#week-9}
+### Week 9 (10/19–10/23) – Voice AI and conversational interfaces {#week-9}
 
-* Prompt injection, hallucination mitigation, content filtering, error recovery; UX patterns, latency vs quality tradeoffs, human-in-the-loop design.
-* Product to explore: [TBD]
+* Voice agents, speech-to-text, text-to-speech, turn-taking, interruption handling, and latency-sensitive interaction design. We will study what makes voice products feel natural, where voice is better than chat, and how to build reliable spoken interfaces for real users.
+* Product to explore: ElevenLabs, Retell, or Vapi
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
-    <li><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/">OWASP, Top 10 for LLM Applications 2025</a></li>
-    <li><a href="https://www.promptfoo.dev/docs/red-team/">Promptfoo, Red Teaming LLM Guide</a></li>
-    <li><a href="https://pair.withgoogle.com/guidebook/patterns">Google PAIR, People + AI Guidebook</a></li>
-    <li><a href="https://www.nngroup.com/articles/designing-ai-study-guide/">Nielsen Norman Group, Designing AI Products and Features</a></li>
+    <li><a href="https://elevenlabs.io/blog/introducing-elevenlabs-agents">ElevenLabs, Introducing ElevenLabs Agents</a></li>
+    <li><a href="https://elevenlabs.io/blog/everything-you-need-to-know-about-conversational-ai-agents">ElevenLabs, Everything You Need to Know About Conversational AI Agents</a></li>
+    <li><a href="https://elevenlabs.io/blog/testing-conversational-ai-agents">ElevenLabs, Test AI Agents: Monitor, Evaluate, and Improve</a></li>
+    <li><a href="https://elevenlabs.io/docs/eleven-agents/customization/voice/best-practices/conversational-voice-design">ElevenLabs Docs, Conversational Voice Design</a></li>
+    <li><a href="https://platform.openai.com/docs/guides/text-to-speech">OpenAI, Text-to-Speech Guide</a></li>
+    <li><a href="https://platform.openai.com/docs/guides/speech-to-text">OpenAI, Speech-to-Text Guide</a></li>
     </ul></details>
-* **Homework:** Build application in teams. Red-team another team's product
+* **Homework:** Build application in teams. Add or prototype a voice interaction for your product
 
 ### Week 10 (10/26–10/30) – Demo day & beta test {#week-10}
 
