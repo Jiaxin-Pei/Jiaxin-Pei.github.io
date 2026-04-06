@@ -4,6 +4,7 @@ excerpt: "INF 385T - Building Large Language Model Applications"
 author_profile: false
 ---
 
+{% include toc %}
 
 <style>
 .page {
