@@ -89,7 +89,7 @@ details li {
   .course-page-toc {
     position: absolute;
     top: 0;
-    right: calc(100% + 1.5rem);
+    left: calc(100% + 1.5rem);
     width: 220px;
     margin: 0;
     max-width: none;
