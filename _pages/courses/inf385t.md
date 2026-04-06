@@ -140,10 +140,10 @@ The University of Texas at Austin, Fall 2026
           <li><a class="course-page-toc-link" href="#week-5">Week 5: Lightweight demo day</a></li>
           <li><a class="course-page-toc-link" href="#week-6">Week 6: AI for vertical domains</a></li>
           <li><a class="course-page-toc-link" href="#week-7">Week 7: Evaluation, testing &amp; red-teaming</a></li>
-          <li><a class="course-page-toc-link" href="#week-8">Week 8: Generative engine optimization &amp; AI-native distribution</a></li>
+          <li><a class="course-page-toc-link" href="#week-8">Week 8: Multi-modal applications &amp; world models</a></li>
           <li><a class="course-page-toc-link" href="#week-9">Week 9: Voice AI and conversational interfaces</a></li>
           <li><a class="course-page-toc-link" href="#week-10">Week 10: Demo day &amp; beta test</a></li>
-          <li><a class="course-page-toc-link" href="#week-11">Week 11: Multi-modal applications &amp; world models</a></li>
+          <li><a class="course-page-toc-link" href="#week-11">Week 11: Generative engine optimization &amp; AI-native distribution</a></li>
           <li><a class="course-page-toc-link" href="#week-12">Week 12: Cost optimization and deployment</a></li>
           <li><a class="course-page-toc-link" href="#week-13">Week 13: AI economics, moats, and go-to-market</a></li>
           <li><a class="course-page-toc-link" href="#week-14">Week 14: Thanksgiving break</a></li>
@@ -356,7 +356,7 @@ By the end of this course, students will be able to:
 ### Week 2 (8/31–9/4) – Coding agents {#week-2}
 
 * How AI coding agents work, from autocomplete to autonomous multi-file editing. Architecture of Cursor, Claude Code, Devin, and Windsurf. Agentic loops, tool use, function calling, structured outputs, and MCP basics. This is also a practical skills week: students will use coding agents to build all their demos.
-* Product to explore: Cursor or Claude Code (hands-on in class)
+* Product to explore: [TBD]
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://www.anthropic.com/research/building-effective-agents">Anthropic, Building Effective Agents</a></li>
@@ -377,7 +377,7 @@ By the end of this course, students will be able to:
 ### Week 4 (9/14–9/18) – Personal agents & the agentic web {#week-4}
 
 * Agents that operate on your behalf: browsing the web, managing email, booking travel, and filling forms. Key technical concepts are taught through this lens, including multi-step planning, error recovery, permission models, RAG for context retrieval, embeddings for memory, MCP as the "USB-C for AI," and multi-agent orchestration patterns.
-* Product to explore: Claude Cowork / Computer Use (hands-on)
+* Product to explore: [TBD]
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool">Anthropic, Computer Use Tool Documentation</a></li>
@@ -396,7 +396,7 @@ By the end of this course, students will be able to:
 ### Week 6 (9/28–10/2) – AI for vertical domains: law, finance, healthcare {#week-6}
 
 * How LLM applications win in specific industries. Deep dive into products such as Harvey, Abridge, and Ramp. We will examine domain expertise, enterprise sales, compliance, trust-building with professional users, and why the "wrapper" framing missed what makes vertical AI defensible.
-* Product to explore: Harvey or a legal/healthcare AI tool
+* Product to explore: [TBD]
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
@@ -409,7 +409,7 @@ By the end of this course, students will be able to:
 ### Week 7 (10/5–10/9) – Evaluation, testing & red-teaming {#week-7}
 
 * Automated evals, human evals, LLM-as-judge, and regression testing, reframed for the agentic era: evaluating multi-step autonomous systems rather than only single-turn chatbots. We will also cover prompt injection via observed content, tool misuse, and cascading failures in multi-agent systems.
-* Product to explore: Promptfoo or Braintrust (eval tooling)
+* Product to explore: [TBD]
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://hamel.dev/blog/posts/evals/index.html">Hamel Husain, Your AI Product Needs Evals</a></li>
@@ -420,23 +420,24 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Build application in teams. Set up evals for your project
 
-### Week 8 (10/12–10/16) – Generative engine optimization & AI-native distribution {#week-8}
+### Week 8 (10/12–10/16) – Multi-modal applications & world models {#week-8}
 
-* How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
-* Product to explore: Perplexity (study how it cites sources)
+* Vision, audio, and video models; integrating multi-modal capabilities into products. We then zoom out to frontier research: why some researchers are betting against pure LLMs, what world models are, and how they connect to robotics, simulation, and physical reasoning.
+* Product to explore: [TBD]
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
-    <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
-    <li><a href="https://arxiv.org/pdf/2311.09735">Princeton et al., GEO: Generative Engine Optimization</a></li>
-    <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
-    <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
+    <li><a href="https://platform.openai.com/docs/guides/vision">OpenAI, Vision Guide</a></li>
+    <li><a href="https://ai.google.dev/gemini-api/docs/vision">Google, Gemini Multi-Modal Capabilities</a></li>
+    <li><a href="https://docs.anthropic.com/en/docs/build-with-claude/vision">Anthropic, Vision with Claude</a></li>
+    <li><a href="https://tech-insider.org/yann-lecun-ami-labs-1-billion-world-models-2026/">Tech Insider, LeCun's AMI Labs Raises $1B for World Models</a></li>
+    <li><a href="https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch">ByteByteGo, What's Next in AI: Five Trends to Watch in 2026</a></li>
     </ul></details>
-* **Homework:** Build application in teams
+* **Homework:** Iterate based on real user feedback
 
 ### Week 9 (10/19–10/23) – Voice AI and conversational interfaces {#week-9}
 
 * Voice agents, speech-to-text, text-to-speech, turn-taking, interruption handling, and latency-sensitive interaction design. We will study what makes voice products feel natural, where voice is better than chat, and how to build reliable spoken interfaces for real users.
-* Product to explore: ElevenLabs, Retell, or Vapi
+* Product to explore: [TBD]
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://elevenlabs.io/blog/introducing-elevenlabs-agents">ElevenLabs, Introducing ElevenLabs Agents</a></li>
@@ -452,19 +453,18 @@ By the end of this course, students will be able to:
 
 * Teams present their applications and run beta testing with real users.
 
-### Week 11 (11/2–11/6) – Multi-modal applications & world models {#week-11}
+### Week 11 (11/2–11/6) – Generative engine optimization & AI-native distribution {#week-11}
 
-* Vision, audio, and video models; integrating multi-modal capabilities into products. We then zoom out to frontier research: why some researchers are betting against pure LLMs, what world models are, and how they connect to robotics, simulation, and physical reasoning.
-* Product to explore: [TBD — a multi-modal product like ElevenLabs, Sora, or Runway]
+* How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
+* Product to explore: [TBD]
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
-    <li><a href="https://platform.openai.com/docs/guides/vision">OpenAI, Vision Guide</a></li>
-    <li><a href="https://ai.google.dev/gemini-api/docs/vision">Google, Gemini Multi-Modal Capabilities</a></li>
-    <li><a href="https://docs.anthropic.com/en/docs/build-with-claude/vision">Anthropic, Vision with Claude</a></li>
-    <li><a href="https://tech-insider.org/yann-lecun-ami-labs-1-billion-world-models-2026/">Tech Insider, LeCun's AMI Labs Raises $1B for World Models</a></li>
-    <li><a href="https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch">ByteByteGo, What's Next in AI: Five Trends to Watch in 2026</a></li>
+    <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
+    <li><a href="https://arxiv.org/pdf/2311.09735">Princeton et al., GEO: Generative Engine Optimization</a></li>
+    <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
+    <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
     </ul></details>
-* **Homework:** Iterate based on real user feedback
+* **Homework:** Build application in teams
 
 ### Week 12 (11/9–11/13) – Cost optimization and deployment {#week-12}
 
