@@ -51,7 +51,7 @@ details li {
 }
 </style>
 <div style="text-align: center;" markdown="1">
-<span style="font-size: 1.6em; font-weight: bold;">INF 385T Building Large Language Model Applications</span>
+<span style="font-size: 1.6em; font-weight: bold;">INF 385T (Building) Large Language Model Applications</span>
 
 "Build an AI Product in 15 weeks and submit to Y Combinator"
 
