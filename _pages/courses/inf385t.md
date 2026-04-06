@@ -18,30 +18,11 @@ author_profile: false
 .page__inner-wrap {
   max-width: 100%;
 }
-.toc .nav__title {
-  width: auto !important;
-  white-space: normal !important;
-}
-@media (min-width: 1024px) {
-  .sidebar__right {
-    width: 280px;
-    margin-left: 24px;
-  }
-
-  .page {
-    width: calc(100% - 304px);
-    margin-left: 0;
-    margin-right: 0;
-  }
-}
-@media (min-width: 1280px) {
-  .sidebar__right {
-    width: 320px;
-  }
-
-  .page {
-    width: calc(100% - 344px);
-  }
+.syllabus-section-label {
+  margin: 2.2rem 0 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.3;
 }
 details {
   margin: 4px 0;
@@ -60,6 +41,18 @@ details ul {
 }
 details li {
   margin-bottom: 3px;
+}
+@media (min-width: 1024px) {
+  .sidebar__right {
+    width: 18rem;
+  }
+  .page {
+    float: left;
+    width: calc(100% - 19.5rem);
+  }
+  .toc .nav__title {
+    width: auto !important;
+  }
 }
 </style>
 <div style="text-align: center;" markdown="1">
@@ -425,7 +418,7 @@ By the end of this course, students will be able to:
 
 * Last class day.
 
-### Technical foundations (Canvas reference page)
+<p class="syllabus-section-label">Technical foundations (Canvas reference page)</p>
 
 These materials are not lectured as standalone units, but are available for students to consult as needed while building.
 
@@ -445,7 +438,7 @@ These materials are not lectured as standalone units, but are available for stud
   * <a href="https://anthropic.skilljar.com/model-context-protocol-advanced-topics">Anthropic, MCP Advanced Topics (Course)</a>
 
 
-### Course requirements and grading policy
+<p class="syllabus-section-label">Course requirements and grading policy</p>
 
 * **Individual assignments (30%)** — Weeks 1–4
   * Week 1: Four one-pagers on AI products
@@ -478,7 +471,7 @@ These materials are not lectured as standalone units, but are available for stud
 | D     | ≥ 63%      |
 | D-    | ≥ 60%      |
 
-### Academic integrity and AI tools
+<p class="syllabus-section-label">Academic integrity and AI tools</p>
 
 This course *requires* you to use AI tools — ChatGPT, Copilot, Cursor, and whatever else helps you build. Building on the shoulders of AI is a core skill this class teaches.
 
@@ -486,11 +479,11 @@ That said, using AI tools does not remove your responsibility to understand what
 
 You are encouraged to discuss ideas with classmates, consult external resources, and use open-source code. However, you must cite any substantial external code or resources you incorporate. For individual assignments, the work you submit must reflect your own understanding. For team projects, all team members are expected to contribute meaningfully and be able to speak to the full scope of the project.
 
-### Notice about students with disabilities
+<p class="syllabus-section-label">Notice about students with disabilities</p>
 
 The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with disabilities. Please contact the [Division of Diversity and Community Engagement, Services for Students with Disabilities](https://ddce.utexas.edu/disability/), 512-471-6259.
 
-### Notice about missed work due to religious holy days
+<p class="syllabus-section-label">Notice about missed work due to religious holy days</p>
 
 A student who cannot meet an assignment deadline due to the observance of a religious holy day may submit the assignment up to 24 hours late without penalty, if proper notice of the planned absence has been given. Notice must be given at least 14 days prior to the due date. For religious holy days that fall within the first 2 weeks of the semester, notice should be given on the first day of the semester. Notice should be emailed to the instructor and course staff.
 
