@@ -17,8 +17,9 @@ author_profile: false
   max-width: 100%;
 }
 .course-layout {
-  max-width: 1160px;
+  max-width: 860px;
   margin: 0 auto;
+  position: relative;
 }
 .course-page-toc {
   margin: 1.5em auto;
@@ -85,16 +86,11 @@ details li {
   margin-bottom: 3px;
 }
 @media (min-width: 1024px) {
-  .course-layout {
-    display: grid;
-    grid-template-columns: 220px minmax(0, 860px);
-    gap: 1.5rem;
-    justify-content: center;
-    align-items: start;
-  }
   .course-page-toc {
-    position: sticky;
-    top: 2rem;
+    position: absolute;
+    top: 0;
+    right: calc(100% + 1.5rem);
+    width: 220px;
     margin: 0;
     max-width: none;
   }
