@@ -16,6 +16,55 @@ author_profile: false
 .page__inner-wrap {
   max-width: 100%;
 }
+.course-layout {
+  max-width: 1220px;
+  margin: 0 auto;
+}
+.course-page-toc {
+  margin: 1.5em auto;
+  max-width: 860px;
+  background: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+.course-page-toc-title {
+  margin: 0;
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fff;
+  background: #bf5700;
+  border-radius: 8px 8px 0 0;
+}
+.course-page-toc-list,
+.course-page-toc-sublist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.course-page-toc-link {
+  display: block;
+  padding: 0.6rem 1rem;
+  color: #555;
+  text-decoration: none;
+  border-top: 1px solid #e6e6e6;
+  line-height: 1.4;
+}
+.course-page-toc-link:hover {
+  background: #f8f8f8;
+  color: #111;
+}
+.course-page-toc-sublist .course-page-toc-link {
+  padding-left: 1.75rem;
+  font-size: 0.92em;
+}
+.course-main {
+  max-width: 860px;
+  margin: 0 auto;
+}
 details {
   margin: 4px 0;
 }
@@ -34,19 +83,22 @@ details ul {
 details li {
   margin-bottom: 3px;
 }
-.course-toc {
-  margin: 1.5em 0;
-}
-@media screen and (max-width: 768px) {
-  .hide-on-mobile {
-    display: none;
-  }
-}
 @media (min-width: 1024px) {
-  .course-toc {
-    float: left;
-    width: 270px;
-    margin: 0 1.5em 1.25em 0;
+  .course-layout {
+    display: grid;
+    grid-template-columns: 270px minmax(0, 860px);
+    gap: 2rem;
+    justify-content: center;
+    align-items: start;
+  }
+  .course-page-toc {
+    position: sticky;
+    top: 2rem;
+    margin: 0;
+    max-width: none;
+  }
+  .course-main {
+    width: min(860px, 100%);
   }
 }
 </style>
@@ -67,15 +119,44 @@ The University of Texas at Austin, Fall 2026
 
 </div>
 
-<aside class="course-toc">
-<nav class="toc" markdown="1">
-<header class="hide-on-mobile"><h4 class="nav__title" style="white-space: nowrap; width: 150px;">On This Page</h4></header>
-*  Auto generated table of contents
-{:toc .toc__menu}
-</nav>
+<div class="course-layout">
+<aside class="course-page-toc">
+  <nav aria-label="Course table of contents">
+    <h2 class="course-page-toc-title">On This Page</h2>
+    <ul class="course-page-toc-list">
+      <li><a class="course-page-toc-link" href="#class-philosophy">Class Philosophy</a></li>
+      <li><a class="course-page-toc-link" href="#syllabus">Syllabus</a></li>
+      <li><a class="course-page-toc-link" href="#prerequisites">Prerequisites</a></li>
+      <li><a class="course-page-toc-link" href="#course-materials">Course materials</a></li>
+      <li><a class="course-page-toc-link" href="#course-overview-and-objectives">Course overview and objectives</a></li>
+      <li>
+        <a class="course-page-toc-link" href="#schedule">Schedule</a>
+        <ul class="course-page-toc-sublist">
+          <li><a class="course-page-toc-link" href="#week-1">Week 1: The AI application landscape</a></li>
+          <li><a class="course-page-toc-link" href="#week-2">Week 2: Coding agents</a></li>
+          <li><a class="course-page-toc-link" href="#week-3">Week 3: Labor Day week</a></li>
+          <li><a class="course-page-toc-link" href="#week-4">Week 4: Personal agents &amp; the agentic web</a></li>
+          <li><a class="course-page-toc-link" href="#week-5">Week 5: Lightweight demo day</a></li>
+          <li><a class="course-page-toc-link" href="#week-6">Week 6: AI for vertical domains</a></li>
+          <li><a class="course-page-toc-link" href="#week-7">Week 7: Evaluation, testing &amp; red-teaming</a></li>
+          <li><a class="course-page-toc-link" href="#week-8">Week 8: Generative engine optimization &amp; AI-native distribution</a></li>
+          <li><a class="course-page-toc-link" href="#week-9">Week 9: Safety, guardrails, and product design</a></li>
+          <li><a class="course-page-toc-link" href="#week-10">Week 10: Demo day &amp; beta test</a></li>
+          <li><a class="course-page-toc-link" href="#week-11">Week 11: Multi-modal applications &amp; world models</a></li>
+          <li><a class="course-page-toc-link" href="#week-12">Week 12: Cost optimization and deployment</a></li>
+          <li><a class="course-page-toc-link" href="#week-13">Week 13: AI economics, moats, and go-to-market</a></li>
+          <li><a class="course-page-toc-link" href="#week-14">Week 14: Thanksgiving break</a></li>
+          <li><a class="course-page-toc-link" href="#week-15">Week 15: Final guest lecture &amp; pitch practice</a></li>
+          <li><a class="course-page-toc-link" href="#week-16">Week 16: Public demo day</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
 </aside>
 
-## Class Philosophy
+<div class="course-main" markdown="1">
+
+## Class Philosophy {#class-philosophy}
 
 This is not a lecture-and-exam course. It is a **builder course**. You will spend the semester designing, building, and shipping a real AI product—one good enough to put in front of real users.
 
@@ -94,16 +175,16 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 
 ## Syllabus {#syllabus}
 
-### Prerequisites
+### Prerequisites {#prerequisites}
 
 Comfortable writing Python applications, using APIs, and working in a terminal. Prior experience with machine learning or natural language processing is also required.
 
-### Course materials
+### Course materials {#course-materials}
 
 * Readings and resources will be provided via hyperlinks under Schedule.
 * Exercises, code, etc. will be posted on Canvas.
 
-### Course overview and objectives
+### Course overview and objectives {#course-overview-and-objectives}
 
 This course explores the design and development of practical applications powered by large language models (LLMs), with an emphasis on frontier application categories such as coding agents, personal agents, vertical AI, AI-native distribution, and multi-modal systems. Core technical concepts such as prompting, retrieval-augmented generation, embeddings, structured outputs, orchestration, safety, and evaluation are taught in the context of building products rather than as isolated abstractions, with additional technical foundations provided as a Canvas reference page. The course is project-driven: students rapidly prototype individual demos, form teams around the strongest ideas, and then build, test, and pitch an LLM-based application with guidance from founders, investors, and researchers.
 
@@ -255,7 +336,7 @@ By the end of this course, students will be able to:
 
 **Schedule is tentative and subject to change.** Guest speakers are distributed throughout the semester rather than concentrated in standalone guest-lecture weeks.
 
-### Week 1 (8/24–8/28) – The AI application landscape
+### Week 1 (8/24–8/28) – The AI application landscape {#week-1}
 
 * Course introduction. Rapid-fire tour of frontier application areas: coding agents, personal agents, vertical AI, generative engine optimization, agentic web, and world models. The goal is to help students see what exists, who is building it, and where ambitious project ideas may come from.
 * Guest speaker: [TBD] (30 min)
@@ -271,7 +352,7 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Write four one-pagers: (1) a cool AI startup product that you tried, and (2–4) three AI applications you want to build
 
-### Week 2 (8/31–9/4) – Coding agents
+### Week 2 (8/31–9/4) – Coding agents {#week-2}
 
 * How AI coding agents work, from autocomplete to autonomous multi-file editing. Architecture of Cursor, Claude Code, Devin, and Windsurf. Agentic loops, tool use, function calling, structured outputs, and MCP basics. This is also a practical skills week: students will use coding agents to build all their demos.
 * Product to explore: Cursor or Claude Code (hands-on in class)
@@ -286,13 +367,13 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Use a coding agent to build the **first** demo of the LLM application you want to build
 
-### Week 3 (9/7–9/11) – Labor Day week
+### Week 3 (9/7–9/11) – Labor Day week {#week-3}
 
 * Labor Day 9/7; no class.
 * Product to explore: [TBD]
 * **Homework:** Use a coding agent to build the **second** demo of the LLM application you want to build
 
-### Week 4 (9/14–9/18) – Personal agents & the agentic web
+### Week 4 (9/14–9/18) – Personal agents & the agentic web {#week-4}
 
 * Agents that operate on your behalf: browsing the web, managing email, booking travel, and filling forms. Key technical concepts are taught through this lens, including multi-step planning, error recovery, permission models, RAG for context retrieval, embeddings for memory, MCP as the "USB-C for AI," and multi-agent orchestration patterns.
 * Product to explore: Claude Cowork / Computer Use (hands-on)
@@ -307,11 +388,11 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Use a coding agent to build the **third** demo of the LLM application you want to build
 
-### Week 5 (9/21–9/25) – Lightweight demo day
+### Week 5 (9/21–9/25) – Lightweight demo day {#week-5}
 
 * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
 
-### Week 6 (9/28–10/2) – AI for vertical domains: law, finance, healthcare
+### Week 6 (9/28–10/2) – AI for vertical domains: law, finance, healthcare {#week-6}
 
 * How LLM applications win in specific industries. Deep dive into products such as Harvey, Abridge, and Ramp. We will examine domain expertise, enterprise sales, compliance, trust-building with professional users, and why the "wrapper" framing missed what makes vertical AI defensible.
 * Product to explore: Harvey or a legal/healthcare AI tool
@@ -324,7 +405,7 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Build application in teams
 
-### Week 7 (10/5–10/9) – Evaluation, testing & red-teaming
+### Week 7 (10/5–10/9) – Evaluation, testing & red-teaming {#week-7}
 
 * Automated evals, human evals, LLM-as-judge, and regression testing, reframed for the agentic era: evaluating multi-step autonomous systems rather than only single-turn chatbots. We will also cover prompt injection via observed content, tool misuse, and cascading failures in multi-agent systems.
 * Product to explore: Promptfoo or Braintrust (eval tooling)
@@ -338,7 +419,7 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Build application in teams. Set up evals for your project
 
-### Week 8 (10/12–10/16) – Generative engine optimization & AI-native distribution
+### Week 8 (10/12–10/16) – Generative engine optimization & AI-native distribution {#week-8}
 
 * How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
 * Product to explore: Perplexity (study how it cites sources)
@@ -351,7 +432,7 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Build application in teams
 
-### Week 9 (10/19–10/23) – Safety, guardrails, and product design
+### Week 9 (10/19–10/23) – Safety, guardrails, and product design {#week-9}
 
 * Prompt injection, hallucination mitigation, content filtering, error recovery; UX patterns, latency vs quality tradeoffs, human-in-the-loop design.
 * Product to explore: [TBD]
@@ -364,11 +445,11 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Build application in teams. Red-team another team's product
 
-### Week 10 (10/26–10/30) – Demo day & beta test
+### Week 10 (10/26–10/30) – Demo day & beta test {#week-10}
 
 * Teams present their applications and run beta testing with real users.
 
-### Week 11 (11/2–11/6) – Multi-modal applications & world models
+### Week 11 (11/2–11/6) – Multi-modal applications & world models {#week-11}
 
 * Vision, audio, and video models; integrating multi-modal capabilities into products. We then zoom out to frontier research: why some researchers are betting against pure LLMs, what world models are, and how they connect to robotics, simulation, and physical reasoning.
 * Product to explore: [TBD — a multi-modal product like ElevenLabs, Sora, or Runway]
@@ -382,7 +463,7 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Iterate based on real user feedback
 
-### Week 12 (11/9–11/13) – Cost optimization and deployment
+### Week 12 (11/9–11/13) – Cost optimization and deployment {#week-12}
 
 * Caching, model selection and routing, latency optimization, serving infrastructure, and the economics of running an LLM application. We will focus on token budgeting, model sizing, and when smaller models are sufficient.
 * Product to explore: [TBD]
@@ -394,7 +475,7 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Iterate based on real user feedback
 
-### Week 13 (11/16–11/20) – AI economics, moats, and go-to-market
+### Week 13 (11/16–11/20) – AI economics, moats, and go-to-market {#week-13}
 
 * What makes an LLM application defensible when models keep getting better and cheaper? We will cover data flywheels, workflow lock-in, vertical vs. horizontal strategy, pricing, and how to pitch to investors. Students will also draft a YC application for their project.
 * Product to explore: [TBD]
@@ -406,17 +487,17 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Iterate based on real user feedback. Draft a YC application for your project
 
-### Week 14 (11/23–11/27) – Thanksgiving break
+### Week 14 (11/23–11/27) – Thanksgiving break {#week-14}
 
 * No classes.
 
-### Week 15 (11/30–12/4) – Final guest lecture & pitch practice
+### Week 15 (11/30–12/4) – Final guest lecture & pitch practice {#week-15}
 
 * Final guest lecture from a researcher or founder on what is next, followed by in-class pitch practice and feedback.
 * Guest speaker: [TBD] (30 min)
 * **Homework:** Final iteration. Polish demo day presentation
 
-### Week 16 (12/7) – Public demo day
+### Week 16 (12/7) – Public demo day {#week-16}
 
 * Last class day.
 
@@ -490,3 +571,5 @@ The University of Texas at Austin provides upon request appropriate academic acc
 A student who cannot meet an assignment deadline due to the observance of a religious holy day may submit the assignment up to 24 hours late without penalty, if proper notice of the planned absence has been given. Notice must be given at least 14 days prior to the due date. For religious holy days that fall within the first 2 weeks of the semester, notice should be given on the first day of the semester. Notice should be emailed to the instructor and course staff.
 
 
+</div>
+</div>
