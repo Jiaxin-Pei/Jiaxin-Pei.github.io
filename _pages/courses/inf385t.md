@@ -117,6 +117,7 @@ The University of Texas at Austin, Fall 2026
 </div>
 
 <div class="course-layout">
+<!--
 <aside class="course-page-toc">
   <nav aria-label="Course table of contents">
     <h2 class="course-page-toc-title">On This Page</h2>
@@ -150,6 +151,7 @@ The University of Texas at Austin, Fall 2026
     </ul>
   </nav>
 </aside>
+-->
 
 <div class="course-main" markdown="1">
 
