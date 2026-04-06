@@ -430,7 +430,7 @@ By the end of this course, students will be able to:
     <li><a href="https://tech-insider.org/yann-lecun-ami-labs-1-billion-world-models-2026/">Tech Insider, LeCun's AMI Labs Raises $1B for World Models</a></li>
     <li><a href="https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch">ByteByteGo, What's Next in AI: Five Trends to Watch in 2026</a></li>
     </ul></details>
-* **Homework:** Iterate based on real user feedback
+* **Homework:** Build application in teams
 
 ### Week 9 (10/19–10/23) – Voice AI and conversational interfaces {#week-9}
 
@@ -462,7 +462,7 @@ By the end of this course, students will be able to:
     <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
     <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
     </ul></details>
-* **Homework:** Build application in teams
+* **Homework:** Iterate based on real user feedback
 
 ### Week 12 (11/9–11/13) – Cost optimization and deployment {#week-12}
 
