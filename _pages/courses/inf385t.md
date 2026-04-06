@@ -4,8 +4,6 @@ excerpt: "INF 385T - Building Large Language Model Applications"
 author_profile: false
 ---
 
-{% include toc %}
-
 <style>
 .page {
   float: none;
@@ -36,6 +34,21 @@ details ul {
 details li {
   margin-bottom: 3px;
 }
+.course-toc {
+  margin: 1.5em 0;
+}
+@media screen and (max-width: 768px) {
+  .hide-on-mobile {
+    display: none;
+  }
+}
+@media (min-width: 1024px) {
+  .course-toc {
+    float: left;
+    width: 270px;
+    margin: 0 1.5em 1.25em 0;
+  }
+}
 </style>
 <div style="text-align: center;" markdown="1">
 <span style="font-size: 1.6em; font-weight: bold;">INF 385T Building Large Language Model Applications</span>
@@ -53,6 +66,14 @@ The University of Texas at Austin, Fall 2026
 </p>
 
 </div>
+
+<aside class="course-toc">
+<nav class="toc" markdown="1">
+<header class="hide-on-mobile"><h4 class="nav__title" style="white-space: nowrap; width: 150px;">On This Page</h4></header>
+*  Auto generated table of contents
+{:toc .toc__menu}
+</nav>
+</aside>
 
 ## Class Philosophy
 
@@ -237,7 +258,6 @@ By the end of this course, students will be able to:
 ### Week 1 (8/24–8/28) – The AI application landscape
 
 * Course introduction. Rapid-fire tour of frontier application areas: coding agents, personal agents, vertical AI, generative engine optimization, agentic web, and world models. The goal is to help students see what exists, who is building it, and where ambitious project ideas may come from.
-* Students will be assigned 2–3 AI products to sign up for and try before writing their one-pagers. Example products include Cursor, Claude Code, Windsurf, Replit Agent, Claude Computer Use, OpenAI Operator, Perplexity, Harvey, Granola, Lovable, v0, and ElevenLabs.
 * Guest speaker: [TBD] (30 min)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://www.ycombinator.com/rfs">Y Combinator, Requests for Startups (RFS)</a></li>
@@ -400,7 +420,7 @@ By the end of this course, students will be able to:
 
 * Last class day.
 
-### Technical foundations (Canvas reference page)
+### Technical foundations (Canvas reference page) {: .no_toc }
 
 These materials are not lectured as standalone units, but are available for students to consult as needed while building.
 
@@ -420,7 +440,7 @@ These materials are not lectured as standalone units, but are available for stud
   * <a href="https://anthropic.skilljar.com/model-context-protocol-advanced-topics">Anthropic, MCP Advanced Topics (Course)</a>
 
 
-### Course requirements and grading policy
+### Course requirements and grading policy {: .no_toc }
 
 * **Individual assignments (30%)** — Weeks 1–4
   * Week 1: Four one-pagers on AI products
@@ -453,7 +473,7 @@ These materials are not lectured as standalone units, but are available for stud
 | D     | ≥ 63%      |
 | D-    | ≥ 60%      |
 
-### Academic integrity and AI tools
+### Academic integrity and AI tools {: .no_toc }
 
 This course *requires* you to use AI tools — ChatGPT, Copilot, Cursor, and whatever else helps you build. Building on the shoulders of AI is a core skill this class teaches.
 
@@ -461,11 +481,11 @@ That said, using AI tools does not remove your responsibility to understand what
 
 You are encouraged to discuss ideas with classmates, consult external resources, and use open-source code. However, you must cite any substantial external code or resources you incorporate. For individual assignments, the work you submit must reflect your own understanding. For team projects, all team members are expected to contribute meaningfully and be able to speak to the full scope of the project.
 
-### Notice about students with disabilities
+### Notice about students with disabilities {: .no_toc }
 
 The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with disabilities. Please contact the [Division of Diversity and Community Engagement, Services for Students with Disabilities](https://ddce.utexas.edu/disability/), 512-471-6259.
 
-### Notice about missed work due to religious holy days
+### Notice about missed work due to religious holy days {: .no_toc }
 
 A student who cannot meet an assignment deadline due to the observance of a religious holy day may submit the assignment up to 24 hours late without penalty, if proper notice of the planned absence has been given. Notice must be given at least 14 days prior to the due date. For religious holy days that fall within the first 2 weeks of the semester, notice should be given on the first day of the semester. Notice should be emailed to the instructor and course staff.
 
