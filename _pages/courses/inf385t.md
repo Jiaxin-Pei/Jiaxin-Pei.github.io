@@ -18,6 +18,31 @@ author_profile: false
 .page__inner-wrap {
   max-width: 100%;
 }
+.toc .nav__title {
+  width: auto !important;
+  white-space: normal !important;
+}
+@media (min-width: 1024px) {
+  .sidebar__right {
+    width: 280px;
+    margin-left: 24px;
+  }
+
+  .page {
+    width: calc(100% - 304px);
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+@media (min-width: 1280px) {
+  .sidebar__right {
+    width: 320px;
+  }
+
+  .page {
+    width: calc(100% - 344px);
+  }
+}
 details {
   margin: 4px 0;
 }
