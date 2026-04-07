@@ -111,7 +111,7 @@ The University of Texas at Austin, Fall 2026
 [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
 
 <p style="margin: 1.25em 0 0;">
-  <a href="https://forms.gle/ELXDCPe4AuWyaH2E9" rel="noopener noreferrer" style="display: inline-block; background: #bf5700; color: #fff !important; padding: 0.65em 1.75em; border-radius: 8px; font-weight: 600; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">Apply for enrollment</a>
+  <a href="https://forms.gle/r89ohzrG6UEDvfEw9" rel="noopener noreferrer" style="display: inline-block; background: #bf5700; color: #fff !important; padding: 0.65em 1.75em; border-radius: 8px; font-weight: 600; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">Apply for enrollment</a>
 </p>
 
 </div>
