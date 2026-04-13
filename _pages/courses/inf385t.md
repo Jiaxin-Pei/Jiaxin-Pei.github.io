@@ -1,6 +1,9 @@
 ---
 permalink: /courses/inf385t/
-excerpt: "INF 385T - Building Large Language Model Applications"
+seo_page_title: "INF 385T · Building LLM Applications (UT Austin)"
+description: "Graduate course at UT Austin (Fall 2026): build and ship a real AI product with large language models—RAG, agents, evaluation, and a public demo. Taught by Jiaxin Pei. Apply for enrollment."
+excerpt: "UT Austin graduate course (Fall 2026). Build LLM-powered applications and ship a product in 15 weeks."
+keywords: "INF 385T, UT Austin, School of Information, LLM course, large language models, AI product development, graduate course, Fall 2026, Austin Texas, Jiaxin Pei, RAG, AI agents, builder course"
 author_profile: false
 ---
 
@@ -99,8 +102,55 @@ details li {
   }
 }
 </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "INF 385T Building Large Language Model Applications",
+  "alternateName": "Building LLM Applications",
+  "description": "Graduate seminar at The University of Texas at Austin. Students design, build, and ship a real AI product using large language models, with emphasis on applied LLM engineering, evaluation, and a semester-long builder project.",
+  "educationalLevel": "Graduate",
+  "courseCode": "INF 385T",
+  "url": "https://jiaxin-pei.github.io/courses/inf385t/",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "The University of Texas at Austin",
+    "sameAs": "https://www.utexas.edu/"
+  },
+  "instructor": {
+    "@type": "Person",
+    "name": "Jiaxin Pei",
+    "url": "https://jiaxin-pei.github.io/"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "name": "Fall 2026",
+    "courseMode": "onsite",
+    "location": {
+      "@type": "Place",
+      "name": "UT Austin",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Austin",
+        "addressRegion": "TX",
+        "addressCountry": "US"
+      }
+    },
+    "startDate": "2026-08-26",
+    "endDate": "2026-12-12"
+  },
+  "about": [
+    "Large language models",
+    "LLM applications",
+    "AI product development",
+    "Retrieval-augmented generation",
+    "AI agents"
+  ],
+  "keywords": "INF 385T, UT Austin, iSchool, LLM course, large language models, AI product, graduate course, Fall 2026"
+}
+</script>
 <div style="text-align: center;" markdown="1">
-<span style="font-size: 1.6em; font-weight: bold;">INF 385T Building Large Language Model Applications</span>
+<h1 style="font-size: 1.6em; font-weight: bold; margin: 0 0 0.35em; border: none; padding: 0;">INF 385T Building Large Language Model Applications</h1>
 
 "Build an AI Product in 15 weeks and submit to Y Combinator"
 
