@@ -3,7 +3,7 @@ permalink: /courses/inf385t/
 seo_page_title: "INF 385T · Building LLM Applications (UT Austin)"
 description: "Graduate course at UT Austin (Fall 2026): build and ship a real AI product with large language models—RAG, agents, evaluation, and a public demo. Taught by Jiaxin Pei. Apply for enrollment."
 excerpt: "UT Austin graduate course (Fall 2026). Build LLM-powered applications and ship a product in 15 weeks."
-keywords: "INF 385T, UT Austin, School of Information, LLM course, large language models, AI product development, graduate course, Fall 2026, Austin Texas, Jiaxin Pei, RAG, AI agents, builder course"
+keywords: "INF 385T, UT Austin, School of Information, Computer Science, LLM course, LLM, LLM Application, large language models, AI product development, graduate course, Fall 2026, Austin Texas, Jiaxin Pei, AI agents, builder course"
 author_profile: false
 ---
 
