@@ -29,6 +29,10 @@ redirect_from:
 ## Recent Preprints
 
 
+* **Multi-User Large Language Model Agents**  
+  *Shu Yang, Shenzhe Zhu, Hao Zhu, José Ramón Enríquez, Di Wang, Alex Pentland, Michiel A. Bakker, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2604.08567) • [[Code]](https://github.com/Korde-AI/Multi-User-LLM-Agent)
+
 * **MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**  
   *Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, **Jiaxin Pei**, Julian McAuley, Yejin Choi, Alex Pentland*  
   [[Paper]](https://arxiv.org/pdf/2602.16313) • [[Website]](https://memoryarena.github.io/)
