@@ -52,7 +52,7 @@ I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an 
 [Keyang Xuan](https://keyangds.github.io) (co-advised with Yizhong Wang)  
 
 ### Other active collaborators
-[Longju Bai](https://longjubai.github.io) (PhD at UMich)
+[Longju Bai](https://longjubai.github.io) (PhD at UMich)  
 [Shu Yang](https://shuyhere.notion.site/Shu-Yang-1210f14e46e080f18511e448279487e6) (PhD at KAUST)
 
 ### Masters and Undergraduate
