@@ -51,13 +51,14 @@ I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an 
 [Jingyu Tang](https://jytang0621.github.io)  
 [Keyang Xuan](https://keyangds.github.io) (co-advised with Yizhong Wang)  
 
-### Other collaborators
-[Longju Bai](https://longjubai.github.io) (PhD student at UMich)
+### Other active collaborators
+[Longju Bai](https://longjubai.github.io) (PhD at UMich)
+[Shu Yang](https://shuyhere.notion.site/Shu-Yang-1210f14e46e080f18511e448279487e6) (PhD at KAUST)
 
 ### Masters and Undergraduate
 Andy Dai (Undergrad at Stanford)  
 David Anugraha (Master's student at Stanford)  
-[Hannah Guan](https://hannahguan.github.io) (Master's student at Stanford)
+[Hannah Guan](https://hannahguan.github.io) (Master's student at Stanford)  
 [Xiangning Lin](https://xiangninglin.github.io) (Research intern at Stanford HAI)  
 [Yuxin Chen](https://richsomeday222.github.io/PersonalWeb/) (Undergrad at UMN)
 
