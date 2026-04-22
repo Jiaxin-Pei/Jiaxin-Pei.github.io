@@ -158,7 +158,7 @@ The University of Texas at Austin, Fall 2026
 **M 9:00 a.m.–12:00 p.m. · UTA 1.208**  
 [Jiaxin Pei](https://jiaxin-pei.github.io/), jiaxinpei@utexas.edu  
 
-[Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
+[Confirmed speakers](#confirmed-speakers) • [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
 
 <p style="margin: 1.25em 0 0;">
   <a href="https://forms.gle/r89ohzrG6UEDvfEw9" rel="noopener noreferrer" style="display: inline-block; background: #bf5700; color: #fff !important; padding: 0.65em 1.75em; border-radius: 8px; font-weight: 600; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">Apply for enrollment</a>
@@ -221,6 +221,12 @@ The semester culminates in a public demo day with investors from top venture cap
 <strong>Interested in sponsoring or collaborating?</strong><br>
 We welcome partnerships with investors, accelerators, and industry sponsors who want to connect with the next generation of AI builders. Reach out at <a href="mailto:jiaxinpei@utexas.edu">jiaxinpei@utexas.edu</a>.
 </div>
+
+## Confirmed speakers {#confirmed-speakers}
+
+- **Xingyao Wang** — Co-founder, [OpenHands](https://openhands.dev/)
+- **Alex Fang** — Co-founder & CEO, [Judgement Labs](https://judgmentlabs.ai/)
+- **Yu Gu** — Co-founder, [NeoCognition](https://neocognition.io/)
 
 ## Syllabus {#syllabus}
 
