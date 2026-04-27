@@ -29,6 +29,10 @@ redirect_from:
 ## Recent Preprints
 
 
+* **How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**  
+  *Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada Mihalcea, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2604.22750) • [[Project Page]](https://longjubai.github.io/agent_token_consumption/)
+
 * **Multi-User Large Language Model Agents**  
   *Shu Yang, Shenzhe Zhu, Hao Zhu, José Ramón Enríquez, Di Wang, Alex Pentland, Michiel A. Bakker, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2604.08567) • [[Code]](https://github.com/Korde-AI/Multi-User-LLM-Agent)
