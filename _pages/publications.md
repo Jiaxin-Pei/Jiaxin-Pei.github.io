@@ -37,6 +37,15 @@ redirect_from:
   *Shu Yang, Shenzhe Zhu, Hao Zhu, José Ramón Enríquez, Di Wang, Alex Pentland, Michiel A. Bakker, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2604.08567) • [[Code]](https://github.com/Korde-AI/Multi-User-LLM-Agent)
 
+* **The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets**  
+  *Shenzhe Zhu, Jiao Sun, Yi Nian, Tobin South, Alex Pentland, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2506.00073) • [[Code]](https://github.com/ShenzheZhu/A2A-NT)  
+  Media: [MIT Technology Review](https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/) • [Stanford HAI](https://hai.stanford.edu/news/the-art-of-the-automated-negotiation) • [Forbes](https://www.forbes.com/sites/rashishrivastava/2025/06/17/the-prompt-white-collar-bloodbaths/)
+
+* **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
+  *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2510.05154) • [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) • [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) • [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
+
 * **MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**  
   *Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, **Jiaxin Pei**, Julian McAuley, Yejin Choi, Alex Pentland*  
   [[Paper]](https://arxiv.org/pdf/2602.16313) • [[Website]](https://memoryarena.github.io/)
@@ -44,15 +53,6 @@ redirect_from:
 * **CooperBench: Why Coding Agents Cannot be Your Teammates Yet**  
   *Arpandeep Khatua, Hao Zhu, Peter Tran, Arya Prabhudesai, Frederic Sadrieh, Johann K. Lieberwirth, Xinkai Yu, Yicheng Fu, Michael J. Ryan, **Jiaxin Pei**, Diyi Yang*  
   [[Paper]](https://arxiv.org/pdf/2601.13295) • [[Website]](https://cooperbench.com/)
-
-* **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
-  *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
-  [[Paper]](https://arxiv.org/abs/2510.05154) • [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) • [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) • [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
-
-* **The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets**  
-  *Shenzhe Zhu, Jiao Sun, Yi Nian, Tobin South, Alex Pentland, **Jiaxin Pei***  
-  [[Paper]](https://arxiv.org/abs/2506.00073) • [[Code]](https://github.com/ShenzheZhu/A2A-NT)  
-  Media: [MIT Technology Review](https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/) • [Stanford HAI](https://hai.stanford.edu/news/the-art-of-the-automated-negotiation) • [Forbes](https://www.forbes.com/sites/rashishrivastava/2025/06/17/the-prompt-white-collar-bloodbaths/)
 
 * **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**  
   *Yijia Shao, Humishka Zope, Yucheng Jiang, **Jiaxin Pei**, David Nguyen, Erik Brynjolfsson, Diyi Yang*  
