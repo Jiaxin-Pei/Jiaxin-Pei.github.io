@@ -46,10 +46,6 @@ redirect_from:
   *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2510.05154) • [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) • [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) • [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
 
-* **MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**  
-  *Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, **Jiaxin Pei**, Julian McAuley, Yejin Choi, Alex Pentland*  
-  [[Paper]](https://arxiv.org/pdf/2602.16313) • [[Website]](https://memoryarena.github.io/)
-
 * **CooperBench: Why Coding Agents Cannot be Your Teammates Yet**  
   *Arpandeep Khatua, Hao Zhu, Peter Tran, Arya Prabhudesai, Frederic Sadrieh, Johann K. Lieberwirth, Xinkai Yu, Yicheng Fu, Michael J. Ryan, **Jiaxin Pei**, Diyi Yang*  
   [[Paper]](https://arxiv.org/pdf/2601.13295) • [[Website]](https://cooperbench.com/)
@@ -81,6 +77,26 @@ redirect_from:
   [[Paper]](https://arxiv.org/abs/2412.06864) [[Website]](https://political-llm.org) -->
 
 ## 2026
+
+* **MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**  
+  *Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, **Jiaxin Pei**, Julian McAuley, Yejin Choi, Alex Pentland*  
+  ICML 2026  
+  [[Paper]](https://arxiv.org/pdf/2602.16313) • [[Website]](https://memoryarena.github.io/)
+
+* **Position: Robust AI Personalization Will Require a Human Context Protocol**  
+  *Anand V. Shah, Tobin South, Talfan Evans, Hannah Rose Kirk, **Jiaxin Pei**, Andrew Trask, E. Glen Weyl, Michiel A. Bakker*  
+  ICML 2026 (Position Paper, regular)  
+  [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5403981)
+
+* **Position: AI Should Facilitate Democratic Deliberation at Scale**  
+  *José Ramón Enríquez, **Jiaxin Pei**, Alex Pentland*  
+  ICML 2026 (Position Paper, spotlight)  
+  forthcoming
+
+* **Position: Stop Automating Peer Review Without Rigorous Evaluation**  
+  *Joachim Baumann, **Jiaxin Pei**, Sanmi Koyejo, Dirk Hovy*  
+  ICML 2026 (Position Paper, spotlight)  
+  forthcoming
 
 * **Paper Copilot: Tracking the Evolution of Peer Review in AI Conferences**  
   Jing Yang, Qiyao Wei, **Jiaxin Pei**  
