@@ -31,7 +31,8 @@ redirect_from:
 
 * **How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**  
   *Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada Mihalcea, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
-  [[Paper]](https://arxiv.org/abs/2604.22750) • [[Project Page]](https://longjubai.github.io/agent_token_consumption/)
+  [[Paper]](https://arxiv.org/abs/2604.22750) • [[Project Page]](https://longjubai.github.io/agent_token_consumption/)  
+  Media: [ZDNET](https://www.zdnet.com/article/your-cost-for-ai-agents-will-be-wildly-variable-and-unpredictable/)
 
 * **Multi-User Large Language Model Agents**  
   *Shu Yang, Shenzhe Zhu, Hao Zhu, José Ramón Enríquez, Di Wang, Alex Pentland, Michiel A. Bakker, **Jiaxin Pei***  
