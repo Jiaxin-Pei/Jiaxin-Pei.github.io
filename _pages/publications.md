@@ -97,7 +97,7 @@ redirect_from:
 * **Position: Stop Automating Peer Review Without Rigorous Evaluation**  
   *Joachim Baumann, **Jiaxin Pei**, Sanmi Koyejo, Dirk Hovy*  
   ICML 2026 (Position Paper, spotlight)  
-  forthcoming
+  [[Website]](https://joe-baumann.com/aipeerreview/)
 
 * **Paper Copilot: Tracking the Evolution of Peer Review in AI Conferences**  
   Jing Yang, Qiyao Wei, **Jiaxin Pei**  
