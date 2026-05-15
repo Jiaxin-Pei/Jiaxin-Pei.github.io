@@ -28,7 +28,6 @@ redirect_from:
 
 ## Recent Preprints
 
-
 * **How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**  
   *Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada Mihalcea, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2604.22750) • [[Project Page]](https://longjubai.github.io/agent_token_consumption/)  
@@ -46,6 +45,10 @@ redirect_from:
 * **Can AI Truly Represent Your Voice in Deliberations? A Comprehensive Study of Large-Scale Opinion Aggregation with LLMs**  
   *Shenzhe Zhu, Shu Yang, Michiel A. Bakker, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2510.05154) • [[Project Page]](https://shuyhere.github.io/LLMs-for-Scalable-Deliberation) • [[Code]](https://github.com/shuyhere/LLMs-for-Scalable-Deliberation) • [[Data]](https://huggingface.co/datasets/babytreecc/DeliberationBank)
+
+* **Sex, Drugs, and LLMs: Social Desirability Bias in Language Models**  
+  *Sophia Kazinnik, José Ramón Enríquez, Jacy Anthis, David Nguyen, **Jiaxin Pei***  
+  [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6752998)
 
 * **CooperBench: Why Coding Agents Cannot be Your Teammates Yet**  
   *Arpandeep Khatua, Hao Zhu, Peter Tran, Arya Prabhudesai, Frederic Sadrieh, Johann K. Lieberwirth, Xinkai Yu, Yicheng Fu, Michael J. Ryan, **Jiaxin Pei**, Diyi Yang*  
