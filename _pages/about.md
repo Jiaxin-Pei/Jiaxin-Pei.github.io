@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu), the [Stanford NLP group](https://nlp.stanford.edu) and also the [Institute for Decentralized AI](http://decentralized-ai.org). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. 
 
-I will join the [School of Information at UT-Austin](https://ischool.utexas.edu) as an Assistant Professor in Fall 2026 and will be part of the UT-Austin [NLP group](https://www.nlp.utexas.edu)，[Machine Learning Laboratory](UT-Austin) and the [Oden Institute](https://www.oden.utexas.edu). If you are interested in working with me, please check out [this page](https://jiaxin-pei.github.io/working-with-me/).
+I will join the [School of Information at UT-Austin](https://ischool.utexas.edu) as an Assistant Professor in Fall 2026 and will be part of the UT-Austin [NLP group](https://www.nlp.utexas.edu)，[Machine Learning Laboratory](https://ml.utexas.edu) and the [Oden Institute](https://www.oden.utexas.edu). If you are interested in working with me, please check out [this page](https://jiaxin-pei.github.io/working-with-me/).
 
 In Fall 2026, I will be teaching **[Building Large Language Model Applications](/courses/inf385t/)**, a first-of-its-kind course designed to **help students build "YC-ready" AI applications in 15 weeks** within a curated, hands-on classroom environment. If you are an investor, founder, or industry partner interested in collaborating or sponsoring, I would love to connect — please [reach out](mailto:jiaxinpei@utexas.edu)!
 
@@ -27,9 +27,9 @@ My research focuses on Large Language Models, Human-Computer Interaction and Com
 
 **3. Data Pipeline for LLM Training and Evaluation:** Build effective data collection and annotation pipeline to better train and evaluate LLMs. 
 
-**3. Collective Intelligence Systems:** Build new systems that help groups and communities to better collaborate and make decisions. 
+**4. Collective Intelligence Systems:** Build new systems that help groups and communities to better collaborate and make decisions. 
 
-**4. Computational Social Science:** Understand the impact of AI and technology on individuals, community and society. 
+**5. Computational Social Science:** Understand the impact of AI and technology on individuals, community and society. 
 
 
 ## Awards & Recognition
