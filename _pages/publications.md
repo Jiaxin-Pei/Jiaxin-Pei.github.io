@@ -31,6 +31,7 @@ redirect_from:
 * **BAGEN: Are LLM Agents Budget-Aware?**  
   *Yuxiang Lin, Zihan Wang, Mengyang Liu, Yuxuan Shan, Longju Bai, Junyao Zhang, Xing Jin, Boshan Chen, Jinyan Su, Xingyao Wang, **Jiaxin Pei**, Manling Li*  
   [[Paper]](https://ragen-ai.github.io/bagen/bagen.pdf) • [[Project Page]](https://ragen-ai.github.io/bagen)
+  
 
 * **How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**  
   *Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada Mihalcea, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
