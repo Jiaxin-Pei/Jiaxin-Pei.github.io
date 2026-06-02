@@ -31,7 +31,7 @@ redirect_from:
 * **BAGEN: Are LLM Agents Budget-Aware?**  
   *Yuxiang Lin, Zihan Wang, Mengyang Liu, Yuxuan Shan, Longju Bai, Junyao Zhang, Xing Jin, Boshan Chen, Jinyan Su, Xingyao Wang, **Jiaxin Pei**, Manling Li*  
   [[Paper]](https://ragen-ai.github.io/bagen/bagen.pdf) • [[Project Page]](https://ragen-ai.github.io/bagen)
-  
+
 
 * **How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**  
   *Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada Mihalcea, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
@@ -54,6 +54,10 @@ redirect_from:
 * **Sex, Drugs, and LLMs: Social Desirability Bias in Language Models**  
   *Sophia Kazinnik, José Ramón Enríquez, Jacy Anthis, David Nguyen, **Jiaxin Pei***  
   [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6752998)
+
+* **Interactive Evaluation Requires a Design Science**  
+  *Keyang Xuan, Peiyang Song, Pan Lu, Pengrui Han, Wenkai Li, Zhenyu Zhang, Zexue He, Wenyue Hua, Manling Li, Jiaxuan You, Adrian Weller, Yizhong Wang, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2605.17829)
 
 * **CooperBench: Why Coding Agents Cannot be Your Teammates Yet**  
   *Arpandeep Khatua, Hao Zhu, Peter Tran, Arya Prabhudesai, Frederic Sadrieh, Johann K. Lieberwirth, Xinkai Yu, Yicheng Fu, Michael J. Ryan, **Jiaxin Pei**, Diyi Yang*  
