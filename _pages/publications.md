@@ -28,6 +28,10 @@ redirect_from:
 
 ## Recent Preprints
 
+* **AI Agents Are Not Ready to be Agents: Loyalty, Trust, and Accountability Issues in AI Delegation**  
+  *Inyoung Cheong, Wenyue Hua, Robert Mahari, Tobin South, Zexue He, Alex Pentland, **Jiaxin Pei***  
+  [[Paper]](/files/AI_Agents_are_not_ready.pdf)
+
 * **BAGEN: Are LLM Agents Budget-Aware?**  
   *Yuxiang Lin, Zihan Wang, Mengyang Liu, Yuxuan Shan, Longju Bai, Junyao Zhang, Xing Jin, Boshan Chen, Jinyan Su, Xingyao Wang, **Jiaxin Pei**, Manling Li*  
   [[Paper]](https://ragen-ai.github.io/bagen/bagen.pdf) • [[Project Page]](https://ragen-ai.github.io/bagen)
