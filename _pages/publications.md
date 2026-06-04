@@ -30,7 +30,7 @@ redirect_from:
 
 * **AI Agents Are Not Ready to be Agents: Loyalty, Trust, and Accountability Issues in AI Delegation**  
   *Inyoung Cheong, Wenyue Hua, Robert Mahari, Tobin South, Zexue He, Alex Pentland, **Jiaxin Pei***  
-  [[Paper]](/files/AI_Agents_are_not_ready.pdf)
+  [[Working Paper]](/files/AI_Agents_are_not_ready.pdf)
 
 * **BAGEN: Are LLM Agents Budget-Aware?**  
   *Yuxiang Lin, Zihan Wang, Mengyang Liu, Yuxuan Shan, Longju Bai, Junyao Zhang, Xing Jin, Boshan Chen, Jinyan Su, Xingyao Wang, **Jiaxin Pei**, Manling Li*  
