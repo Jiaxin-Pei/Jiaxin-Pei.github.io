@@ -21,13 +21,22 @@ In Fall 2026, I will be teaching **[Building Large Language Model Applications](
 ## Research Interests
 My research focuses on Large Language Models, Human-AI Collaboration and AI Agents. Currently, I am working on the following directions:
 
-**1. Economics of AI Agents** [Budget-aware AI Agents](https://ragen-ai.github.io/bagen/bagen.pdf), [Agent Token Consumption](https://arxiv.org/abs/2604.22750), [A2A Negotiation](https://arxiv.org/abs/2506.00073)
+**1. Economics of AI Agents**
+- [Budget-aware AI Agents](https://ragen-ai.github.io/bagen/bagen.pdf)
+- [Agent Token Consumption](https://arxiv.org/abs/2604.22750)
+- [A2A Negotiation](https://arxiv.org/abs/2506.00073)
 
-**2. Collaborative Agents and AI-native Organizations**  
-[Multi-User LLM Agent](https://arxiv.org/abs/2604.08567), [CooperBench](https://arxiv.org/pdf/2601.13295), [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576), [Deliberation.io](https://deliberation.io)
+**2. Collaborative Agents and AI-native Organizations**
+- [Multi-User LLM Agent](https://arxiv.org/abs/2604.08567)
+- [CooperBench](https://arxiv.org/pdf/2601.13295)
+- [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576)
+- [Deliberation.io](https://deliberation.io)
 
-**3. Evaluation and Governance of Frontier AI Systems**  
-[Interactive Evaluation](https://arxiv.org/abs/2605.17829), [System Prompt Index](systempromptindex.com), [OvertonBench](https://arxiv.org/abs/2512.01351), [AI Delegation](/files/AI_Agents_are_not_ready.pdf)
+**3. Evaluation and Governance of Frontier AI Systems**
+- [Interactive Evaluation](https://arxiv.org/abs/2605.17829)
+- [System Prompt Index](systempromptindex.com)
+- [OvertonBench](https://arxiv.org/abs/2512.01351)
+- [AI Delegation](/files/AI_Agents_are_not_ready.pdf)
 
 
 ## Awards & Recognition
