@@ -55,10 +55,14 @@ I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an 
 
 ### Masters and Undergraduate
 Andy Dai (Undergrad at Stanford)  
-David Anugraha (Master's student at Stanford)  
+David Anugraha (Master's student at Stanford)
+Haoqian Zhang (Undergrad at UToronto)  
 [Hannah Guan](https://hannahguan.github.io) (Master's student at Stanford)  
 [Xiangning Lin](https://xiangninglin.github.io) (Research intern at Stanford HAI)  
-[Yuxin Chen](https://richsomeday222.github.io/PersonalWeb/) (Undergrad at UMN)
+[Yuxin Chen](https://richsomeday222.github.io/PersonalWeb/) (Master's student at UT-Austin)
+Xu Yang (Master's student at UT-Austin)
+
+
 
 
 ### Past Mentees and Alumni
@@ -67,7 +71,7 @@ Mingqian Zheng (Master's student at UMich, now PhD at CMU)
 Huaman Sun (Master's student at UMich, now PhD at Northwestern)  
 Zhemin Huang (Master's student at Stanford, now MTS at Microsoft AI)  
 Michelle Liu (Master's student at Stanford, now SDE at Adobe)  
-Zhenyu Zhang (Master's student at Stanford, incoming MTS at OpenAI)  
+Zhenyu Zhang (Master's student at Stanford, MTS at OpenAI)  
 Tim Chen (Master's student at Stanford, incoming SDE at Stripe)  
 
 
