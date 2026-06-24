@@ -19,17 +19,15 @@ In Fall 2026, I will be teaching **[Building Large Language Model Applications](
 
 
 ## Research Interests
-My research focuses on Large Language Models, Human-Computer Interaction and Computational Social Science. I am currently interested in the following research directions:
+My research focuses on Large Language Models, Human-AI Collaboration and AI Agents. Currently, I am working on the following directions:
 
-**1. Human-AI Interaction:** Develop new interfaces and systems for human users to better interact with AI models; build more interactive, collaborative and trustworthy AI agents; Create new benchmarks and pipeline for AI system evaluation.
+**1. Budget-Aware AI Agents** [BAGEN](https://ragen-ai.github.io/bagen/bagen.pdf), [Agent Token Consumption](https://arxiv.org/abs/2604.22750)
 
-**2. Digital Infrastructure for AI Agents:** Build new standards and protocols for the future society with AI Agents. 
+**2. Collaborative Agents and AI-native Organization**  
+[Multi-User LLM Agent](https://arxiv.org/abs/2604.08567), [CooperBench](https://arxiv.org/pdf/2601.13295), [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576), [Deliberation.io](https://deliberation.io)
 
-**3. Data Pipeline for LLM Training and Evaluation:** Build effective data collection and annotation pipeline to better train and evaluate LLMs. 
-
-**4. Collective Intelligence Systems:** Build new systems that help groups and communities to better collaborate and make decisions. 
-
-**5. Computational Social Science:** Understand the impact of AI and technology on individuals, community and society. 
+**3. Evaluations and Governance of Frontier AI Systems**  
+[Interactive Evaluation](https://arxiv.org/abs/2605.17829), [System Prompt Index](systempromptindex.com), [OvertonBench](https://arxiv.org/abs/2512.01351), [AI Delegation](/files/AI_Agents_are_not_ready.pdf)
 
 
 ## Awards & Recognition
