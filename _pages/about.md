@@ -24,7 +24,7 @@ My research focuses on Large Language Models, Human-AI Collaboration and AI Agen
 **1. Economics of AI Agents**
 - [Budget-aware AI Agents](https://ragen-ai.github.io/bagen/bagen.pdf)
 - [Agent Token Consumption](https://arxiv.org/abs/2604.22750)
-- [A2A Negotiation](https://arxiv.org/abs/2506.00073)
+- [Agent-to-Agent Negotiation](https://arxiv.org/abs/2506.00073)
 
 **2. Collaborative Agents and AI-native Organizations**
 - [Multi-User LLM Agent](https://arxiv.org/abs/2604.08567)
