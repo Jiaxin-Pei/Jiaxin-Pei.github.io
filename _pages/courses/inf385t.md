@@ -233,7 +233,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 
 ### Prerequisites {#prerequisites}
 
-Comfortable writing Python applications, using APIs, and working in a terminal. Prior experience with machine learning or natural language processing is also required.
+Students should be comfortable writing Python code, using APIs, working in a terminal, and learning new developer tools quickly. Prior experience with machine learning or natural language processing is helpful, but the most important prerequisite is a strong motivation to build a real AI product.
 
 ### Course materials {#course-materials}
 
@@ -242,15 +242,18 @@ Comfortable writing Python applications, using APIs, and working in a terminal. 
 
 ### Course overview and objectives {#course-overview-and-objectives}
 
-This course explores the design and development of practical applications powered by large language models (LLMs), with an emphasis on frontier application categories such as coding agents, personal agents, vertical AI, AI-native distribution, and multi-modal systems. Core technical concepts such as prompting, retrieval-augmented generation, embeddings, structured outputs, orchestration, safety, and evaluation are taught in the context of building products rather than as isolated abstractions, with additional technical foundations provided as a Canvas reference page. The course is project-driven: students rapidly prototype individual demos, form teams around the strongest ideas, and then build, test, and pitch an LLM-based application with guidance from founders, investors, and researchers.
+This course is organized around one central activity: building an AI product that real people can try. In the first part of the semester, students study the current AI application landscape, use coding agents to move quickly, and build three individual demos. After a lightweight demo day, students form teams around the strongest ideas and spend the rest of the course turning one prototype into a more serious product.
+
+Class meetings combine product teardown, technical workshops, guest conversations, and in-class feedback. We will cover coding agents, personal agents, vertical AI, evaluation and red-teaming, multi-modal and voice interfaces, AI-native distribution, deployment cost, defensibility, and go-to-market strategy as they become relevant to the projects students are building. The course culminates in beta testing with real users, a YC-style application and pitch, and a public demo day with founders, investors, and researchers.
 
 By the end of this course, students will be able to:
 
-1. Design and build a working LLM-powered application from idea to deployed product
-2. Apply core techniques—prompting, RAG, orchestration, agentic tool use, and multi-modal integration—to solve real-world problems
-3. Evaluate LLM systems for quality, safety, and cost
-4. Iterate on a product based on real user feedback
-5. Communicate and present an AI product to technical and non-technical audiences
+1. Identify promising AI product opportunities by analyzing frontier products, user needs, and startup market signals
+2. Use coding agents and modern LLM APIs to rapidly prototype multiple working demos
+3. Build a team project that integrates agentic workflows, retrieval or memory, structured outputs, evaluation, and multi-modal or voice capabilities where appropriate
+4. Test an AI product with real users, measure quality and failure modes, and iterate based on feedback
+5. Figure out deployment cost, reliability, safety, distribution, defensibility, and go-to-market strategy for an AI application
+6. Present a polished product demo and pitch the product to broad audiences and investors
 
 ## Schedule {#schedule}
 
