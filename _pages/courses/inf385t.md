@@ -212,9 +212,9 @@ The University of Texas at Austin, Fall 2026
 
 This is not a lecture-and-exam course. It is a **builder course**. You will spend the semester designing, building, and shipping a real AI product—one good enough to put in front of real users.
 
-We cover LLM fundamentals not as an end in themselves, but as tools you need to build something great. The best way to learn what LLMs can and cannot do is to push them to their limits on a problem you care about.
+If you want to build AI products that people use in the real world, have been thinking about starting a company but are unsure how to make it happen, or have built promising prototypes without a path to turn them into real products, this is the class for you. We created this course to help you think bigger, build faster, and launch serious AI products alongside ambitious peers, top startup founders, and world-class investors.
 
-While this is listed as a graduate-level class, we welcome both undergrad and grad students with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. **We especially welcome PhD students from all areas** who want to apply LLMs to their own research domains. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
+While this is listed as a graduate-level class, we welcome **both undergrad and grad students** with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. **We especially welcome PhD students from all areas** who want to apply LLMs to their own research domains. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
 
 We hold ourselves and our students to the highest standard. This course is fast-paced and demanding—expect to invest serious time and energy every week. But if you are passionate about building with AI and ready to put in the work, you will leave with a product you are proud of, skills that transfer directly to industry, a portfolio piece that speaks for itself—and, ultimately, an opportunity that changes your life.
 
@@ -245,9 +245,9 @@ Students should be comfortable writing Python code, using APIs, working in a ter
 
 ### Course overview and objectives {#course-overview-and-objectives}
 
-This course is organized around one central activity: building an AI product that real people can try. In the first part of the semester, students study the current AI application landscape, use coding agents to move quickly, and build three individual demos. After a lightweight demo day, students form teams around the strongest ideas and spend the rest of the course turning one prototype into a more serious product.
+This course is organized around one central activity: building an AI product that real people can use. In the first part of the semester, students study the current AI application landscape, use coding agents to move quickly, and build three individual demos. After a lightweight demo day, students form teams around the strongest ideas and spend the rest of the course turning one prototype into a more serious product.
 
-Class meetings combine product teardown, technical workshops, guest conversations, and in-class feedback. We will cover coding agents, personal agents, vertical AI, evaluation and red-teaming, multi-modal and voice interfaces, AI-native distribution, deployment cost, defensibility, and go-to-market strategy as they become relevant to the projects students are building. The course culminates in beta testing with real users, a YC-style application and pitch, and a public demo day with founders, investors, and researchers.
+Each week centers on three activities: a guest lecture from a venture capitalist or startup founder, an in-class exploration of AI products, and dedicated time to build. As students develop their projects, we will cover coding and personal agents, vertical AI, evaluation and red-teaming, multimodal and voice interfaces, AI-native distribution, deployment costs, defensibility, and go-to-market strategy. Students will test their products with real-world users, and at the end of the semester, we will hold a public demo day where teams can pitch directly to investors.
 
 By the end of this course, students will be able to:
 
@@ -565,7 +565,7 @@ By the end of this course, students will be able to:
 
 * Last class day.
 
-### Technical foundations (Canvas reference page) {: .no_toc }
+### Technical foundations (Canvas reference page)
 
 These materials are not lectured as standalone units, but are available for students to consult as needed while building.
 
@@ -585,7 +585,7 @@ These materials are not lectured as standalone units, but are available for stud
   * <a href="https://anthropic.skilljar.com/model-context-protocol-advanced-topics">Anthropic, MCP Advanced Topics (Course)</a>
 
 
-### Course requirements and grading policy {: .no_toc }
+### Course requirements and grading policy
 
 * **Individual assignments (30%)** — Weeks 1–4
   * Week 1: Four one-pagers on AI products
@@ -618,7 +618,7 @@ These materials are not lectured as standalone units, but are available for stud
 | D     | ≥ 63%      |
 | D-    | ≥ 60%      |
 
-### Academic integrity and AI tools {: .no_toc }
+### Academic integrity and AI tools
 
 This course *requires* you to use AI tools — ChatGPT, Copilot, Cursor, and whatever else helps you build. Building on the shoulders of AI is a core skill this class teaches.
 
@@ -626,11 +626,11 @@ That said, using AI tools does not remove your responsibility to understand what
 
 You are encouraged to discuss ideas with classmates, consult external resources, and use open-source code. However, you must cite any substantial external code or resources you incorporate. For individual assignments, the work you submit must reflect your own understanding. For team projects, all team members are expected to contribute meaningfully and be able to speak to the full scope of the project.
 
-### Notice about students with disabilities {: .no_toc }
+### Notice about students with disabilities
 
 The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with disabilities. Please contact the [Division of Diversity and Community Engagement, Services for Students with Disabilities](https://ddce.utexas.edu/disability/), 512-471-6259.
 
-### Notice about missed work due to religious holy days {: .no_toc }
+### Notice about missed work due to religious holy days
 
 A student who cannot meet an assignment deadline due to the observance of a religious holy day may submit the assignment up to 24 hours late without penalty, if proper notice of the planned absence has been given. Notice must be given at least 14 days prior to the due date. For religious holy days that fall within the first 2 weeks of the semester, notice should be given on the first day of the semester. Notice should be emailed to the instructor and course staff.
 
