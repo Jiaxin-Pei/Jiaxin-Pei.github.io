@@ -220,6 +220,11 @@ We hold ourselves and our students to the highest standard. This course is fast-
 
 The semester culminates in a public demo day with investors from top venture capital firms. Standout teams will have fast-track access to leading accelerator programs to continue building beyond the classroom.
 
+<div style="display: flex; align-items: center; gap: 14px; padding: 14px 18px; margin: 1.5em 0; border: 1px solid #e5e5e5; border-radius: 8px;">
+  <span style="font-size: 0.8em; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #666;">Sponsored by</span>
+  <a href="https://hydradb.com" target="_blank" rel="noopener noreferrer" aria-label="HydraDB" style="font-size: 1.45em; font-weight: 700; letter-spacing: -0.04em; color: #ff571a; text-decoration: none;">HydraDB</a>
+</div>
+
 <div style="background: #f0f0f0; padding: 14px 18px; margin: 1.5em 0;">
 <strong>Interested in sponsoring or collaborating?</strong><br>
 We welcome partnerships with investors, accelerators, and industry sponsors who want to connect with the next generation of AI builders. Reach out at <a href="mailto:jiaxinpei@utexas.edu">jiaxinpei@utexas.edu</a>.
@@ -231,6 +236,8 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 - **Alex Fang** — Co-founder & CEO, [Judgement Labs](https://judgmentlabs.ai/)
 - **Yu Gu** — Co-founder, [NeoCognition](https://neocognition.io/)
 - **Sharon Lee** — Co-founder, [Moonlake AI](https://moonlakeai.com/)
+- **Nishkarsh Srivastava** Founder & CEO, [HydraDB](https://hydradb.com)
+
 
 ## Syllabus {#syllabus}
 
