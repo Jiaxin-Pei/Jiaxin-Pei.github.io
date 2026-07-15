@@ -152,7 +152,7 @@ details li {
 <div style="text-align: center;" markdown="1">
 <h1 style="font-size: 1.6em; font-weight: bold; margin: 0 0 0.35em; border: none; padding: 0;">INF 385T Building Large Language Model Applications</h1>
 
-"Build an AI Product in 15 weeks and submit to Y Combinator"
+"Build an AI Product in 15 weeks and submit to Y Combinator (or other accelerators)"
 
 The University of Texas at Austin, Fall 2026  
 **M 9:00 a.m.–12:00 p.m. · UTA 1.208**  
@@ -164,7 +164,7 @@ The University of Texas at Austin, Fall 2026
   <a href="https://forms.gle/r89ohzrG6UEDvfEw9" rel="noopener noreferrer" style="display: inline-block; background: #bf5700; color: #fff !important; padding: 0.65em 1.75em; border-radius: 8px; font-weight: 600; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">Apply by July 20 for enrollment</a>
 </p>
 <p style="margin: 0.75em 0 0; font-size: 0.9em;">
-  <strong>Enrollment process:</strong> To ensure the quality of this class, we are capping the size of class to 30. We will review all applications and notify you of the initial results by July 22. If selected, you must respond within 24 hours to confirm your enrollment. We will then work with the registrar to approve your enrollment.
+  <strong>Enrollment process:</strong> To ensure the quality of this class, we are capping the size of class to 30. We will review all applications and notify you of the initial results by July 22. If selected, you must respond within 24 hours to confirm your enrollment. We will then work with the registrar to approve your enrollment. (We will still keep the application portable open after July 20 but will prioritize applications submitted before that).
 </p>
 
 </div>
