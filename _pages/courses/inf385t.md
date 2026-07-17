@@ -214,7 +214,7 @@ This is not a lecture-and-exam course. It is a **builder course**. You will spen
 
 If you want to build AI products that people use in the real world, have been thinking about starting a company but are unsure how to make it happen, or have built promising prototypes without a path to turn them into real products, this is the class for you. We created this course to help you think bigger, build faster, and launch serious AI products alongside ambitious peers, top startup founders, and world-class investors.
 
-While this is listed as a graduate-level class, we welcome **both undergrad and grad students** with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. **We especially welcome PhD students from all areas** who want to apply LLMs to their own research domains. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
+While this is listed as a graduate-level class, we welcome **both undergrad and grad students** with diverse backgrounds—science, engineering, design, business—as long as you are strongly motivated to build something great. We welcome PhD students from all areas who want to apply LLMs to their own research domains. The strongest teams combine people who can code, people who can design experiences, and people who have deep understanding of a specific domain.
 
 We hold ourselves and our students to the highest standard. This course is fast-paced and demanding—expect to invest serious time and energy every week. But if you are passionate about building with AI and ready to put in the work, you will leave with a product you are proud of, skills that transfer directly to industry, a portfolio piece that speaks for itself—and, ultimately, an opportunity that changes your life.
 
@@ -246,7 +246,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 
 ### Prerequisites {#prerequisites}
 
-Students should be comfortable writing Python code, using APIs, working in a terminal, and learning new developer tools quickly. Prior experience with machine learning or natural language processing is helpful, but the most important prerequisite is a strong motivation to build a real AI product.
+Students should be comfortable with using coding agents to build things. You don't need to be super technical but you need to be willing to build.
 
 ### Course materials {#course-materials}
 
@@ -423,6 +423,7 @@ By the end of this course, students will be able to:
     <li><a href="https://www.nfx.com/post/generative-ai-tech-market-map">NFX, Generative AI Tech Market Map</a></li>
     </ul></details>
 * **Homework:** Write four one-pagers: (1) a cool AI startup product that you tried, and (2–4) three AI applications you want to build
+* **Launch Party:** We will be having a launch party on Aug 24! Details forthcoming!
 
 ### Week 2 (8/31–9/4) – Coding agents {#week-2}
 
