@@ -236,7 +236,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 ## Confirmed speakers {#confirmed-speakers}
 
 - **Xingyao Wang** — Co-founder, [OpenHands](https://openhands.dev/)
-- **Alex Fang** — Co-founder & CEO, [Judgement Labs](https://judgmentlabs.ai/)
+- **Alex Shan** — Co-founder & CEO, [Judgement Labs](https://judgmentlabs.ai/)
 - **Yu Gu** — Co-founder, [NeoCognition](https://neocognition.io/)
 - **Sharon Lee** — Co-founder, [Moonlake AI](https://moonlakeai.com/)
 - **Nishkarsh Srivastava** Founder & CEO, [HydraDB](https://hydradb.com)
