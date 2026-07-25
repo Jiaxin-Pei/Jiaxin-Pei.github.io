@@ -165,7 +165,7 @@ The University of Texas at Austin, Fall 2026
 </p>
 <p style="margin: 0.75em 0 0; font-size: 0.9em;">
   <strong>Enrollment process:</strong> To ensure the quality of this class, we are capping the size of class to 30. <span style="text-decoration: line-through;"> We will review all applications and notify you of the initial results by July 22. If selected, you must respond within 24 hours to confirm your enrollment. We will then work with the registrar to approve your enrollment. (We will still keep the application portable open after July 20 but will prioritize applications submitted before that).</span> <br>
-  We received a large number of applications and the results will be released by July 24.
+  We received a large number of applications and the results will be released by July 25.
 </p>
 
 </div>
