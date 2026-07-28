@@ -3,6 +3,9 @@ title: ""
 permalink: /experiences/
 author_profile: true
 ---
+
+I was a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. 
+
 ## Industry Experience
 
 **Bloomberg AI** | Research Intern | New York | *May 2023 - Aug 2023*

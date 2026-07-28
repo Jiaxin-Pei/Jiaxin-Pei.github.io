@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-I am currently a Postdoctoral Fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) working with [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Erik Brynjolfsson](https://www.brynjolfsson.com). I am affiliated with the [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu), the [Stanford NLP group](https://nlp.stanford.edu) and also the [Institute for Decentralized AI](http://decentralized-ai.org). I obtained my PhD from School of Information at the University of Michigan advised by [David Jurgens](http://jurgens.people.si.umich.edu/). I also worked with [Jun Li](https://michiganross.umich.edu/faculty-research/faculty/jun-li) at Ross School of Business. 
+I am currently an Assistant Professor at [School of Information at UT-Austin](https://ischool.utexas.edu). I am part of the UT-Austin [NLP group](https://www.nlp.utexas.edu)，[Machine Learning Laboratory](https://ml.utexas.edu) and the [Oden Institute](https://www.oden.utexas.edu). I am also an affliated research fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) and [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu).
 
-I will join the [School of Information at UT-Austin](https://ischool.utexas.edu) as an Assistant Professor in Fall 2026 and will be part of the UT-Austin [NLP group](https://www.nlp.utexas.edu)，[Machine Learning Laboratory](https://ml.utexas.edu) and the [Oden Institute](https://www.oden.utexas.edu). If you are interested in working with me, please check out [this page](https://jiaxin-pei.github.io/working-with-me/).
+My research focuses on AI Agents and Human-AI Collaboration. If you are interested in working with me, please check out [this page](https://jiaxin-pei.github.io/working-with-me/).
 
 In Fall 2026, I will be teaching **[Building Large Language Model Applications](/courses/inf385t/)**, a first-of-its-kind course designed to **help students build "YC-ready" AI applications in 15 weeks** within a curated, hands-on classroom environment. If you are an investor, founder, or industry partner interested in collaborating or sponsoring, I would love to connect — please [reach out](mailto:jiaxinpei@utexas.edu)!
 
@@ -48,7 +48,7 @@ My research focuses on Large Language Models, Human-AI Collaboration and AI Agen
 
 ## Software
 
-I am the core developer of [POTATO](https://github.com/davidjurgens/potato), an open-source data labeling system for effective and responsive human computation.
+I was the core developer of [POTATO](https://github.com/davidjurgens/potato), an open-source data labeling system for effective and responsive human computation.
 
 
 ## Group
