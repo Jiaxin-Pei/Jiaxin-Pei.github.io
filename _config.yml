@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiaxin Pei"
   avatar           : "jiaxin_pei.jpeg"
-  bio              : "Postdoctoral Fellow at Stanford University"
-  location         : "Stanford, CA"
+  bio              : "Assistant Professor at UT-Austin, Research Fellow at Stanford HAI"
+  location         : "Austin & Palo Alto"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bfPz_-8AAAAJ&hl=en"
-  email            : "pedropei@stanford.edu"
+  email            : "jiaxinpei@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
