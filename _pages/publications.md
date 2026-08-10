@@ -28,6 +28,10 @@ redirect_from:
 
 ## Recent Preprints
 
+* **AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**  
+  *Xiangning Lin, Shenzhe Zhu, Shu Yang, Zhenyu Zhang, Haoqian Zhang, Yipeng Zhao, Chengxuan Qian, Tianwei Wang, Ziheng Zhang, Zhenlong Yuan, Dingcheng Wang, Juncheng Wu, Yuan Si, Jiaxin Liu, Baolong Bi, Robert Mahari, Tobin South, Dazza Greenwood, Zexue He, Rishi Bommasani, Sophia Kazinnik, Andreas Haupt, Samuele Marro, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2607.28617) • [[Website]](https://systempromptindex.ai/aispa) • [[Code]](https://github.com/SystemPromptIndex/SystemPromptIndex)
+
 * **AI Agents Are Not Ready to be Agents: Loyalty, Trust, and Accountability Issues in AI Delegation**  
   *Inyoung Cheong, Wenyue Hua, Robert Mahari, Tobin South, Zexue He, Alex Pentland, **Jiaxin Pei***  
   [[Working Paper]](/files/AI_Agents_are_not_ready.pdf)

@@ -34,7 +34,7 @@ My research focuses on Large Language Models, Human-AI Collaboration and AI Agen
 
 **3. Evaluation and Governance of Frontier AI Systems**
 - [Interactive Evaluation](https://arxiv.org/abs/2605.17829)
-- [System Prompt Index](systempromptindex.com)
+- [System Prompt Index](systempromptindex.ai)
 - [OvertonBench](https://arxiv.org/abs/2512.01351)
 - [AI Delegation](/files/AI_Agents_are_not_ready.pdf)
 
