@@ -243,6 +243,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 - **Yu Gu** — Co-founder, [NeoCognition](https://neocognition.io/)
 - **Sharon Lee** — Co-founder, [Moonlake AI](https://moonlakeai.com/)
 - **Nishkarsh Srivastava** Founder & CEO, [HydraDB](https://hydradb.com)
+- **Kolento Hou** Co-founder & CEO, [Emergences Labs](https://emergences.ai)
 
 
 ## Syllabus {#syllabus}
