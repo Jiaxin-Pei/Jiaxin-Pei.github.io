@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-I am currently an Assistant Professor at [School of Information at UT-Austin](https://ischool.utexas.edu). I am part of the UT-Austin [NLP group](https://www.nlp.utexas.edu)，[Machine Learning Laboratory](https://ml.utexas.edu) and the [Oden Institute](https://www.oden.utexas.edu). I am also an affliated research fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) and [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu).
+I am currently an Assistant Professor in Information at [School of Computing at UT-Austin](https://computing.utexas.edu). I am part of the UT-Austin [NLP group](https://www.nlp.utexas.edu)，[Machine Learning Laboratory](https://ml.utexas.edu) and the [Oden Institute](https://www.oden.utexas.edu). I am also an affliated research fellow at Stanford Institute for Human-Centered Artificial Intelligence (HAI) and [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu).
 
 My research focuses on AI Agents and Human-AI Collaboration. If you are interested in working with me, please check out [this page](https://jiaxin-pei.github.io/working-with-me/).
 
