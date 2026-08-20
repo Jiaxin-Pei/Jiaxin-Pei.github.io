@@ -238,13 +238,12 @@ The semester culminates in a public demo day with investors from top venture cap
   <a href="https://texasinnovationcenter.utexas.edu" target="_blank" rel="noopener noreferrer" aria-label="Texas Innovation Center" style="display: flex; align-items: center; background: #bf5700; padding: 7px 10px; border-radius: 4px; line-height: 0;">
     <img src="https://texasinnovationcenter.utexas.edu/templates/txic-2023/images/NS_KO_formal_Texas_Innovation_Center.svg" alt="Texas Innovation Center" style="display: block; width: auto; height: 25px;">
   </a>
-  <a href="https://tech.utexas.edu/" target="_blank" rel="noopener noreferrer" aria-label="UT Austin Enterprise Technology" style="display: flex; flex-direction: column; justify-content: center; background: #bf5700; padding: 5px 10px; border-radius: 4px; text-decoration: none; line-height: 1.15;">
-    <span style="color: #fff; font-size: 0.58em; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase;">UT Austin</span>
-    <span style="color: #fff; font-size: 0.78em; font-weight: 700;">Enterprise Technology</span>
+  <a href="https://tech.utexas.edu/" target="_blank" rel="noopener noreferrer" aria-label="UT Austin Enterprise Technology" style="display: flex; align-items: center; line-height: 0;">
+    <img src="https://tech.utexas.edu/sites/default/files/rgb_formal_enterprise_technology.png" alt="The University of Texas at Austin Enterprise Technology" style="display: block; width: auto; height: 36px;">
   </a>
-  <a href="https://tech.utexas.edu/services-tools/ai" target="_blank" rel="noopener noreferrer" aria-label="UT Austin AI Studio" style="display: flex; flex-direction: column; justify-content: center; background: #bf5700; padding: 5px 10px; border-radius: 4px; text-decoration: none; line-height: 1.15;">
-    <span style="color: #fff; font-size: 0.58em; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase;">UT Austin</span>
-    <span style="color: #fff; font-size: 0.78em; font-weight: 700;">AI Studio</span>
+  <a href="https://tech.utexas.edu/services-tools/ai" target="_blank" rel="noopener noreferrer" aria-label="UT Austin AI Studio" style="display: flex; flex-direction: column; justify-content: center; text-decoration: none; line-height: 1.12;">
+    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
+    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 700; color: #333f48;">AI Studio</span>
   </a>
 </div>
 
