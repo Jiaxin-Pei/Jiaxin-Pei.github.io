@@ -239,8 +239,9 @@ The semester culminates in a public demo day with investors from top venture cap
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 400; color: #333f48;">Texas Innovation Center</span>
   </a>
-  <a href="https://tech.utexas.edu/" target="_blank" rel="noopener noreferrer" aria-label="UT Austin Enterprise Technology" style="display: flex; align-items: center; line-height: 0;">
-    <img src="https://tech.utexas.edu/sites/default/files/rgb_formal_enterprise_technology.png" alt="The University of Texas at Austin Enterprise Technology" style="display: block; width: auto; height: 36px;">
+  <a href="https://tech.utexas.edu/" target="_blank" rel="noopener noreferrer" aria-label="UT Austin Enterprise Technology" style="display: flex; flex-direction: column; justify-content: center; text-decoration: none; line-height: 1.12;">
+    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
+    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 400; color: #333f48;">Enterprise Technology</span>
   </a>
   <a href="https://tech.utexas.edu/services-tools/ai" target="_blank" rel="noopener noreferrer" aria-label="UT Austin AI Studio" style="display: flex; flex-direction: column; justify-content: center; text-decoration: none; line-height: 1.12;">
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
