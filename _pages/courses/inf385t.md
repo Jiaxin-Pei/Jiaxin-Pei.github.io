@@ -211,6 +211,8 @@ The University of Texas at Austin, Fall 2026
 
 <div class="course-main" markdown="1">
 
+<div style="display: flex; flex-direction: column;" markdown="1">
+
 ## Class Philosophy {#class-philosophy}
 
 This is not a lecture-and-exam course. It is a **builder course**. You will spend the semester designing, building, and shipping a real AI product—one good enough to put in front of real users.
@@ -223,8 +225,8 @@ We hold ourselves and our students to the highest standard. This course is fast-
 
 The semester culminates in a public demo day with investors from top venture capital firms. Standout teams will have fast-track access to leading accelerator programs to continue building beyond the classroom.
 
-<div style="padding: 14px 18px; margin: 1.5em 0; border: 1px solid #e5e5e5; border-radius: 8px;">
-  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 14px 18px; padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #e5e5e5;">
+<div style="order: -1; padding: 14px 18px; margin: 1.5em 0;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 14px 18px; padding-bottom: 14px; margin-bottom: 14px;">
     <span style="font-size: 0.8em; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #666;">Premier Partner:</span>
     <a href="https://openai.com/" target="_blank" rel="noopener noreferrer" aria-label="OpenAI" style="display: flex; align-items: center; line-height: 0;">
       <svg width="125" height="34" viewBox="0 0 1180 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="openai-logo-title">
@@ -265,6 +267,8 @@ The semester culminates in a public demo day with investors from top venture cap
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 400; color: #333f48;">AI Studio</span>
   </a>
   </div>
+</div>
+
 </div>
 
 <div style="background: #f0f0f0; padding: 14px 18px; margin: 1.5em 0;">
