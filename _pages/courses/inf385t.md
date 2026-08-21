@@ -1,7 +1,7 @@
 ---
 permalink: /courses/inf385t/
 seo_page_title: "INF 385T · Building LLM Applications (UT Austin)"
-description: "Graduate course at UT Austin (Fall 2026): build and ship a real AI product with large language models—RAG, agents, evaluation, and a public demo. Taught by Jiaxin Pei. Apply for enrollment."
+description: "Graduate course at UT Austin (Fall 2026): build and ship a real AI product with large language models—RAG, agents, evaluation, and a public demo. Taught by Jiaxin Pei."
 excerpt: "UT Austin graduate course (Fall 2026). Build LLM-powered applications and ship a product in 15 weeks."
 keywords: "INF 385T, UT Austin, School of Information, Computer Science, LLM course, LLM, LLM Application, large language models, AI product development, graduate course, Fall 2026, Austin Texas, Jiaxin Pei, AI agents, builder course"
 author_profile: false
@@ -159,16 +159,6 @@ The University of Texas at Austin, Fall 2026
 [Jiaxin Pei](https://jiaxin-pei.github.io/), jiaxinpei@utexas.edu  
 
 [Confirmed speakers](#confirmed-speakers) • [Syllabus](#syllabus) • [Schedule](#schedule) • Project • Canvas
-
-<p style="margin: 1.25em 0 0;">
-  <a href="" rel="noopener noreferrer" style="display: inline-block; background: #bf5700; color: #fff !important; padding: 0.65em 1.75em; border-radius: 8px; font-weight: 600; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">Application closed</a>
-</p>
-<p style="margin: 0.75em 0 0; font-size: 0.9em;">
-  <strong>Enrollment process:</strong> To ensure the quality of this class, we are capping the size of class to 30. <span style="text-decoration: line-through;"> We will review all applications and notify you of the initial results by July 22. If selected, you must respond within 24 hours to confirm your enrollment. We will then work with the registrar to approve your enrollment. (We will still keep the application portable open after July 20 but will prioritize applications submitted before that).</span> <br>
-  <span style="text-decoration: line-through;">We received a large number of applications and the results will be released by July 25.</span>  
-  <span style="text-decoration: line-through;">Guys, I'm really sorry for the delay. We received so many strong applications that it's been tough to make the final call. We'll release results by July 27. Thank you all for your patience and understanding!</span>  
-  <strong>Update (July 28):</strong> Reviews are complete and we are sending out application results today in the afternoon. 
-</p>
 
 </div>
 
