@@ -224,7 +224,7 @@ We hold ourselves and our students to the highest standard. This course is fast-
 The semester culminates in a public demo day with investors from top venture capital firms. Standout teams will have fast-track access to leading accelerator programs to continue building beyond the classroom.
 
 <div style="padding: 14px 18px; margin: 1.5em 0; border: 1px solid #e5e5e5; border-radius: 8px;">
-  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 14px 18px; padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #e5e5e5;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 14px 18px; padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #e5e5e5;">
     <span style="font-size: 0.8em; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #666;">Premier Partner:</span>
     <a href="https://openai.com/" target="_blank" rel="noopener noreferrer" aria-label="OpenAI" style="display: flex; align-items: center; line-height: 0;">
       <svg width="125" height="34" viewBox="0 0 1180 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="openai-logo-title">
@@ -239,7 +239,7 @@ The semester culminates in a public demo day with investors from top venture cap
       </svg>
     </a>
   </div>
-  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 14px 18px;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 14px 18px;">
   <span style="font-size: 0.8em; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #666;">Partners:</span>
   <a href="https://hydradb.com" target="_blank" rel="noopener noreferrer" aria-label="HydraDB" style="font-size: 1.45em; font-weight: 700; letter-spacing: -0.04em; color: #ff571a; text-decoration: none;">HydraDB</a>
   <a href="https://www.antler.co/" target="_blank" rel="noopener noreferrer" aria-label="Antler" style="display: flex; align-items: center; line-height: 0;">
