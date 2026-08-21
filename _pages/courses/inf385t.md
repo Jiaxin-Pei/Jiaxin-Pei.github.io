@@ -223,8 +223,15 @@ We hold ourselves and our students to the highest standard. This course is fast-
 
 The semester culminates in a public demo day with investors from top venture capital firms. Standout teams will have fast-track access to leading accelerator programs to continue building beyond the classroom.
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 14px 18px; padding: 14px 18px; margin: 1.5em 0; border: 1px solid #e5e5e5; border-radius: 8px;">
-  <span style="font-size: 0.8em; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #666;">We appreciate the kind support from:</span>
+<div style="padding: 14px 18px; margin: 1.5em 0; border: 1px solid #e5e5e5; border-radius: 8px;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 14px 18px; padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #e5e5e5;">
+    <span style="font-size: 0.8em; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #666;">Premier Partner:</span>
+    <a href="https://openai.com/" target="_blank" rel="noopener noreferrer" aria-label="OpenAI" style="display: flex; align-items: center; line-height: 0;">
+      <img src="/images/openai-logo.svg" alt="OpenAI" style="display: block; width: auto; height: 34px;">
+    </a>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 14px 18px;">
+  <span style="font-size: 0.8em; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #666;">Partners:</span>
   <a href="https://hydradb.com" target="_blank" rel="noopener noreferrer" aria-label="HydraDB" style="font-size: 1.45em; font-weight: 700; letter-spacing: -0.04em; color: #ff571a; text-decoration: none;">HydraDB</a>
   <a href="https://www.antler.co/" target="_blank" rel="noopener noreferrer" aria-label="Antler" style="display: flex; align-items: center; line-height: 0;">
     <img src="https://cdn.prod.website-files.com/68c1084e137e63873a526f0f/690047f65a959fb6a5420490_Antler-logo.png" alt="Antler" style="display: block; width: auto; height: 32px;">
@@ -247,6 +254,7 @@ The semester culminates in a public demo day with investors from top venture cap
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 400; color: #333f48;">AI Studio</span>
   </a>
+  </div>
 </div>
 
 <div style="background: #f0f0f0; padding: 14px 18px; margin: 1.5em 0;">
