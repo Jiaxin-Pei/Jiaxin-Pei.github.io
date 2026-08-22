@@ -46,11 +46,6 @@ My research focuses on Large Language Models, Human-AI Collaboration and AI Agen
 * Honorable Mention Award, International Conference on Computational Social Science (IC2S2)
 * Best Paper Award, Workshop on Social Influence in Conversations
 
-## Software
-
-I was the core developer of [POTATO](https://github.com/davidjurgens/potato), an open-source data labeling system for effective and responsive human computation.
-
-
 ## Group
 
 ### PhD Students
