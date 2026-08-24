@@ -456,7 +456,8 @@ By the end of this course, students will be able to:
     <li><a href="https://sequoiacap.com/article/ai-in-2025/">Sequoia, AI in 2025</a></li>
     <li><a href="https://www.nfx.com/post/generative-ai-tech-market-map">NFX, Generative AI Tech Market Map</a></li>
     </ul></details>
-* **Homework:** Write four one-pagers: (1) a cool AI startup product that you tried, and (2–4) three AI applications you want to build
+* **Homework 1:** One one-pager: an AI product you tried.
+* **Homework 2:** 1–3 pages on AI applications you want to build.
 * **Launch Party:** We will be having a launch party on Aug 24! Details forthcoming!
 
 ### Week 2 (8/31–9/4) – Coding agents {#week-2}
@@ -633,7 +634,7 @@ These materials are not lectured as standalone units, but are available for stud
 ### Course requirements and grading policy
 
 * **Individual assignments (30%)** — Weeks 1–4
-  * Week 1: Four one-pagers on AI products
+  * Week 1: Two writeups — one one-pager (an AI product you tried) and 1–3 pages (applications you want to build)
   * Weeks 2–4: Three individual demos built with AI tools
 
 * **Class project (60%)** — Weeks 5–16
