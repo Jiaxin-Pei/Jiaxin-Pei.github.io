@@ -268,7 +268,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 
 ## Confirmed speakers {#confirmed-speakers}
 
-- **Xingyao Wang** — Co-founder, [OpenHands](https://openhands.dev/)
+- **[Xingyao Wang](https://xwang.dev/)** — Co-founder, [OpenHands](https://openhands.dev/)
 - **Alex Shan** — Co-founder & CEO, [Judgement Labs](https://judgmentlabs.ai/)
 - **Yu Gu** — Co-founder, [NeoCognition](https://neocognition.io/)
 - **Sharon Lee** — Co-founder, [Moonlake AI](https://moonlakeai.com/)
@@ -445,7 +445,6 @@ By the end of this course, students will be able to:
 ### Week 1 (8/24–8/28) – The AI application landscape {#week-1}
 
 * Course introduction. Rapid-fire tour of frontier application areas: coding agents, personal agents, vertical AI, generative engine optimization, agentic web, and world models. The goal is to help students see what exists, who is building it, and where ambitious project ideas may come from.
-* Guest speaker: [TBD]
 * <details><summary>Readings</summary><ul>
     <li><a href="https://www.ycombinator.com/rfs">Y Combinator, Requests for Startups (RFS)</a></li>
     <li><a href="https://www.ycombinator.com/techno-industrialist">Y Combinator, Techno-Industrialist</a></li>
@@ -458,13 +457,13 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework 1:** One one-pager: an AI product you tried.
 * **Homework 2:** 1–3 pages on AI applications you want to build.
-* **Launch Party:** We will be having a launch party on Aug 24! Details forthcoming!
+* **Launch Party:** We had an amazing launch party on Aug 24. Thanks [Antler](https://www.antler.co/) VC for hosting!
 
 ### Week 2 (8/31–9/4) – Coding agents {#week-2}
 
 * How AI coding agents work, from autocomplete to autonomous multi-file editing. Architecture of Cursor, Claude Code, Devin, and Windsurf. Agentic loops, tool use, function calling, structured outputs, and MCP basics. This is also a practical skills week: students will use coding agents to build all their demos.
 * Product to explore: [TBD]
-* Guest speaker: [TBD]
+* Guest speaker: [Xingyao Wang](https://xwang.dev/)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://www.anthropic.com/research/building-effective-agents">Anthropic, Building Effective Agents</a></li>
     <li><a href="https://www.anthropic.com/engineering/writing-tools-for-agents">Anthropic, Writing Effective Tools for AI Agents</a></li>
@@ -478,7 +477,6 @@ By the end of this course, students will be able to:
 ### Week 3 (9/7–9/11) – Labor Day week {#week-3}
 
 * Labor Day 9/7; no class.
-* Product to explore: [TBD]
 * **Homework:** Use a coding agent to build the **second** demo of the LLM application you want to build
 
 ### Week 4 (9/14–9/18) – Personal agents & the agentic web {#week-4}
