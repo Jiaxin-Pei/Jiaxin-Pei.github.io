@@ -248,6 +248,10 @@ The semester culminates in a public demo day with investors from top venture cap
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 400; color: #333f48;">Texas Innovation Center</span>
   </a>
+  <a href="https://computing.utexas.edu/" target="_blank" rel="noopener noreferrer" aria-label="UT Austin School of Computing" style="display: flex; flex-direction: column; justify-content: center; text-decoration: none; line-height: 1.12;">
+    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
+    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 400; color: #333f48;">School of Computing</span>
+  </a>
   <a href="https://tech.utexas.edu/" target="_blank" rel="noopener noreferrer" aria-label="UT Austin Enterprise Technology" style="display: flex; flex-direction: column; justify-content: center; text-decoration: none; line-height: 1.12;">
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.52em; font-weight: 400; color: #bf5700;">The University of Texas at Austin</span>
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 0.95em; font-weight: 400; color: #333f48;">Enterprise Technology</span>
