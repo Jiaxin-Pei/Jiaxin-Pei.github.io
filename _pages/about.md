@@ -77,6 +77,7 @@ Zhemin Huang (Master's student at Stanford, now MTS at Microsoft AI)
 Michelle Liu (Master's student at Stanford, now SDE at Adobe)  
 Zhenyu Zhang (Master's student at Stanford, MTS at OpenAI)  
 Tim Chen (Master's student at Stanford, incoming SDE at Stripe)  
+Anshika Agarwal (Master's student at Stanford, now MSL at Meta)  
 
 
 <!-- * 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025! -->
