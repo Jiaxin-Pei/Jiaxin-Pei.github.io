@@ -273,6 +273,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 ## Confirmed speakers {#confirmed-speakers}
 
 - **[Xingyao Wang](https://xwang.dev/)** — Co-founder, [OpenHands](https://openhands.dev/)
+- **[Ujwal Chaudhari](https://www.linkedin.com/in/unujwal/)** — Lead Product Manager, AI Agents & Agentic Commerce, [Visa](https://www.visa.com/)
 - **Alex Shan** — Co-founder & CEO, [Judgement Labs](https://judgmentlabs.ai/)
 - **Yu Gu** — Co-founder, [NeoCognition](https://neocognition.io/)
 - **Sharon Lee** — Co-founder, [Moonlake AI](https://moonlakeai.com/)
@@ -485,6 +486,7 @@ By the end of this course, students will be able to:
 ### Week 4 (9/14–9/18) – Personal agents & the agentic web {#week-4}
 
 * Agents that operate on your behalf: browsing the web, managing email, booking travel, and filling forms. Key technical concepts are taught through this lens, including multi-step planning, error recovery, permission models, RAG for context retrieval, embeddings for memory, MCP as the "USB-C for AI," and multi-agent orchestration patterns.
+* Guest speaker: [Ujwal Chaudhari](https://www.linkedin.com/in/unujwal/) (Visa)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool">Anthropic, Computer Use Tool Documentation</a></li>
     <li><a href="https://www.anthropic.com/news/model-context-protocol">Anthropic, Introducing the Model Context Protocol</a></li>
