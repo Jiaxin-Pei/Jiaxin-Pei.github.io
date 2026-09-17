@@ -184,7 +184,7 @@ The University of Texas at Austin, Fall 2026
           <li><a class="course-page-toc-link" href="#week-6">Week 6: AI for vertical domains</a></li>
           <li><a class="course-page-toc-link" href="#week-7">Week 7: Evaluation, testing &amp; red-teaming</a></li>
           <li><a class="course-page-toc-link" href="#week-8">Week 8: Multi-modal applications &amp; world models</a></li>
-          <li><a class="course-page-toc-link" href="#week-9">Week 9: Voice AI and conversational interfaces</a></li>
+          <li><a class="course-page-toc-link" href="#week-9">Week 9: AI-native workforce</a></li>
           <li><a class="course-page-toc-link" href="#week-10">Week 10: Demo day &amp; beta test</a></li>
           <li><a class="course-page-toc-link" href="#week-11">Week 11: Generative engine optimization &amp; AI-native distribution</a></li>
           <li><a class="course-page-toc-link" href="#week-12">Week 12: Cost optimization and deployment</a></li>
@@ -536,18 +536,17 @@ By the end of this course, students will be able to:
     </ul></details>
 * **Homework:** Build application in teams
 
-### Week 9 (10/19–10/23) – Voice AI and conversational interfaces {#week-9}
+### Week 9 (10/19–10/23) – AI-native workforce {#week-9}
 
-* Voice agents, speech-to-text, text-to-speech, turn-taking, interruption handling, and latency-sensitive interaction design. We will study what makes voice products feel natural, where voice is better than chat, and how to build reliable spoken interfaces for real users.
+* How AI is reshaping jobs, skills, and organizations. We will cover redesigning roles around agents, measuring AI-native talent, human–AI collaboration, and what builders should know as their products enter real workplaces.
+* Guest speakers: [Kolento Hou](https://www.linkedin.com/in/kolentohou) and [Cai Chen](https://www.linkedin.com/in/cai-chen-cc) (Emergences Labs)
 * <details><summary>Readings</summary><ul>
-    <li><a href="https://elevenlabs.io/blog/introducing-elevenlabs-agents">ElevenLabs, Introducing ElevenLabs Agents</a></li>
-    <li><a href="https://elevenlabs.io/blog/everything-you-need-to-know-about-conversational-ai-agents">ElevenLabs, Everything You Need to Know About Conversational AI Agents</a></li>
-    <li><a href="https://elevenlabs.io/blog/testing-conversational-ai-agents">ElevenLabs, Test AI Agents: Monitor, Evaluate, and Improve</a></li>
-    <li><a href="https://elevenlabs.io/docs/eleven-agents/customization/voice/best-practices/conversational-voice-design">ElevenLabs Docs, Conversational Voice Design</a></li>
-    <li><a href="https://platform.openai.com/docs/guides/text-to-speech">OpenAI, Text-to-Speech Guide</a></li>
-    <li><a href="https://platform.openai.com/docs/guides/speech-to-text">OpenAI, Speech-to-Text Guide</a></li>
+    <li><a href="https://emergences.ai/">Emergences Labs</a></li>
+    <li><a href="https://www.anthropic.com/research/economic-index">Anthropic, Economic Index</a></li>
+    <li><a href="https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html">Deloitte, Rethinking Operating Models for Humans with Agents</a></li>
+    <li><a href="https://www.accenture.com/us-en/insights/consulting/rethinking-talent-strategy">Accenture, Rethinking Talent Strategy</a></li>
     </ul></details>
-* **Homework:** Build application in teams. Add or prototype a voice interaction for your product
+* **Homework:** Build application in teams. Map which tasks around your product are human-only, hybrid, or agent-only, and how that changes the user's work.
 
 ### Week 10 (10/26–10/30) – Demo day & beta test {#week-10}
 
