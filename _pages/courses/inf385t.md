@@ -181,12 +181,12 @@ The University of Texas at Austin, Fall 2026
           <li><a class="course-page-toc-link" href="#week-3">Week 3: Labor Day week</a></li>
           <li><a class="course-page-toc-link" href="#week-4">Week 4: Personal agents &amp; the agentic web</a></li>
           <li><a class="course-page-toc-link" href="#week-5">Week 5: Lightweight demo day</a></li>
-          <li><a class="course-page-toc-link" href="#week-6">Week 6: AI for vertical domains</a></li>
+          <li><a class="course-page-toc-link" href="#week-6">Week 6: AI-native distribution</a></li>
           <li><a class="course-page-toc-link" href="#week-7">Week 7: Evaluation, testing &amp; red-teaming</a></li>
           <li><a class="course-page-toc-link" href="#week-8">Week 8: Multi-modal applications &amp; world models</a></li>
           <li><a class="course-page-toc-link" href="#week-9">Week 9: AI-native workforce</a></li>
           <li><a class="course-page-toc-link" href="#week-10">Week 10: Demo day &amp; beta test</a></li>
-          <li><a class="course-page-toc-link" href="#week-11">Week 11: Generative engine optimization &amp; AI-native distribution</a></li>
+          <li><a class="course-page-toc-link" href="#week-11">Week 11: AI for vertical domains</a></li>
           <li><a class="course-page-toc-link" href="#week-12">Week 12: Cost optimization and deployment</a></li>
           <li><a class="course-page-toc-link" href="#week-13">Week 13: AI economics, moats, and go-to-market</a></li>
           <li><a class="course-page-toc-link" href="#week-14">Week 14: Thanksgiving break</a></li>
@@ -278,7 +278,10 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 - **Yu Gu** — Co-founder, [NeoCognition](https://neocognition.io/)
 - **Sharon Lee** — Co-founder, [Moonlake AI](https://moonlakeai.com/)
 - **Nishkarsh Srivastava** Founder & CEO, [HydraDB](https://hydradb.com)
-- **Kolento Hou** Co-founder & CEO, [Emergences Labs](https://emergences.ai)
+- **[Kolento Hou](https://www.linkedin.com/in/kolentohou)** — Co-founder & CEO, [Emergences Labs](https://emergences.ai)
+- **[Cai Chen](https://www.linkedin.com/in/cai-chen-cc)** — Co-founder & COO, [Emergences Labs](https://emergences.ai)
+- **[Stan Chang](https://www.linkedin.com/in/stanchang/)** — Head of Product, [Gumshoe AI](https://gumshoe.ai/)
+- **[Zach Meltzer](https://www.linkedin.com/in/zach-meltzer/)** — Founder & CEO, [VeryAI](https://very.org)
 
 
 ## Syllabus {#syllabus}
@@ -501,14 +504,15 @@ By the end of this course, students will be able to:
 
 * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
 
-### Week 6 (9/28–10/2) – AI for vertical domains: law, finance, healthcare {#week-6}
+### Week 6 (9/28–10/2) – AI-native distribution {#week-6}
 
-* How LLM applications win in specific industries. Deep dive into products such as Harvey, Abridge, and Ramp. We will examine domain expertise, enterprise sales, compliance, trust-building with professional users, and why the "wrapper" framing missed what makes vertical AI defensible.
+* How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
+* Guest speaker: [Stan Chang](https://www.linkedin.com/in/stanchang/) (Gumshoe AI)
 * <details><summary>Readings</summary><ul>
-    <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
-    <li><a href="https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/">TechCrunch, Inside Harvey</a></li>
-    <li><a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=67121">Harvard Business School, Harvey: AI for Lawyers (case study)</a></li>
-    <li><a href="https://sequoiacap.com/article/ai-retail-opportunity/">Sequoia, AI Retail Opportunity</a></li>
+    <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
+    <li><a href="https://arxiv.org/pdf/2311.09735">Princeton et al., GEO: Generative Engine Optimization</a></li>
+    <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
+    <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
     </ul></details>
 * **Homework:** Build application in teams
 
@@ -535,6 +539,7 @@ By the end of this course, students will be able to:
     <li><a href="https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch">ByteByteGo, What's Next in AI: Five Trends to Watch in 2026</a></li>
     </ul></details>
 * **Homework:** Build application in teams
+* **Networking:** Evening networking event on Oct 16.
 
 ### Week 9 (10/19–10/23) – AI-native workforce {#week-9}
 
@@ -552,14 +557,14 @@ By the end of this course, students will be able to:
 
 * Teams present their applications and run beta testing with real users.
 
-### Week 11 (11/2–11/6) – Generative engine optimization & AI-native distribution {#week-11}
+### Week 11 (11/2–11/6) – AI for vertical domains: law, finance, healthcare {#week-11}
 
-* How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
+* How LLM applications win in specific industries. Deep dive into products such as Harvey, Abridge, and Ramp. We will examine domain expertise, enterprise sales, compliance, trust-building with professional users, and why the "wrapper" framing missed what makes vertical AI defensible.
 * <details><summary>Readings</summary><ul>
-    <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
-    <li><a href="https://arxiv.org/pdf/2311.09735">Princeton et al., GEO: Generative Engine Optimization</a></li>
-    <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
-    <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
+    <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
+    <li><a href="https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/">TechCrunch, Inside Harvey</a></li>
+    <li><a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=67121">Harvard Business School, Harvey: AI for Lawyers (case study)</a></li>
+    <li><a href="https://sequoiacap.com/article/ai-retail-opportunity/">Sequoia, AI Retail Opportunity</a></li>
     </ul></details>
 * **Homework:** Iterate based on real user feedback
 
@@ -576,12 +581,14 @@ By the end of this course, students will be able to:
 ### Week 13 (11/16–11/20) – AI economics, moats, and go-to-market {#week-13}
 
 * What makes an LLM application defensible when models keep getting better and cheaper? We will cover data flywheels, workflow lock-in, vertical vs. horizontal strategy, pricing, and how to pitch to investors. Students will also draft a YC application for their project.
+* Guest speaker: [Zach Meltzer](https://www.linkedin.com/in/zach-meltzer/) ([VeryAI](https://very.org))
 * <details><summary>Readings</summary><ul>
     <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
     <li><a href="https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell">Lenny's Newsletter, The Rise of Cursor — Michael Truell</a></li>
     <li><a href="https://www.ycombinator.com/howtoapply">Y Combinator, How to Apply to YC</a></li>
     </ul></details>
 * **Homework:** Iterate based on real user feedback. Draft a YC application for your project
+* **Networking:** Evening networking event on Nov 16.
 
 ### Week 14 (11/23–11/27) – Thanksgiving break {#week-14}
 

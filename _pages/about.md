@@ -59,12 +59,13 @@ My research focuses on Large Language Models, Human-AI Collaboration and AI Agen
 
 ### Masters and Undergraduate
 Andy Dai (Undergrad at Stanford)  
-David Anugraha (Master's student at Stanford)
+David Anugraha (Master's student at Stanford)  
 Haoqian Zhang (Undergrad at UToronto)  
 [Hannah Guan](https://hannahguan.github.io) (Master's student at Stanford)  
 [Xiangning Lin](https://xiangninglin.github.io) (Research intern at Stanford HAI)  
-[Yuxin Chen](https://richsomeday222.github.io/PersonalWeb/) (Master's student at UT-Austin)
-Xu Yang (Master's student at UT-Austin)
+[Yuxin Chen](https://richsomeday222.github.io/PersonalWeb/) (Master's student at UT-Austin)  
+Xu Yang (Master's student at UT-Austin)  
+Zehan Li (Master's student at UChicago)
 
 
 
@@ -76,8 +77,8 @@ Huaman Sun (Master's student at UMich, now PhD at Northwestern)
 Zhemin Huang (Master's student at Stanford, now MTS at Microsoft AI)  
 Michelle Liu (Master's student at Stanford, now SDE at Adobe)  
 Zhenyu Zhang (Master's student at Stanford, MTS at OpenAI)  
-Tim Chen (Master's student at Stanford, incoming SDE at Stripe)  
-Anshika Agarwal (Master's student at Stanford, now MSL at Meta)  
+Tim Chen (Master's student at Stanford, now SDE at Stripe)  
+Anshika Agarwal (Master's student at Stanford, now at Meta MSL)  
 
 
 <!-- * 2 papers accepted to NAACL and 2 papers accepted to CHI! A great start to 2025! -->
