@@ -44,7 +44,7 @@ redirect_from:
 * **How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**  
   *Longju Bai, Zhemin Huang, Xingyao Wang, Jiao Sun, Rada Mihalcea, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2604.22750) • [[Project Page]](https://longjubai.github.io/agent_token_consumption/)  
-  Media: [Fast Company](https://www.fastcompany.com/91572876/the-ai-economy-runs-on-this-incredibly-vague-unit) | [Mckinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model#/) | 
+  Media: [Fast Company](https://www.fastcompany.com/91572876/the-ai-economy-runs-on-this-incredibly-vague-unit) | [Mckinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model#/) | [Financial Times](https://ig.ft.com/ai-tokens/?accessToken=zwAAAaD2RgF7kc8jmwPtJzdNudOxLaAd9rZ2wQ.MEYCIQC-ZdVD-VVohnvB-TG5LBZHkrDDkOgK68dXBdNNhMT5YAIhAJYK7OMibZyEV_cPmte5KO0rf6yk9xNdv9-DVm7vvkOC&sharetype=gift&syn-25a6b1a6=1&token=32e5bd39-bd06-404f-981e-2adc8458c6f5) 
 
 * **Multi-User Large Language Model Agents**  
   *Shu Yang, Shenzhe Zhu, Hao Zhu, José Ramón Enríquez, Di Wang, Alex Pentland, Michiel A. Bakker, **Jiaxin Pei***  
