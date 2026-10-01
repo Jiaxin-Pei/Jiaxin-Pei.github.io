@@ -91,6 +91,11 @@ redirect_from:
 
 ## 2026
 
+* **The Last Human-Written Paper: Agent-Native Research Artifacts**  
+  *Jiachen Liu, **Jiaxin Pei**, Jintao Huang, Chenglei Si, Ao Qu, Xiangru Tang, Runyu Lu, Lichang Chen, Xiaoyan Bai, Haizhong Zheng, Carl Chen, Zhiyang Chen, Haojie Ye, Yujuan Fu, Zexue He, Zijian Jin, Zhenyu Zhang, Shangquan Sun, Maestro Harmon, John Dianzhuo Wang, Jianqiao Zeng, Jiachen Sun, Mingyuan Wu, Baoyu Zhou, Chenyu You, Shijian Lu, Yiming Qiu, Fan Lai, Yuan Yuan, Yao Li, Junyuan Hong, Ruihao Zhu, Beidi Chen, Alex Pentland, Ang Chen, Mosharaf Chowdhury, Zechen Zhang*  
+  NeurIPS 2026  
+  [[Paper]](https://arxiv.org/abs/2604.24658) • [[Code]](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact)
+
 * **70 Million Canvas Grading Records Reveal Widespread Sequential Bias and System-Induced Surname Initial Disparity**  
   *Zhihan (Helen) Wang, **Jiaxin Pei**, Jun Li*  
   Management Science (forthcoming)  
