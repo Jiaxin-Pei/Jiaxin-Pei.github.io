@@ -21,7 +21,7 @@ In Fall 2026, partnering with OpenAI, I will be teaching **[Building Large Langu
 ## Research Interests
 My research focuses on Large Language Models, Human-AI Collaboration and AI Agents. Currently, I am working on the following directions:
 
-**1. Economics of AI Agents**
+**1. Economics of AI Agents / Agentic Economy**
 - [Budget-aware AI Agents](https://ragen-ai.github.io/bagen/bagen.pdf)
 - [Agent Token Consumption](https://arxiv.org/abs/2604.22750)
 - [Agent-to-Agent Negotiation](https://arxiv.org/abs/2506.00073)
