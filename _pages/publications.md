@@ -32,6 +32,14 @@ redirect_from:
   *Xiangning Lin, Shenzhe Zhu, Shu Yang, Zhenyu Zhang, Haoqian Zhang, Yipeng Zhao, Chengxuan Qian, Tianwei Wang, Ziheng Zhang, Zhenlong Yuan, Dingcheng Wang, Juncheng Wu, Yuan Si, Jiaxin Liu, Baolong Bi, Robert Mahari, Tobin South, Dazza Greenwood, Zexue He, Rishi Bommasani, Sophia Kazinnik, Andreas Haupt, Samuele Marro, Erik Brynjolfsson, Alex Pentland, **Jiaxin Pei***  
   [[Paper]](https://arxiv.org/abs/2607.28617) • [[Website]](https://systempromptindex.ai/aispa) • [[Code]](https://github.com/SystemPromptIndex/SystemPromptIndex)
 
+* **Realtime-Bench: Can Frontier Models Solve Real-time Interactive Problems?**  
+  *Jingyu Tang, Xu Yang, Zhehao Zhang, Zheng Wang, Qi Cheng, Haozhe Zhao, Manling Li, Wenxuan Li, Xide Xia, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2610.22155) • [[Website]](https://realtimeagents.org/) • [[Code]](https://github.com/RealtimeAgents/Realtime-Bench)
+
+* **Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use**  
+  *Yijiang River Dong, Zexue He, Cheng Yu, Tiancheng Hu, Michael J Ryan, Jan Batzner, Zheng Hui, Shaolong Wu, Orestis Papakyriakopoulos, Alex Pentland, Nigel Collier, **Jiaxin Pei***  
+  [[Paper]](https://arxiv.org/abs/2610.31272)
+
 * **AI Agents Are Not Ready to be Agents: Loyalty, Trust, and Accountability Issues in AI Delegation**  
   *Inyoung Cheong, Wenyue Hua, Robert Mahari, Tobin South, Zexue He, Alex Pentland, **Jiaxin Pei***  
   [[Working Paper]](/files/AI_Agents_are_not_ready.pdf)
@@ -116,7 +124,7 @@ redirect_from:
 * **Position: AI Should Facilitate Democratic Deliberation at Scale**  
   *José Ramón Enríquez, **Jiaxin Pei**, Alex Pentland*  
   ICML 2026 (Position Paper, spotlight)  
-  forthcoming
+  [[Paper]](https://arxiv.org/abs/2609.20059)
 
 * **Position: Stop Automating Peer Review Without Rigorous Evaluation**  
   *Joachim Baumann, **Jiaxin Pei**, Sanmi Koyejo, Dirk Hovy*  
