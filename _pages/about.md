@@ -15,7 +15,8 @@ I am currently an Assistant Professor in Information Science at [UT-Austin's Sch
 
 My research focuses on AI Agents and Human-AI Collaboration. My research has been covered by global media like The New York Times, MIT Technology Review, Forbes, and The Wall Street Journal. If you are interested in working with me, please check out [this page](https://jiaxin-pei.github.io/working-with-me/).
 
-In Fall 2026, partnering with OpenAI, I will be teaching **[Building Large Language Model Applications](/courses/inf385t/)**, a first-of-its-kind course designed to **help students build "YC-ready" AI applications in 15 weeks** within a curated, hands-on classroom environment. If you are an investor, founder, or industry partner interested in collaborating or sponsoring, I would love to connect — please [reach out](mailto:jiaxinpei@utexas.edu)!
+In Fall 2026, partnering with OpenAI, I am teaching **[Building Large Language Model Applications](/courses/inf385t/)**, a first-of-its-kind course designed to **help students build "YC-ready" AI applications in 15 weeks** within a curated, hands-on classroom environment. If you are an investor, founder, or industry partner interested in collaborating or sponsoring, I would love to connect — please [reach out](mailto:jiaxinpei@utexas.edu)!
+(Unfortunately we are not offering this class in the Spring semester.)
 
 ## News
 * Interviewed with NPR and shared our latest research on AI Agents! 
