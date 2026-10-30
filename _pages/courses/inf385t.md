@@ -464,20 +464,28 @@ By the end of this course, students will be able to:
     <li><a href="https://sequoiacap.com/article/ai-in-2025/">Sequoia, AI in 2025</a></li>
     <li><a href="https://www.nfx.com/post/generative-ai-tech-market-map">NFX, Generative AI Tech Market Map</a></li>
     </ul></details>
-* **Homework:** Combine HW1 and HW2 into a single PDF and submit one file.
-  * **HW1 (50 points):** Go through the [Y Combinator Startup Directory](https://www.ycombinator.com/companies) and check startups from 2026. Earlier years are fine, but newer companies are strongly recommended.
-    * Check at least 10 startups' websites. You should check more.
-    * Select the most interesting one, use their product (talk to their founder if possible), and write a one-pager about it.
-    * In your one-pager, include the 10 companies' names and websites. Discuss why that specific company is interesting to you (technology, business, and product), and write about your thoughts after exploring their product and talking to them.
-    * Do not ask ChatGPT to find 10 companies from the YC startup directory, and do not ask it to write the one-pager. You may use AI to brainstorm and to help you dig into the company.
-  * **HW2 (50 points):** Write about one AI application or product you would like to build.
-    * What is the burning question?
-    * Who will be the potential customers?
-    * How big can it become if you do everything right?
-    * Who is working on relevant things, and why is your idea different?
-    * Talk to a potential customer or user and ask for their feedback.
-    * How much will they be willing to pay?
-    * What do they actually need?
+* <details><summary>Homework</summary><ul>
+    <li>Combine HW1 and HW2 into a single PDF and submit one file.</li>
+    <li><strong>HW1 (50 points):</strong> Go through the <a href="https://www.ycombinator.com/companies">Y Combinator Startup Directory</a> and check startups from 2026. Earlier years are fine, but newer companies are strongly recommended.
+      <ul>
+        <li>Check at least 10 startups' websites. You should check more.</li>
+        <li>Select the most interesting one, use their product (talk to their founder if possible), and write a one-pager about it.</li>
+        <li>In your one-pager, include the 10 companies' names and websites. Discuss why that specific company is interesting to you (technology, business, and product), and write about your thoughts after exploring their product and talking to them.</li>
+        <li>Do not ask ChatGPT to find 10 companies from the YC startup directory, and do not ask it to write the one-pager. You may use AI to brainstorm and to help you dig into the company.</li>
+      </ul>
+    </li>
+    <li><strong>HW2 (50 points):</strong> Write about one AI application or product you would like to build.
+      <ul>
+        <li>What is the burning question?</li>
+        <li>Who will be the potential customers?</li>
+        <li>How big can it become if you do everything right?</li>
+        <li>Who is working on relevant things, and why is your idea different?</li>
+        <li>Talk to a potential customer or user and ask for their feedback.</li>
+        <li>How much will they be willing to pay?</li>
+        <li>What do they actually need?</li>
+      </ul>
+    </li>
+    </ul></details>
 * **Launch Party:** We had an amazing launch party on Aug 24. Thanks [Antler](https://www.antler.co/) VC for hosting!
 
 ### Week 2 (8/31–9/4) – Coding agents {#week-2}
@@ -492,24 +500,37 @@ By the end of this course, students will be able to:
     <li><a href="https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell">Lenny's Newsletter, The Rise of Cursor — Michael Truell</a></li>
     <li><a href="https://fortune.com/2026/03/21/cursor-ceo-michael-truell-ai-coding-claude-anthropic-venture-capital/">Fortune, Cursor's Crossroads</a></li>
     </ul></details>
-* **Homework:** Refine your existing idea, or move to a different one. Due **Sep 5, 11:59 p.m.**
-  * Survey another 10 relevant companies (not only YC companies).
-  * Survey competitor companies.
-  * Talk to your potential customers.
-  * Create a pitch deck for your product (12–13 slides).
-  * Resources on how to create a good pitch deck:
-    * [Y Combinator, How to Design a Better Pitch Deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck)
-    * [Y Combinator, How to Build Your Seed Round Pitch Deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck)
+* <details><summary>Homework</summary><ul>
+    <li>Refine your existing idea, or move to a different one. Due <strong>Sep 5, 11:59 p.m.</strong>
+      <ul>
+        <li>Survey another 10 relevant companies (not only YC companies).</li>
+        <li>Survey competitor companies.</li>
+        <li>Talk to your potential customers.</li>
+        <li>Create a pitch deck for your product (12–13 slides).</li>
+        <li>Resources on how to create a good pitch deck:
+          <ul>
+            <li><a href="https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck">Y Combinator, How to Design a Better Pitch Deck</a></li>
+            <li><a href="https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck">Y Combinator, How to Build Your Seed Round Pitch Deck</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    </ul></details>
 
 ### Week 3 (9/7–9/11) – Labor Day week {#week-3}
 
 * Labor Day 9/7; no class.
-* **Homework:** A working prototype for your product. Due **Sep 12, 11:59 p.m.**
-  * Submit one PDF. Put a link to your demo at the beginning of the PDF.
-  * The demo must be hosted at a publicly accessible link. If you need web hosting, AWS provides a free-tier server.
-  * Refine your pitch deck based on the latest demo, and create a teaser for your product (5 slides). See [Investopedia, Teaser](https://www.investopedia.com/terms/t/teaser.asp).
-  * Finish the two required coffee chats. Include two group photos at the end of your pitch deck.
-  * Combine the teaser and the updated pitch deck into a single PDF, with the teaser first and the full pitch after it.
+* <details><summary>Homework</summary><ul>
+    <li>A working prototype for your product. Due <strong>Sep 12, 11:59 p.m.</strong>
+      <ul>
+        <li>Submit one PDF. Put a link to your demo at the beginning of the PDF.</li>
+        <li>The demo must be hosted at a publicly accessible link. If you need web hosting, AWS provides a free-tier server.</li>
+        <li>Refine your pitch deck based on the latest demo, and create a teaser for your product (5 slides). See <a href="https://www.investopedia.com/terms/t/teaser.asp">Investopedia, Teaser</a>.</li>
+        <li>Finish the two required coffee chats. Include two group photos at the end of your pitch deck.</li>
+        <li>Combine the teaser and the updated pitch deck into a single PDF, with the teaser first and the full pitch after it.</li>
+      </ul>
+    </li>
+    </ul></details>
 
 ### Week 4 (9/14–9/18) – Personal agents & the agentic web {#week-4}
 
@@ -523,12 +544,16 @@ By the end of this course, students will be able to:
     <li><a href="https://lilianweng.github.io/posts/2023-06-23-agent/">Lilian Weng, LLM Powered Autonomous Agents</a></li>
     <li><a href="https://langchain-ai.github.io/langgraph/tutorials/workflows/">LangChain, Workflows and Agents</a></li>
     </ul></details>
-* **Homework:** Refine the pitch deck and demo for the lightweight demo day. Upload your pitch deck to Canvas. This deck will be used for the lightweight demo day presentation.
+* <details><summary>Homework</summary><ul>
+    <li>Refine the pitch deck and demo for the lightweight demo day. Upload your pitch deck to Canvas. This deck will be used for the lightweight demo day presentation.</li>
+    </ul></details>
 
 ### Week 5 (9/21–9/25) – Lightweight demo day {#week-5}
 
 * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
-* **Homework:** If you do not need to pivot, write a short reflection on your progress so far, or on anything else worth mentioning. If you need more customer validation or a pivot, revise your idea and decide what to do next. Feel free to message the instructor on WhatsApp if you want to talk.
+* <details><summary>Homework</summary><ul>
+    <li>If you do not need to pivot, write a short reflection on your progress so far, or on anything else worth mentioning. If you need more customer validation or a pivot, revise your idea and decide what to do next. Feel free to message the instructor on WhatsApp if you want to talk.</li>
+    </ul></details>
 
 ### Week 6 (9/28–10/2) – AI-native distribution {#week-6}
 
@@ -540,43 +565,64 @@ By the end of this course, students will be able to:
     <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
     <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
     </ul></details>
-* **Homework:** Play [PartnerSim](https://www.vcarena.com/games/partnersim). Submit a one-pager by **Oct 3, 11:59 p.m.**
-  * What you need to achieve by Week 10
-  * Progress on the product
-  * Progress on customers
+* <details><summary>Homework</summary><ul>
+    <li>Play <a href="https://www.vcarena.com/games/partnersim">PartnerSim</a>. Submit a one-pager by <strong>Oct 3, 11:59 p.m.</strong>
+      <ul>
+        <li>What you need to achieve by Week 10</li>
+        <li>Progress on the product</li>
+        <li>Progress on customers</li>
+      </ul>
+    </li>
+    </ul></details>
 
 ### Week 7 (10/5–10/9) – Timing, demand, and product {#week-7}
 
 * Why this product, why now, and who it is for. We discuss timing (why the product is possible and needed now), demand (who the customer is and how strong the need is), and the product itself (what you ship and why it is different).
-* **Homework:** Play [PartnerSim](https://www.vcarena.com/games/partnersim). Submit a one-pager by **Oct 10, 11:59 p.m.**
-  * What you need to achieve by Week 10
-  * Progress on the product
-  * Progress on customers
-  * Reflections based on feedback from peer groups
+* <details><summary>Homework</summary><ul>
+    <li>Play <a href="https://www.vcarena.com/games/partnersim">PartnerSim</a>. Submit a one-pager by <strong>Oct 10, 11:59 p.m.</strong>
+      <ul>
+        <li>What you need to achieve by Week 10</li>
+        <li>Progress on the product</li>
+        <li>Progress on customers</li>
+        <li>Reflections based on feedback from peer groups</li>
+      </ul>
+    </li>
+    </ul></details>
 
 ### Week 8 (10/12–10/16) – Personalized group advising {#week-8}
 
 * Personalized advising with each project group. Teams meet with the instructor to review progress, pressure-test the idea, and decide what to do next.
-* **Homework:** Build application in teams
+* <details><summary>Homework</summary><ul>
+    <li>Build application in teams</li>
+    </ul></details>
 
 ### Week 9 (10/19–10/23) – Personalized group advising {#week-9}
 
 * A second round of personalized advising with each project group, focused on what still needs to change before the internal demo day.
-* **Homework:** Play [PartnerSim](https://www.vcarena.com/games/partnersim). Submit a one-pager by **Oct 24, 11:59 p.m.**
-  * What you need to achieve by Week 10
-  * Progress on the product
-  * Progress on customers
-  * Reflections based on feedback from peer groups
+* <details><summary>Homework</summary><ul>
+    <li>Play <a href="https://www.vcarena.com/games/partnersim">PartnerSim</a>. Submit a one-pager by <strong>Oct 24, 11:59 p.m.</strong>
+      <ul>
+        <li>What you need to achieve by Week 10</li>
+        <li>Progress on the product</li>
+        <li>Progress on customers</li>
+        <li>Reflections based on feedback from peer groups</li>
+      </ul>
+    </li>
+    </ul></details>
 
 ### Week 10 (10/26–10/30) – Preparing for the internal demo day {#week-10}
 
 * How to get ready for the internal demo day: what to show, how to tell the story, and what still has to be true about the product and the customer.
-* **Homework (deck for Demo Day II):** Upload your presentation for Demo Day II next Monday.
+* <details><summary>Homework</summary><ul>
+    <li><strong>Deck for Demo Day II:</strong> Upload your presentation for Demo Day II next Monday.</li>
+    </ul></details>
 
 ### Week 11 (11/2–11/6) – Internal Demo Day {#week-11}
 
 * Teams present their applications and run beta testing with real users.
-* **Homework:** Iterate based on real user feedback
+* <details><summary>Homework</summary><ul>
+    <li>Iterate based on real user feedback</li>
+    </ul></details>
 
 ### Week 12 (11/9–11/13) – Cost optimization and deployment {#week-12}
 
@@ -586,7 +632,9 @@ By the end of this course, students will be able to:
     <li><a href="https://redis.io/blog/large-language-model-operations-guide/">Redis, LLMOps Guide: Build Fast, Cost-Effective LLM Apps</a></li>
     <li><a href="https://blog.gopenai.com/optimizing-large-language-model-infrastructure-a-practitioners-guide-to-latency-cost-and-46f9002152bc">GoPenAI, Optimizing LLM Infrastructure: Latency, Cost, and Quality Trade-offs</a></li>
     </ul></details>
-* **Homework:** Iterate based on real user feedback
+* <details><summary>Homework</summary><ul>
+    <li>Iterate based on real user feedback</li>
+    </ul></details>
 
 ### Week 13 (11/16–11/20) – AI economics, moats, and go-to-market {#week-13}
 
@@ -597,7 +645,9 @@ By the end of this course, students will be able to:
     <li><a href="https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell">Lenny's Newsletter, The Rise of Cursor — Michael Truell</a></li>
     <li><a href="https://www.ycombinator.com/howtoapply">Y Combinator, How to Apply to YC</a></li>
     </ul></details>
-* **Homework:** Iterate based on real user feedback. Draft a YC application for your project
+* <details><summary>Homework</summary><ul>
+    <li>Iterate based on real user feedback. Draft a YC application for your project.</li>
+    </ul></details>
 * **Networking:** Evening networking event on Nov 16.
 
 ### Week 14 (11/23–11/27) – Thanksgiving break {#week-14}
@@ -607,7 +657,9 @@ By the end of this course, students will be able to:
 ### Week 15 (11/30–12/4) – Final guest lecture & pitch practice {#week-15}
 
 * Final guest lecture from a researcher or founder on what is next, followed by in-class pitch practice and feedback.
-* **Homework:** Final iteration. Polish demo day presentation
+* <details><summary>Homework</summary><ul>
+    <li>Final iteration. Polish demo day presentation</li>
+    </ul></details>
 
 ### Week 16 (12/7) – Public demo day {#week-16}
 
