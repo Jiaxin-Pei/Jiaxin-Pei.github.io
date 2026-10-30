@@ -182,11 +182,11 @@ The University of Texas at Austin, Fall 2026
           <li><a class="course-page-toc-link" href="#week-4">Week 4: Personal agents &amp; the agentic web</a></li>
           <li><a class="course-page-toc-link" href="#week-5">Week 5: Lightweight demo day</a></li>
           <li><a class="course-page-toc-link" href="#week-6">Week 6: AI-native distribution</a></li>
-          <li><a class="course-page-toc-link" href="#week-7">Week 7: Evaluation, testing &amp; red-teaming</a></li>
-          <li><a class="course-page-toc-link" href="#week-8">Week 8: Multi-modal applications &amp; world models</a></li>
-          <li><a class="course-page-toc-link" href="#week-9">Week 9: AI-native workforce</a></li>
-          <li><a class="course-page-toc-link" href="#week-10">Week 10: Demo day &amp; beta test</a></li>
-          <li><a class="course-page-toc-link" href="#week-11">Week 11: AI for vertical domains</a></li>
+          <li><a class="course-page-toc-link" href="#week-7">Week 7: Timing, demand, and product</a></li>
+          <li><a class="course-page-toc-link" href="#week-8">Week 8: Personalized group advising</a></li>
+          <li><a class="course-page-toc-link" href="#week-9">Week 9: Personalized group advising</a></li>
+          <li><a class="course-page-toc-link" href="#week-10">Week 10: Preparing for the internal demo day</a></li>
+          <li><a class="course-page-toc-link" href="#week-11">Week 11: Internal Demo Day</a></li>
           <li><a class="course-page-toc-link" href="#week-12">Week 12: Cost optimization and deployment</a></li>
           <li><a class="course-page-toc-link" href="#week-13">Week 13: AI economics, moats, and go-to-market</a></li>
           <li><a class="course-page-toc-link" href="#week-14">Week 14: Thanksgiving break</a></li>
@@ -281,6 +281,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 - **[Kolento Hou](https://www.linkedin.com/in/kolentohou)** — Co-founder & CEO, [Emergences Labs](https://emergences.ai)
 - **[Cai Chen](https://www.linkedin.com/in/cai-chen-cc)** — Co-founder & COO, [Emergences Labs](https://emergences.ai)
 - **[Stan Chang](https://www.linkedin.com/in/stanchang/)** — Head of Product, [Gumshoe AI](https://gumshoe.ai/)
+- **[Matthew Hartman](https://www.linkedin.com/in/matthewforresthartman/)** — Founder & Managing Partner, [Factorial Capital](https://factorial.cc/)
 - **[Zach Meltzer](https://www.linkedin.com/in/zach-meltzer/)** — Founder & CEO, [VeryAI](https://very.org)
 
 
@@ -297,9 +298,9 @@ Students should be comfortable with using coding agents to build things. You don
 
 ### Course overview and objectives {#course-overview-and-objectives}
 
-This course is organized around one central activity: building an AI product that real people can use. In the first part of the semester, students study the current AI application landscape, use coding agents to move quickly, and build three individual demos. After a lightweight demo day, students form teams around the strongest ideas and spend the rest of the course turning one prototype into a more serious product.
+This course is organized around one central activity: building an AI product that real people can use. In the first part of the semester, students study the current AI application landscape, talk with potential users, and turn an idea into a prototype and pitch. After a lightweight demo day, students form teams around the strongest ideas and spend the rest of the course turning one prototype into a more serious product.
 
-Each week centers on three activities: a guest lecture from a venture capitalist or startup founder, an in-class exploration of AI products, and dedicated time to build. As students develop their projects, we will cover coding and personal agents, vertical AI, evaluation and red-teaming, multimodal and voice interfaces, AI-native distribution, deployment costs, defensibility, and go-to-market strategy. Students will test their products with real-world users, and at the end of the semester, we will hold a public demo day where teams can pitch directly to investors.
+Class time mixes guest lectures from venture capitalists and startup founders, in-class work on the product, and advising. As students develop their projects, we cover coding and personal agents, AI-native distribution, timing, demand, and product, then personalized group advising and preparation for the internal demo day. Later in the semester we cover deployment costs, defensibility, and go-to-market strategy. Students will test their products with real-world users, and at the end of the semester, we will hold a public demo day where teams can pitch directly to investors.
 
 By the end of this course, students will be able to:
 
@@ -414,7 +415,7 @@ By the end of this course, students will be able to:
     <div class="phase-icon">🧱</div>
     <div class="phase-title">Ideate &amp; Build</div>
     <div class="phase-weeks">Weeks 2–4</div>
-    <div class="phase-desc">Coding agents, personal agents, 3 demos</div>
+    <div class="phase-desc">Coding agents, pitch deck, prototype</div>
   </div>
   <div class="phase phase-demo1">
     <div class="phase-icon">🎤</div>
@@ -425,19 +426,19 @@ By the end of this course, students will be able to:
   <div class="phase phase-build">
     <div class="phase-icon">🔨</div>
     <div class="phase-title">Team Build</div>
-    <div class="phase-weeks">Weeks 6–9</div>
-    <div class="phase-desc">Vertical AI, evals, GEO, safety</div>
+    <div class="phase-weeks">Weeks 6–10</div>
+    <div class="phase-desc">Distribution, timing and demand, advising, demo prep</div>
   </div>
   <div class="phase phase-beta">
     <div class="phase-icon">🧪</div>
-    <div class="phase-title">Beta Test</div>
-    <div class="phase-weeks">Week 10</div>
+    <div class="phase-title">Internal Demo Day</div>
+    <div class="phase-weeks">Week 11</div>
     <div class="phase-desc">Demo &amp; real user testing</div>
   </div>
   <div class="phase phase-iterate">
     <div class="phase-icon">🔄</div>
     <div class="phase-title">Iterate &amp; Ship</div>
-    <div class="phase-weeks">Weeks 11–15</div>
+    <div class="phase-weeks">Weeks 12–15</div>
     <div class="phase-desc">Multi-modal, costs, moats, pitch practice</div>
   </div>
   <div class="phase phase-launch">
@@ -463,8 +464,20 @@ By the end of this course, students will be able to:
     <li><a href="https://sequoiacap.com/article/ai-in-2025/">Sequoia, AI in 2025</a></li>
     <li><a href="https://www.nfx.com/post/generative-ai-tech-market-map">NFX, Generative AI Tech Market Map</a></li>
     </ul></details>
-* **Homework 1:** One one-pager: an AI product you tried.
-* **Homework 2:** 1–3 pages on AI applications you want to build.
+* **Homework:** Combine HW1 and HW2 into a single PDF and submit one file.
+  * **HW1 (50 points):** Go through the [Y Combinator Startup Directory](https://www.ycombinator.com/companies) and check startups from 2026. Earlier years are fine, but newer companies are strongly recommended.
+    * Check at least 10 startups' websites. You should check more.
+    * Select the most interesting one, use their product (talk to their founder if possible), and write a one-pager about it.
+    * In your one-pager, include the 10 companies' names and websites. Discuss why that specific company is interesting to you (technology, business, and product), and write about your thoughts after exploring their product and talking to them.
+    * Do not ask ChatGPT to find 10 companies from the YC startup directory, and do not ask it to write the one-pager. You may use AI to brainstorm and to help you dig into the company.
+  * **HW2 (50 points):** Write about one AI application or product you would like to build.
+    * What is the burning question?
+    * Who will be the potential customers?
+    * How big can it become if you do everything right?
+    * Who is working on relevant things, and why is your idea different?
+    * Talk to a potential customer or user and ask for their feedback.
+    * How much will they be willing to pay?
+    * What do they actually need?
 * **Launch Party:** We had an amazing launch party on Aug 24. Thanks [Antler](https://www.antler.co/) VC for hosting!
 
 ### Week 2 (8/31–9/4) – Coding agents {#week-2}
@@ -479,12 +492,24 @@ By the end of this course, students will be able to:
     <li><a href="https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell">Lenny's Newsletter, The Rise of Cursor — Michael Truell</a></li>
     <li><a href="https://fortune.com/2026/03/21/cursor-ceo-michael-truell-ai-coding-claude-anthropic-venture-capital/">Fortune, Cursor's Crossroads</a></li>
     </ul></details>
-* **Homework:** Use a coding agent to build the **first** demo of the LLM application you want to build
+* **Homework:** Refine your existing idea, or move to a different one. Due **Sep 5, 11:59 p.m.**
+  * Survey another 10 relevant companies (not only YC companies).
+  * Survey competitor companies.
+  * Talk to your potential customers.
+  * Create a pitch deck for your product (12–13 slides).
+  * Resources on how to create a good pitch deck:
+    * [Y Combinator, How to Design a Better Pitch Deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck)
+    * [Y Combinator, How to Build Your Seed Round Pitch Deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck)
 
 ### Week 3 (9/7–9/11) – Labor Day week {#week-3}
 
 * Labor Day 9/7; no class.
-* **Homework:** Use a coding agent to build the **second** demo of the LLM application you want to build
+* **Homework:** A working prototype for your product. Due **Sep 12, 11:59 p.m.**
+  * Submit one PDF. Put a link to your demo at the beginning of the PDF.
+  * The demo must be hosted at a publicly accessible link. If you need web hosting, AWS provides a free-tier server.
+  * Refine your pitch deck based on the latest demo, and create a teaser for your product (5 slides). See [Investopedia, Teaser](https://www.investopedia.com/terms/t/teaser.asp).
+  * Finish the two required coffee chats. Include two group photos at the end of your pitch deck.
+  * Combine the teaser and the updated pitch deck into a single PDF, with the teaser first and the full pitch after it.
 
 ### Week 4 (9/14–9/18) – Personal agents & the agentic web {#week-4}
 
@@ -498,74 +523,60 @@ By the end of this course, students will be able to:
     <li><a href="https://lilianweng.github.io/posts/2023-06-23-agent/">Lilian Weng, LLM Powered Autonomous Agents</a></li>
     <li><a href="https://langchain-ai.github.io/langgraph/tutorials/workflows/">LangChain, Workflows and Agents</a></li>
     </ul></details>
-* **Homework:** Use a coding agent to build the **third** demo of the LLM application you want to build
+* **Homework:** Refine the pitch deck and demo for the lightweight demo day. Upload your pitch deck to Canvas. This deck will be used for the lightweight demo day presentation.
 
 ### Week 5 (9/21–9/25) – Lightweight demo day {#week-5}
 
 * Students present their demos, review products others built, vote on the most promising ideas, and form teams for the class project.
+* **Homework:** If you do not need to pivot, write a short reflection on your progress so far, or on anything else worth mentioning. If you need more customer validation or a pivot, revise your idea and decide what to do next. Feel free to message the instructor on WhatsApp if you want to talk.
 
 ### Week 6 (9/28–10/2) – AI-native distribution {#week-6}
 
 * How users discover products when AI mediates information. GEO, optimizing to get cited by ChatGPT, Perplexity, and Google AI Overviews, is increasingly replacing classic SEO. We will cover reference rates, click-through behavior, and practical tactics for AI-native go-to-market.
-* Guest speaker: [Stan Chang](https://www.linkedin.com/in/stanchang/) (Gumshoe AI)
+* Fireside chat: [Stan Chang](https://www.linkedin.com/in/stanchang/) (Gumshoe AI)
 * <details><summary>Readings</summary><ul>
     <li><a href="https://a16z.com/geo-over-seo/">a16z, GEO over SEO</a></li>
     <li><a href="https://arxiv.org/pdf/2311.09735">Princeton et al., GEO: Generative Engine Optimization</a></li>
     <li><a href="https://searchengineland.com/what-is-generative-engine-optimization-geo-444418">Search Engine Land, Generative Engine Optimization: How to Win AI Mentions</a></li>
     <li><a href="https://www.frase.io/blog/what-is-generative-engine-optimization-geo">Frase.io, What is GEO? 2026 Guide</a></li>
     </ul></details>
-* **Homework:** Build application in teams
+* **Homework:** Play [PartnerSim](https://www.vcarena.com/games/partnersim). Submit a one-pager by **Oct 3, 11:59 p.m.**
+  * What you need to achieve by Week 10
+  * Progress on the product
+  * Progress on customers
 
-### Week 7 (10/5–10/9) – Evaluation, testing & red-teaming {#week-7}
+### Week 7 (10/5–10/9) – Timing, demand, and product {#week-7}
 
-* Automated evals, human evals, LLM-as-judge, and regression testing, reframed for the agentic era: evaluating multi-step autonomous systems rather than only single-turn chatbots. We will also cover prompt injection via observed content, tool misuse, and cascading failures in multi-agent systems.
-* <details><summary>Readings</summary><ul>
-    <li><a href="https://hamel.dev/blog/posts/evals/index.html">Hamel Husain, Your AI Product Needs Evals</a></li>
-    <li><a href="https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents">Anthropic, Demystifying Evals for AI Agents</a></li>
-    <li><a href="https://evidentlyai.com/llm-guide/llm-as-a-judge">Evidently AI, LLM-as-a-Judge: A Complete Guide</a></li>
-    <li><a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">Simon Willison, The Lethal Trifecta for AI Agents</a></li>
-    <li><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/">OWASP, Top 10 for LLM Applications 2025</a></li>
-    </ul></details>
-* **Homework:** Build application in teams. Set up evals for your project
+* Why this product, why now, and who it is for. We discuss timing (why the product is possible and needed now), demand (who the customer is and how strong the need is), and the product itself (what you ship and why it is different).
+* **Homework:** Play [PartnerSim](https://www.vcarena.com/games/partnersim). Submit a one-pager by **Oct 10, 11:59 p.m.**
+  * What you need to achieve by Week 10
+  * Progress on the product
+  * Progress on customers
+  * Reflections based on feedback from peer groups
 
-### Week 8 (10/12–10/16) – Multi-modal applications & world models {#week-8}
+### Week 8 (10/12–10/16) – Personalized group advising {#week-8}
 
-* Vision, audio, and video models; integrating multi-modal capabilities into products. We then zoom out to frontier research: why some researchers are betting against pure LLMs, what world models are, and how they connect to robotics, simulation, and physical reasoning.
-* <details><summary>Readings</summary><ul>
-    <li><a href="https://platform.openai.com/docs/guides/vision">OpenAI, Vision Guide</a></li>
-    <li><a href="https://ai.google.dev/gemini-api/docs/vision">Google, Gemini Multi-Modal Capabilities</a></li>
-    <li><a href="https://docs.anthropic.com/en/docs/build-with-claude/vision">Anthropic, Vision with Claude</a></li>
-    <li><a href="https://tech-insider.org/yann-lecun-ami-labs-1-billion-world-models-2026/">Tech Insider, LeCun's AMI Labs Raises $1B for World Models</a></li>
-    <li><a href="https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch">ByteByteGo, What's Next in AI: Five Trends to Watch in 2026</a></li>
-    </ul></details>
+* Personalized advising with each project group. Teams meet with the instructor to review progress, pressure-test the idea, and decide what to do next.
 * **Homework:** Build application in teams
 * **Networking:** Evening networking event on Oct 16.
 
-### Week 9 (10/19–10/23) – AI-native workforce {#week-9}
+### Week 9 (10/19–10/23) – Personalized group advising {#week-9}
 
-* How AI is reshaping jobs, skills, and organizations. We will cover redesigning roles around agents, measuring AI-native talent, human–AI collaboration, and what builders should know as their products enter real workplaces.
-* Guest speakers: [Kolento Hou](https://www.linkedin.com/in/kolentohou) and [Cai Chen](https://www.linkedin.com/in/cai-chen-cc) (Emergences Labs)
-* <details><summary>Readings</summary><ul>
-    <li><a href="https://emergences.ai/">Emergences Labs</a></li>
-    <li><a href="https://www.anthropic.com/research/economic-index">Anthropic, Economic Index</a></li>
-    <li><a href="https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html">Deloitte, Rethinking Operating Models for Humans with Agents</a></li>
-    <li><a href="https://www.accenture.com/us-en/insights/consulting/rethinking-talent-strategy">Accenture, Rethinking Talent Strategy</a></li>
-    </ul></details>
-* **Homework:** Build application in teams. Map which tasks around your product are human-only, hybrid, or agent-only, and how that changes the user's work.
+* A second round of personalized advising with each project group, focused on what still needs to change before the internal demo day.
+* **Homework:** Play [PartnerSim](https://www.vcarena.com/games/partnersim). Submit a one-pager by **Oct 24, 11:59 p.m.**
+  * What you need to achieve by Week 10
+  * Progress on the product
+  * Progress on customers
+  * Reflections based on feedback from peer groups
 
-### Week 10 (10/26–10/30) – Demo day & beta test {#week-10}
+### Week 10 (10/26–10/30) – Preparing for the internal demo day {#week-10}
+
+* How to get ready for the internal demo day: what to show, how to tell the story, and what still has to be true about the product and the customer.
+* **Homework (deck for Demo Day II):** Upload your presentation for Demo Day II next Monday.
+
+### Week 11 (11/2–11/6) – Internal Demo Day {#week-11}
 
 * Teams present their applications and run beta testing with real users.
-
-### Week 11 (11/2–11/6) – AI for vertical domains: law, finance, healthcare {#week-11}
-
-* How LLM applications win in specific industries. Deep dive into products such as Harvey, Abridge, and Ramp. We will examine domain expertise, enterprise sales, compliance, trust-building with professional users, and why the "wrapper" framing missed what makes vertical AI defensible.
-* <details><summary>Readings</summary><ul>
-    <li><a href="https://sequoiacap.com/podcast/training-data-winston-weinberg/">Sequoia, Training Data: Harvey's Winston Weinberg</a></li>
-    <li><a href="https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/">TechCrunch, Inside Harvey</a></li>
-    <li><a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=67121">Harvard Business School, Harvey: AI for Lawyers (case study)</a></li>
-    <li><a href="https://sequoiacap.com/article/ai-retail-opportunity/">Sequoia, AI Retail Opportunity</a></li>
-    </ul></details>
 * **Homework:** Iterate based on real user feedback
 
 ### Week 12 (11/9–11/13) – Cost optimization and deployment {#week-12}
@@ -626,19 +637,22 @@ These materials are not lectured as standalone units, but are available for stud
 ### Course requirements and grading policy
 
 * **Individual assignments (30%)** — Weeks 1–4
-  * Week 1: Two writeups — one one-pager (an AI product you tried) and 1–3 pages (applications you want to build)
-  * Weeks 2–4: Three individual demos built with AI tools
+  * Week 1: Two writeups (50 points each), submitted as one PDF — a one-pager on a YC startup you explored, and an AI application you want to build
+  * Week 2: A survey of relevant companies and competitors, customer conversations, and a 12–13 slide pitch deck
+  * Week 3: A publicly hosted prototype, a 5-slide teaser, and an updated pitch deck
+  * Week 4: A refined pitch deck and demo for the lightweight demo day
 
 * **Class project (60%)** — Weeks 5–16
   * Teams of 3 students with complementary expertise (e.g., engineering, design, domain knowledge).
   * Grading based on:
     * Lightweight demo day presentation (Week 5)
-    * Beta test and demo day (Week 10)
-    * Iteration progress and user feedback incorporation (Weeks 11–15)
+    * PartnerSim one-pagers (Weeks 6, 7, and 9) and the Demo Day II deck (Week 10)
+    * Internal Demo Day (Week 11)
+    * Iteration progress and user feedback incorporation (Weeks 12–15)
     * Public demo day (Week 16)
 
 * **Peer review and participation (10%)**
-  * Reviewing and voting on classmates' demos (Week 5), beta testing other teams' products (Week 10), and engagement with guest speakers.
+  * Reviewing and voting on classmates' demos (Week 5), beta testing other teams' products (Week 11), and engagement with guest speakers.
 
 * The course will use plus-minus grading, using the following scale:
 
