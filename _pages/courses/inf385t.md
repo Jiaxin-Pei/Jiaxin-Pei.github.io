@@ -558,7 +558,6 @@ By the end of this course, students will be able to:
 
 * Personalized advising with each project group. Teams meet with the instructor to review progress, pressure-test the idea, and decide what to do next.
 * **Homework:** Build application in teams
-* **Networking:** Evening networking event on Oct 16.
 
 ### Week 9 (10/19–10/23) – Personalized group advising {#week-9}
 
