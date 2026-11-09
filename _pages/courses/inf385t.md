@@ -187,7 +187,7 @@ The University of Texas at Austin, Fall 2026
           <li><a class="course-page-toc-link" href="#week-9">Week 9: Personalized group advising</a></li>
           <li><a class="course-page-toc-link" href="#week-10">Week 10: Preparing for the internal demo day</a></li>
           <li><a class="course-page-toc-link" href="#week-11">Week 11: Internal Demo Day</a></li>
-          <li><a class="course-page-toc-link" href="#week-12">Week 12: Cost optimization and deployment</a></li>
+          <li><a class="course-page-toc-link" href="#week-12">Week 12: Demo day reflections, pitching, and go-to-market</a></li>
           <li><a class="course-page-toc-link" href="#week-13">Week 13: AI economics, moats, and go-to-market</a></li>
           <li><a class="course-page-toc-link" href="#week-14">Week 14: Thanksgiving break</a></li>
           <li><a class="course-page-toc-link" href="#week-15">Week 15: Final guest lecture &amp; pitch practice</a></li>
@@ -283,6 +283,7 @@ We welcome partnerships with investors, accelerators, and industry sponsors who 
 - **[Stan Chang](https://www.linkedin.com/in/stanchang/)** — Head of Product, [Gumshoe AI](https://gumshoe.ai/)
 - **[Matthew Hartman](https://www.linkedin.com/in/matthewforresthartman/)** — Founder & Managing Partner, [Factorial Capital](https://factorial.cc/)
 - **[Zach Meltzer](https://www.linkedin.com/in/zach-meltzer/)** — Founder & CEO, [VeryAI](https://very.org)
+- **[Dae Kim](https://www.linkedin.com/in/kimdae/)** — GTM, [TypeSafe AI](https://typesafe.ai/)
 
 
 ## Syllabus {#syllabus}
@@ -300,7 +301,7 @@ Students should be comfortable with using coding agents to build things. You don
 
 This course is organized around one central activity: building an AI product that real people can use. In the first part of the semester, students study the current AI application landscape, talk with potential users, and turn an idea into a prototype and pitch. After a lightweight demo day, students form teams around the strongest ideas and spend the rest of the course turning one prototype into a more serious product.
 
-Class time mixes guest lectures from venture capitalists and startup founders, in-class work on the product, and advising. As students develop their projects, we cover coding and personal agents, AI-native distribution, timing, demand, and product, then personalized group advising and preparation for the internal demo day. Later in the semester we cover deployment costs, defensibility, and go-to-market strategy. Students will test their products with real-world users, and at the end of the semester, we will hold a public demo day where teams can pitch directly to investors.
+Class time mixes guest lectures from venture capitalists and startup founders, in-class work on the product, and advising. As students develop their projects, we cover coding and personal agents, AI-native distribution, timing, demand, and product, then personalized group advising and preparation for the internal demo day. After the internal demo day, we reflect on what landed, then cover how to pitch and take a product to market, along with defensibility. Students will test their products with real-world users, and at the end of the semester, we will hold a public demo day where teams can pitch directly to investors.
 
 By the end of this course, students will be able to:
 
@@ -439,7 +440,7 @@ By the end of this course, students will be able to:
     <div class="phase-icon">🔄</div>
     <div class="phase-title">Iterate &amp; Ship</div>
     <div class="phase-weeks">Weeks 12–15</div>
-    <div class="phase-desc">Multi-modal, costs, moats, pitch practice</div>
+    <div class="phase-desc">Demo reflections, pitching, moats, go-to-market</div>
   </div>
   <div class="phase phase-launch">
     <div class="phase-icon">🚀</div>
@@ -624,16 +625,16 @@ By the end of this course, students will be able to:
     <li>Iterate based on real user feedback</li>
     </ul></details>
 
-### Week 12 (11/9–11/13) – Cost optimization and deployment {#week-12}
+### Week 12 (11/9–11/13) – Demo day reflections, pitching, and go-to-market {#week-12}
 
-* Caching, model selection and routing, latency optimization, serving infrastructure, and the economics of running an LLM application. We will focus on token budgeting, model sizing, and when smaller models are sufficient.
+* Reflections on the internal demo day: what landed, what did not, and what to change before the public demo. We will cover how to give a good pitch and how to take a product to market.
+* Guest speaker: [Dae Kim](https://www.linkedin.com/in/kimdae/) ([TypeSafe AI](https://typesafe.ai/))
 * <details><summary>Readings</summary><ul>
-    <li><a href="https://enricopiovano.com/blog/llm-cost-optimization-caching-strategies">Enrico Piovano, LLM Cost Engineering: Token Budgeting, Caching, and Model Routing</a></li>
-    <li><a href="https://redis.io/blog/large-language-model-operations-guide/">Redis, LLMOps Guide: Build Fast, Cost-Effective LLM Apps</a></li>
-    <li><a href="https://blog.gopenai.com/optimizing-large-language-model-infrastructure-a-practitioners-guide-to-latency-cost-and-46f9002152bc">GoPenAI, Optimizing LLM Infrastructure: Latency, Cost, and Quality Trade-offs</a></li>
+    <li><a href="https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck">Y Combinator, How to Design a Better Pitch Deck</a></li>
+    <li><a href="https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck">Y Combinator, How to Build Your Seed Round Pitch Deck</a></li>
     </ul></details>
 * <details><summary>Homework</summary><ul>
-    <li>Iterate based on real user feedback</li>
+    <li>Iterate based on demo day and real user feedback. Revise the pitch for the public demo day.</li>
     </ul></details>
 
 ### Week 13 (11/16–11/20) – AI economics, moats, and go-to-market {#week-13}
