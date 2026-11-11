@@ -19,7 +19,7 @@ In Fall 2026, partnering with OpenAI, I am teaching **[Building Large Language M
 (Unfortunately we are not offering this class in the Spring semester.)
 
 ## News
-* Interviewed with NPR and shared our latest research on AI Agents! 
+* Interviewed with [NPR](https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data) and shared our latest research on AI Agents! 
 * Released [Realtime-Bench](https://arxiv.org/abs/2610.22155), a benchmark for whether frontier models can solve real-time interactive problems. [[Website]](https://realtimeagents.org/) • [[Code]](https://github.com/RealtimeAgents/Realtime-Bench)
 * Released [AISPA](https://arxiv.org/abs/2607.28617), the first user-centric system prompt standard for large language model applications and [SystemPromptIndex](https://systempromptindex.ai/aispa), the largest open system prompt library in the world. 
 * Our paper on [how AI agents spend tokens](https://arxiv.org/abs/2604.22750) was covered by [Fast Company](https://www.fastcompany.com/91572876/the-ai-economy-runs-on-this-incredibly-vague-unit), [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model#/), [Financial Times](https://ig.ft.com/ai-tokens/?accessToken=zwAAAaD2RgF7kc8jmwPtJzdNudOxLaAd9rZ2wQ.MEYCIQC-ZdVD-VVohnvB-TG5LBZHkrDDkOgK68dXBdNNhMT5YAIhAJYK7OMibZyEV_cPmte5KO0rf6yk9xNdv9-DVm7vvkOC&sharetype=gift&syn-25a6b1a6=1&token=32e5bd39-bd06-404f-981e-2adc8458c6f5), and [Forbes](https://www.forbes.com/councils/forbesfinancecouncil/2026/09/28/the-real-cost-of-ai-for-banks-and-insurers-is-not-the-price-of-a-token/).
